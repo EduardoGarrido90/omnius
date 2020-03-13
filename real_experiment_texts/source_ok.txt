@@ -1,0 +1,3 @@
+The probability of the source being non trust worthy is : 62.2033386632 %
+According to the given threshold, it is a trust worthy source
+The confidence degree of the decision based in the threshold and the probability of the source is 12.534152513895119 %

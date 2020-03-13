@@ -1,0 +1,8 @@
+"But this wasn't always the case. Today, smoking causes nearly 9 out of 10 lung cancer deaths, while radon gas, pollution, and other things play a smaller role"
+smoking -> Lung Cancer (constantly)
+radon gas -> Lung Cancer (hardly ever)
+secondhand smoke -> Lung Cancer (hardly ever)
+"Cigs = lung cancer & DEATH" 
+Smoking -> Lung Cancer (always)
+Lung Cancer -> Death (always)
+

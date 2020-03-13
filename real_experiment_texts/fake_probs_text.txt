@@ -1,0 +1,15 @@
+smoking -> Lung Cancer (constantly) (sometimes) 
+0.49385885883137925
+
+radon gas -> Lung Cancer (hardly ever) (frequently)
+0.6566108640545503
+
+secondhand smoke -> Lung Cancer (hardly ever) (hardly ever)
+0.5593674384496017
+
+Smoking -> Lung Cancer (always) (sometimes)
+0.7145731310186252
+
+Lung Cancer -> Death (always) (often)
+0.6857566408067244
+

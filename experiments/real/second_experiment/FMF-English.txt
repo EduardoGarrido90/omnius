@@ -1,0 +1,3483 @@
+The 11–13+6 weeks scan 
+Kypros H. Nicolaides 
+
+The 11–13+6 weeks scan
+Fetal Medicine Foundation, London 2004
+
+Dedication 
+to 
+Herodotos & Despina 
+
+Contents 
+Introduction 
+1. First trimester diagnosis of chromosomal defects 
+Rosalinde Snijders, Kypros Nicolaides ......... 7
+Diagnosis of chromosomal defects .......... 7
+Screening for chromosomal defects ..........11
+Patient-specific risk for chromosomal defects ...... 13
+Nuchal translucency thickness ........... 21
+Womens’ attitudes to 1st versus 2nd trimester screening .. . 42
+2. Sonographic features of chromosomal defects 
+Victoria Heath, Kypros Nicolaides ..........45
+First trimester ultrasonography ........... 45
+Second trimester ultrasonography ..........58
+3. Increased nuchal translucency with normal karyotype 
+Athena Souka, Constantin von Kaisenberg, Kypros Nicolaides 71
+Outcome of fetuses with increased nuchal translucency 72
+Abnormalities associated with increased nuchal translucency . 74
+Pathophysiology of increased nuchal translucency ..... 85
+Management of pregnancies with increased nuchal
+translucency ..................88
+4. Multiple pregnancy 
+Neil Sebire, Kypros Nicolaides ......... 95
+Prevalence and epidemiology .......... 95
+Determination of zygosity and chorionicity .......97
+Chorionicity and pregnancy complications .......98
+Chromosomal defects in multiple pregnancies ..... . 105
+
+
+Introduction 
+In 1866 Langdon Down noted that common characteristics of patients with 
+trisomy 21 are skin deficient in elasticity, giving the appearance of being too 
+large for the body, and flat face with a small nose. In the 1990s, it was realized 
+that the excess skin of individuals with Down’s syndrome can be visualized by 
+ultrasonography as increased nuchal translucency in the third month of 
+intrauterine life. Fetal nuchal translucency thickness at the 11–13+6 weeks 
+scan has been combined with maternal age to provide an effective method of 
+screening for trisomy 21; for an invasive testing rate of 5%, about 75% of 
+trisomic pregnancies can be identified. When maternal serum free ß-human 
+chorionic gonadotropin and pregnancy-associated plasma protein-A at 
+11–13+6 weeks are also taken into account, the detection rate of chromosomal 
+defects is about 85–90%. In 2001, it was found that in 60–70% of fetuses 
+with trisomy 21 the nasal bone is not visible at the 11–13+6 weeks scan and 
+examination of the nasal bone can increase the detection rate of screening by 
+the first trimester scan and serum biochemistry to more than 95%. 
+In addition to its role in the assessment of risk for trisomy 21, increased 
+nuchal translucency thickness can also identify a high proportion of other 
+chromosomal defects and is associated with major abnormalities of the heart 
+and great arteries, and a wide range of genetic syndromes. 
+Other benefits of the 11–13+6 weeks scan include confirmation that the 
+fetus is alive, accurate dating of the pregnancy, early diagnosis of major fetal 
+abnormalities, and the detection of multiple pregnancies. The early scan also 
+provides reliable identification of chorionicity, which is the main determinant 
+of outcome in multiple pregnancies. 
+As with the introduction of any new technology into routine clinical practice, 
+it is essential that those undertaking the 11–13+6 weeks scan are adequately 
+trained and their results are subjected to rigorous audit. The Fetal Medicine 
+Foundation, has introduced a process of training and certification to help to 
+establish high standards of scanning on an international basis. The Certificate 
+of Competence in the 11–13+6 weeks scan is awarded to those sonographers 
+that can perform the scan to a high standard and can demonstrate a good 
+knowledge of the diagnostic features and management of the conditions 
+identified by this scan. 
+
+
+1
+FIRST TRIMESTER 
+DIAGNOSIS OF CHROMOSOMAL DEFECTS 
+In 1866, Langdon Down reported that in individuals with 
+trisomy 21, the condition that came to bear his name, the skin 
+appears to be too large for the body, the nose is small and the face 
+is flat. In the last decade it has become possible to observe 
+these features by ultrasound examination in the third month of 
+intrauterine life. 
+About 75% of trisomy 21 fetuses have increased nuchal translucency 
+(NT) thickness and 60–70% have absent nasal bone 
+(Figures 1 and 2). 
+DIAGNOSIS OF CHROMOSOMAL DEFECTS 
+Non-invasive diagnosis 
+During the last 30 years, extensive research has aimed at developing 
+a non-invasive method for prenatal diagnosis based on the 
+isolation and examination of fetal cells found in the maternal 
+circulation. About 1 in 103–107 nucleated cells in maternal blood 
+are fetal. The proportion of fetal cells can be enriched to about 1 
+in 10–100 by techniques such as magnetic cell sorting (MACS) 
+or fluorescence activated cell sorting (FACS) after attachment of 
+magnetically labelled or fluorescent antibodies on to specific fetal 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Figure 1. Fetus with subcutaneous collection of fluid at the back of the neck. Image kindly provided by 
+Dr Eva Pajkrt, University of Amsterdam. 
+Figure 2. Ultrasound picture of a 12-week fetus with trisomy 21, demonstrating increased nuchal 
+translucency thickness and absent nasal bone. 
+cell surface markers. The resulting sample is unsuitable for traditional 
+cytogenetic analysis because it is still highly contaminated 
+with maternal cells. However, with the use of chromosome-
+specific DNA probes and fluorescent in situ hybridization 
+(FISH), it is possible to suspect fetal trisomy by the presence of 
+The 11–13+6 weeks scan 
+
+three-signal nuclei in some of the cells of the maternal blood 
+enriched for fetal cells. 
+On the basis of currently available technology, examination of 
+fetal cells from maternal peripheral blood is more likely to find 
+an application as a method for assessment of risk, rather than 
+the non-invasive prenatal diagnosis of chromosomal defects. The 
+sensitivity of this method is comparable to serum screening. 
+However, unlike serum biochemistry testing, which is relatively 
+easy to apply for mass population screening, analysis of fetal cells 
+from maternal blood is both labor intensive and requires highly 
+skilled operators. The extent to which the techniques for enrichment 
+of fetal cells could be improved, to achieve a higher yield 
+of the necessary cells, as well as become automated, to allow 
+simultaneous analysis of a large number of samples, remains to 
+be seen. 
+Recent interest has focused on the presence of cell-free fetal 
+DNA in maternal plasma and the ability to quantify the concentration 
+of male fetal DNA in pregnancies with male fetuses using 
+real-time quantitative PCR. There is contradictory evidence 
+concerning the concentration of cell-free fetal DNA in trisomy 
+21 pregnancies with some studies reporting that the levels are 
+increased and in others there was no significant difference from 
+chromosomally normal pregnancies. The extent to which cell-free 
+fetal DNA will become another maternal serum marker in 
+screening for trisomy 21 remains to be seen. 
+Non-invasive diagnosis 
+• Examination of fetal cells from maternal peripheral blood is 
+more likely to find an application as a method for assessment 
+of risk, rather than the non-invasive prenatal diagnosis of 
+chromosomal defects. 
+• There is contradictory evidence concerning the concentration 
+of cell-free fetal DNA in trisomy 21 pregnancies. 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Invasive diagnosis 
+Amniocentesis 
+There is only one randomized trial which compared the risks of 
+amniocentesis to controls. In this study, 4,606 low-risk, healthy 
+women, 25–34 years old, at 14–20 weeks of gestation, were 
+randomly allocated to amniocentesis or ultrasound examination 
+alone (Tabor et al 1986). The total fetal loss rate in the patients 
+having amniocentesis was 1% higher than in the controls. The 
+study also reported that amniocentesis was associated with an 
+increased risk of respiratory distress syndrome and pneumonia. 
+Amniocentesis is also possible at 10–14 weeks of gestation. 
+However, randomized studies have demonstrated that after early 
+amniocentesis the rate of fetal loss is about 2% higher and 
+the incidence of talipes equinovarus is 1.6% higher than after 
+first-trimester chorionic villus sampling or second-trimester 
+amniocentesis. 
+Chorionic villus sampling 
+Randomized studies have demonstrated that the rate of fetal 
+loss following first-trimester transabdominal chorionic villus 
+sampling is the same as with second-trimester amniocentesis. 
+There is controversy as to whether the rate of fetal loss after 
+transcervical chorionic villus sampling is higher or not. 
+It is likely that in centres with experience in ultrasound guided 
+invasive procedures the risks of amniocentesis and chorionic 
+villous sampling, irrespective of route, are the same. 
+There is an association between chorionic villus sampling before 
+10 weeks and fetal transverse limb abnormalities, micrognathia 
+and microglossia. It is therefore imperative that chorionic villus 
+The 11–13+6 weeks scan 
+
+sampling is performed only after 11 weeks by appropriately 
+trained operators. 
+Invasive testing 
+•Diagnosis of fetal chromosomal defects requires invasive 
+testing. 
+•The risk of miscarriage from chorionic villus sampling in the 
+first trimester is the same as for amniocentesis in the second 
+trimester. 
+•Amniocentesis should not be performed before 15 weeks. 
+•Chorionic villous sampling should not be performed before 
+11 weeks. 
+•Invasive tests should be carried out by appropriately trained 
+and experienced operators. 
+SCREENING FOR CHROMOSOMAL DEFECTS 
+In prenatal screening for trisomy 21, the term screen positive rate 
+is used interchangeably with the invasive testing rate, because most 
+women with a positive screening test undergo an invasive test, 
+and with false positive rate (FPR) because the vast majority of 
+fetuses in this group are normal. 
+The first method of screening for trisomy 21, introduced in the 
+early 1970s, was based on the association with advanced maternal 
+age. It was apparent that amniocentesis carried a risk of miscarriage 
+and this in conjunction with the financial cost implications, 
+meant that prenatal diagnosis could not be offered to 
+the entire pregnant population. Consequently, amniocentesis was 
+initially offered only to women with a minimum age of 40 years. 
+Gradually, as the application of amniocentesis became more 
+widespread and it appeared to be ‘safe’, the ‘high-risk’ group was 
+redefined to include women with a minimum age of 35 years; 
+this ‘high-risk’ group constituted 5% of the pregnant population. 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+In the last 30 years, two dogmatic policies have emerged in terms 
+of screening. The first, mainly observed in countries with private 
+healthcare systems, adhered to the dogma of the 35 years of age 
+or equivalent risk; since the maternal age of pregnant women has 
+increased in most developed countries, the screen-positive group 
+now constitute about 15% of pregnancies. The second policy, 
+instituted in countries with national health systems, has adhered 
+to the dogma of offering invasive testing to the 5% group of 
+women with the highest risk; in the last 20 years, the cut-off age 
+for invasive testing has therefore increased from 35 to 38 years. 
+In screening by maternal age with a cut-off age of 38 years, 5% 
+of the population is classified as ‘high risk’ and this group 
+contains about 30% of trisomy 21 babies. 
+In the late 1980s, a new method of screening was introduced that 
+takes into account not only maternal age but also the concentration 
+of various fetoplacental products in the maternal circulation. 
+At 16 weeks of gestation the median maternal serum concentrations 
+of a-fetoprotein (AFP), uconjugated estriol (uE3), human 
+chorionic gonadotropin (hCG) (total and free-b) and inhibin-A 
+in trisomy 21 pregnancies are sufficiently different from normal 
+to allow the use of combinations of some or all of these 
+substances to select a ‘high-risk’ group. This method of screening 
+is more effective than maternal age alone and, for the same 
+rate of invasive testing (about 5%), it can identify about 50–70% 
+of the fetuses with trisomy 21. 
+In the 1990s, screening by a combination of maternal age and 
+fetal NT thickness at 11–13+6 weeks of gestation was introduced. 
+This method has now been shown to identify about 75% 
+of affected fetuses for a screen-positive rate of about 5%. 
+Subsequently, maternal age was combined with fetal NT and 
+maternal serum biochemistry (free b-hCG and PAPP-A) in the 
+The 11–13+6 weeks scan 
+
+Sampling 
+•
+•
+Chorionic 
+Villous Counselling 
+Screening 
+Ultrasound 
+Biochemistry 
+Figure 3. Assessment of risk for chromosomal defects can be achieved by the combination of maternal 
+age, ultrasound examination for measurement of fetal nuchal translucency and assessment for the 
+presence/absence of the nasal bone and biochemical measurement of maternal serum free b-hCG and 
+PAPP-A in an one-stop clinic at 11–13+6 weeks of gestation. After counselling, the patient can decide if 
+she wants fetal karyotyping, which can be carried out by chorionic villus sampling in the same visit. 
+first-trimester to identify about 85–90% of affected fetuses. 
+Furthermore, the development of new methods of biochemical 
+testing, within 30 min of taking a blood sample, made it possible 
+to introduce One-Stop Clinics for Assessment of Risk (Figure 3). 
+In 2001, it was found that in 60–70% of fetuses with trisomy 21 
+the nasal bone is not visible by ultrasound at 11–13+6 weeks and 
+preliminary results suggest that this finding can increase the 
+detection rate of the first trimester scan and serum biochemistry 
+to more than 95% (Table 1). 
+PATIENT-SPECIFIC RISK FOR CHROMOSOMAL DEFECTS 
+Every woman has a risk that her fetus/baby has a chromosomal 
+defect. In order to calculate the individual risk, it is necessary to 
+take into account the background or a priori risk, which depends 
+on maternal age and gestation, and multiply this by a series of 
+factors or likelihood ratios, which depend on the results of a series 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Table 1. Comparison of the detection rates (DR), for a false positive rate of 5%, of different methods of 
+screening for trisomy 21. In prenatal screening, the term screen positive rate is used interchangeably with 
+the invasive rate, because most women with a positive screening test undergo an invasive test, and with 
+false positive rate (FPR) because the vast majority of fetuses in this group are normal. 
+Method of screening DR (%) 
+Maternal age (MA) 30 
+MA and maternal serum biochemistry at 15–18 weeks 50–70 
+MA and fetal nuchal translucency (NT) at 11–13+6 wks 70–80 
+MA and fetal NT and maternal serum free b-hCG and 85–90 
+PAPP-A at 11–13+6 wks 
+MA and fetal NT and fetal nasal bone (NB) at 11–13+6 wks 90 
+MA and fetal NT and NB and maternal serum free b-hCG and 95 
+PAPP-A at 11–13+6 wks 
+hCG human chorionic gonadotropin, PAPP-A: pregnancy-associated plasma protein A 
+of screening tests carried out during the course of the pregnancy 
+to determine the patient-specific risk. 
+The likelihood ratio for a given sonographic or biochemical 
+measurement is calculated by dividing the percentage of chromosomally 
+abnormal fetuses by the percentage of normal fetuses 
+with that measurement. 
+Every time a test is carried out the a priori risk is multiplied by 
+the likelihood ratio of the test to calculate a new risk, which then 
+becomes the a priori risk for the next test (Snijders and 
+Nicolaides 1996). This process of sequential screening necessitates 
+that the different tests are independent of each other. If the 
+tests are not independent of each other then more sophisticated 
+techniques, involving multivariate statistics, can be used to 
+calculate the combined likelihood ratio. With the introduction of 
+OSCAR, the process of sequential screening can all be achieved 
+in one session at about 12 weeks of pregnancy (Figure 3). 
+The 11–13+6 weeks scan 
+
+Sequential screening 
+•Every woman has a risk that her fetus/baby has a chromosomal 
+defect. 
+•The background or a priori risk depends on maternal age 
+and gestation. 
+•The individual patient-specific risk is calculated by multiplying 
+the a priori risk with a series of likelihood ratios, which 
+depend on the results of a series of screening tests carried out 
+during the course of the pregnancy. 
+•Every time a test is carried out the a priori risk is multiplied by 
+the likelihood ratio of the test to calculate a new risk, which 
+then becomes the a priori risk for the next test. 
+Maternal age and gestation 
+The risk for many of the chromosomal defects increases with 
+maternal age (Figure 4). Additionally, because fetuses with 
+chromosomal defects are more likely to die in utero than normal 
+fetuses, the risk decreases with gestational age (Figure 5). 
+0.1 
+1 
+10 
+20 25 30 35 40 44 
+TriTriTrii.0 0001 
+.0 001 
+0.01 
+Maternal age (yrs) 
+Risk % 
+somy 21 
+somy 18 
+somy 13 
+XXX/XXY/XYY 
+45XO 
+Trploidy 
+Figure 4. Maternal age-related risk for chromosomal abnormalities. 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Tri0 
+20 
+40 
+60 
+80 
+10 15 20 25 30 35 40 
+TriTrii%
+somy 21 
+100 
+somy 18 
+somy 13 
+Trploidy 
+XXX/XXY/XYY 
+45XO 
+Gestation (wks) 
+Figure 5. Gestational age-related risk for chromosomal abnormalities. The lines represent the relative risk 
+according to the risk at 10 weeks of gestation. 
+Estimates of the maternal age-related risk for trisomy 21 at birth 
+are based on surveys carried out before the introduction of 
+prenatal diagnosis (Hecht and Hook 1994). In the last 15 years, 
+with the introduction of maternal serum biochemical testing and 
+ultrasound screening for chromosomal defects at different stages 
+of pregnancy, it has become necessary to establish maternal age 
+and gestational age-specific risks for chromosomal defects 
+(Snijders et al 1995, 1999). Such estimates were derived by 
+comparing, in women of the same age, the prevalence of trisomy 
+21 at birth to the prevalence at the time of second-trimester 
+amniocentesis or first-trimester chorionic villus sampling. 
+The rates of spontaneous fetal death in trisomy 21 between 12 
+weeks (when NT screening is carried out) and 40 weeks is about 
+30% and between 16 weeks (when second trimester maternal 
+serum biochemical testing is carried out) and 40 weeks is about 
+20%. 
+Similar methods were used to produce estimates of risks for other 
+chromosomal defects. The risk for trisomies 18 and 13 increases 
+with maternal age and decreases with gestation; the rate of 
+The 11–13+6 weeks scan 
+
+miscarriage or fetal death between 12 weeks and 40 weeks is 
+about 80% (Table 2). Turner syndrome is usually due to loss of 
+the paternal X chromosome and, consequently, the frequency 
+of conception of 45,XO embryos, unlike that of trisomies, is 
+unrelated to maternal age. The prevalence is about 1 per 1500 at 
+12 weeks, 1 per 3000 at 20 weeks and 1 per 4000 at 40 weeks. 
+For the other sex chromosome abnormalities (47,XXX, 47,XXY 
+and 47,XYY), there is no significant change with maternal age 
+and since the rate of fetal death is not higher than in chromosomally 
+normal fetuses, the overall prevalence (about 1 per 500) 
+does not decrease with gestation. Polyploidy affects about 2% of 
+recognized conceptions but it is highly lethal and thus very rarely 
+observed in live births; the prevalences at 12 and 20 weeks are 
+about 1 per 2000 and 1 per 250 000, respectively. 
+Effect of maternal age and gestation on risk 
+•The risk for trisomies increases with maternal age. 
+•The risk for Turner syndrome and triploidy does not change 
+with maternal age. 
+•The earlier the gestation, the higher the risk for chromosomal 
+defects. 
+•The rates of fetal death in trisomy 21 between 12 weeks 
+(when NT screening is carried out) and 40 weeks is about 
+30% and between 16 weeks (when second trimester maternal 
+serum biochemical testing is carried out) and 40 weeks is 
+about 20%. 
+•In trisomies 18 and 13 and Turner syndrome, the rate of fetal 
+death between 12 and 40 weeks is about 80%. 
+Previous affected pregnancy 
+The risk for trisomies in women who have had a previous fetus 
+or child with a trisomy is higher than the one expected on the 
+basis of their age alone. In women who had a previous pregnancy 
+with trisomy 21, the risk of recurrence in the subsequent 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Table 2. Estimated risk for trisomies 21, 18 and 13 (1/number given in the table) in relation to maternal age and gestation.
+Maternalage (yrs) 
+Trisomy 21Gestation (wks) 
+Trisomy 18Gestation (wks) 
+Trisomy 13Gestation (wks) 
+12 
+16 
+20 
+40 
+12 
+16 
+20 
+40 
+12 
+16 
+20 
+40 
+20 
+1068 
+1200 
+1295 
+1527 
+2484 
+3590 
+4897 
+18013 
+7826 
+11042 
+14656 
+42423 
+25 
+946 
+1062 
+1147 
+1352 
+2200 
+3179 
+4336 
+15951 
+6930 
+9778 
+12978 
+37567 
+30 
+626 
+703 
+759 
+895 
+1456 
+2103 
+2869 
+10554 
+4585 
+6470 
+8587 
+24856 
+31 
+543 
+610 
+658 
+776 
+1263 
+1825 
+2490 
+9160 
+3980 
+5615 
+7453 
+21573 
+32 
+461 
+518 
+559 
+659 
+1072 
+1549 
+2114 
+7775 
+3378 
+4766 
+6326 
+18311 
+33 
+383 
+430 
+464 
+547 
+891 
+1287 
+1755 
+6458 
+2806 
+3959 
+5254 
+15209 
+34 
+312 
+350 
+378 
+446 
+725 
+1047 
+1429 
+5256 
+2284 
+3222 
+4277 
+12380 
+35 
+249 
+280 
+302 
+356 
+580 
+837 
+1142 
+4202 
+1826 
+2576 
+3419 
+9876 
+36 
+196 
+220 
+238 
+280 
+456 
+659 
+899 
+3307 
+1437 
+2027 
+2691 
+7788 
+37 
+152 
+171 
+185 
+218 
+354 
+512 
+698 
+2569 
+1116 
+1575 
+2090 
+6050 
+38 
+117 
+131 
+142 
+167 
+272 
+393 
+537 
+1974 
+858 
+1210 
+1606 
+4650 
+39 
+89 
+100 
+108 
+128 
+208 
+300 
+409 
+1505 
+654 
+922 
+1224 
+3544 
+40 
+68 
+76 
+82 
+97 
+157 
+227 
+310 
+1139 
+495 
+698 
+927 
+2683 
+41 
+51 
+57 
+62 
+73 
+118 
+171 
+233 
+858 
+373 
+526 
+698 
+2020 
+42 
+38 
+43 
+46 
+55 
+89 
+128 
+175 
+644 
+280 
+395 
+524 
+1516 
+The 11–13+6 weeks scan 
+
+pregnancy is 0.75% higher than the maternal and gestational 
+age-related risk for trisomy 21 at the time of testing. Thus, for a 
+woman aged 35 years who has had a previous baby with trisomy 
+21, the risk at 12 weeks of gestation increases from 1 in 249 
+(0.40%) to 1 in 87 (1.15%), and, for a woman aged 25 years, it 
+increases from 1 in 946 (0.106%) to 1 in 117 (0.856%). 
+The possible mechanism for this increased risk is that a small 
+proportion (less than 5%) of couples with a previously affected 
+pregnancy have parental mosaicism or a genetic defect that interferes 
+with the normal process of dysjunction, so in this group the 
+risk of recurrence is increased substantially. In the majority of 
+couples (more than 95%), the risk of recurrence is not actually 
+increased. Currently available evidence suggests that recurrence 
+is chromosome-specific and, therefore, in the majority of cases, 
+the likely mechanism is parental mosaicism. 
+Recurrence of chromosomal defects 
+• If a woman has had a previous fetus or baby with a trisomy, 
+the risk in the current pregnancy is 0.75% higher than her a 
+priori risk. 
+• Recurrence is chromosome-specific. 
+Fetal nuchal translucency 
+Fetal NT normally increases with gestation (crown–rump 
+length). In a fetus with a given crown–rump length, every NT 
+measurement represents a likelihood ratio which is multiplied by 
+the a priori maternal and gestational age-related risk to calculate 
+a new risk. The larger the NT, the higher the likelihood ratio 
+becomes and therefore the higher the new risk. In contrast, the 
+smaller the NT measurement, the smaller the likelihood ratio 
+becomes and therefore the lower the new risk (Figure 6). 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+0.01 
+0.1 
+1 
+10 
+100 
+20 25 30 35 40 45 
+i 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Maternal age (yrs) 
+Risk (%) 
+5.0 mm 
+3.5 mm 
+3.0 mm 
+2.5 mm 
+a prior
+Figure 6. Maternal age-related risk for trisomy 21 at 12 weeks of gestation (a priori) and the effect of 
+fetal nuchal translucency thickness (NT). 
+Nasal bone and other first-trimester sonographic markers 
+At 11–13+6 weeks the nasal bone is not visible by ultrasonography 
+in about 60–70% of fetuses with trisomy 21 and in 
+about 2% of chromosomally normal fetuses. Abnormalities in the 
+flow velocity waveform from the ductus venosus are observed 
+in about 80% of fetuses with trisomy 21 and in 5% of 
+chromosomally normal fetuses. 
+Similarly, the prevalence of other sonographic markers, such as 
+exomphalos, megacystis and single umbilical artery, are higher 
+in certain chromosomal abnormalities than in chromosomally 
+normal fetuses. Each of these sonographic markers is associated 
+with a likelihood ratio, which can be multiplied by the a priori 
+risk to calculate a new risk. 
+Maternal serum biochemistry in the first-trimester 
+The level of free b-hCG in maternal blood normally decreases 
+with gestation. In trisomy 21 pregnancies free b-hCG is 
+The 11–13+6 weeks scan 
+
+increased. The level of PAPP-A in maternal blood normally 
+increases with gestation and in trisomy 21 pregnancies the level is 
+decreased. For a given gestation, each b-hCG and PAPP-A level 
+represents a likelihood ratio that is multiplied by the a priori risk 
+to calculate the new risk. The higher the level of b-hCG and the 
+lower the level of PAPP-A the higher the risk for trisomy 21 
+(Figure 7). 
+NUCHAL TRANSLUCENCY THICKNESS 
+Cystic hygromas, nuchal edema and nuchal translucency 
+During the second and third trimesters of pregnancy, abnormal 
+accumulation of fluid behind the fetal neck can be classified as 
+nuchal cystic hygroma or nuchal edema. In about 75% of fetuses 
+with cystic hygromas, there is a chromosomal abnormality and, in 
+about 95% of cases, the abnormality is Turner syndrome. Nuchal 
+edema has a diverse etiology; chromosomal abnormalities are 
+found in about one-third of the fetuses and, in about 75% of 
+0.1 
+1 
+10 
+100 
+25 30 35 40 45 
+0.01 
+20 
+i 
+Ri(%) 
+0.33 MoM 
+0.50 MoM 
+0.25 MoM 
+0.1 
+1 
+10 
+100 
+25 30 35 40 45 
+i 
+0.01 
+20 
+4.0 MoM 
+3.0 MoM 
+2.0 MoM 
+ß-hCGMaternal Age (yrs) 
+PAPP-Aa priorsk 
+Maternal Age (yrs) 
+Risk (%) 
+a prior
+Figure 7. Maternal age-related risk for trisomy 21 at 12 weeks of gestation (a priori) and the effect of 
+maternal serum free b-hCG (left) and PAPP-A (right). 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+cases, the abnormality is trisomy 21 or 18. Edema is also associated 
+with fetal cardiovascular and pulmonary defects, skeletal 
+dysplasias, congenital infections and metabolic and hematological 
+disorders; consequently, the prognosis for chromosomally normal 
+fetuses with nuchal edema is poor. 
+In the first trimester, the term translucency is used, irrespective 
+of whether it is septated or not and whether it is confined to the 
+neck or envelopes the whole fetus. During the second trimester, 
+the translucency usually resolves and, in a few cases, it evolves 
+into either nuchal edema or cystic hygromas with or without 
+generalized hydrops. Neither the incidence of chromosomal 
+defects nor the prognosis can be predicted by the ultrasonographic 
+appearance of the lesion. 
+Increased NT is associated with trisomy 21, Turner syndrome and 
+other chromosomal defects as well as many fetal malformations 
+and genetic syndromes. The incidence of these abnormalities 
+is related to the thickness, rather than the appearance, of NT. 
+Furthermore, it is possible to standardize and audit the results of 
+a measurement but not those of a subjective appearance. 
+Nuchal translucency – definition 
+•Nuchal translucency is the sonographic appearance of subcutaneous 
+accumulation of fluid behind the fetal neck in the 
+first trimester of pregnancy. 
+•The term translucency is used, irrespective of whether it is 
+septated or not and whether it is confined to the neck or 
+envelopes the whole fetus. 
+•The incidence of chromosomal and other abnormalities is 
+related to the size, rather than the appearance of NT. 
+•During the second trimester, the translucency usually resolves 
+and, in a few cases, it evolves into either nuchal edema or 
+cystic hygromas with or without generalized hydrops. 
+The 11–13+6 weeks scan 
+
+Measurement of nuchal translucency 
+The ability to achieve a reliable measurement of NT is dependent 
+on appropriate training and adherence to a standard technique in 
+order to achieve uniformity of results among different operators. 
+Gestation and crown-rump length 
+The optimal gestational age for measurement of fetal NT is 11 
+weeks to 13 weeks and 6 days. The minimum fetal crown–rump 
+length should be 45 mm and the maximum 84 mm. 
+There are two reasons for selecting 11 weeks as the earliest 
+gestation for measurements of NT. Firstly, screening necessitates 
+the availability of a diagnostic test and chorionic villous sampling 
+before this gestation is associated with transverse limb reduction 
+defects. Secondly, many major fetal defects can be diagnosed at 
+the NT scan, provided the minimum gestation is 11 weeks. For 
+example, diagnosis or exclusion of acrania and therefore anencephaly, 
+cannot be made before 11 weeks because sonographic 
+assessment of ossification of the fetal skull is not reliable before 
+this gestation. Examination of the four-chamber view of the heart 
+and main arteries is possible only after 10 weeks. At 8–10 weeks 
+all fetuses demonstrate herniation of the midgut that is visualized 
+as a hyperechogenic mass in the base of the umbilical cord, and 
+it is therefore unsafe to diagnose or exclude exomphalos at this 
+gestation. The fetal bladder can be visualized in only 50% of 
+fetuses at 10 weeks, in 80% at 11 weeks and in all cases by 
+12 weeks. 
+The reasons for selecting 13 weeks and 6 days as the upper limit 
+are firstly, to provide women with affected fetuses the option 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+of first rather than second trimester termination, secondly, the 
+incidence of abnormal accumulation of nuchal fluid in chromosomally 
+abnormal fetuses is lower at 14–18 weeks than before 
+14 weeks, and thirdly, the success rate for taking a measurement 
+at 10–13 weeks is 98–100%, falling to 90% at 14 weeks because 
+the fetus becomes vertical making it more difficult to obtain the 
+appropriate image. 
+Image and measurement 
+In the assessment of fetal NT the ultrasound machine should be 
+of high resolution with a video-loop function and callipers that 
+provide measurements to one decimal point. Fetal NT can be 
+measured successfully by transabdominal ultrasound examination 
+in about 95% of cases; in the others, it is necessary to perform 
+transvaginal sonography. The results from transabdominal and 
+transvaginal scanning are similar. 
+Only the fetal head and upper thorax should be included in the 
+image for measurement of NT (Figure 8a). The magnification 
+should be as large as possible and always such that each slight 
+movement of the callipers produces only a 0.1 mm change in the 
+measurement. In magnifying the image, either pre or post freeze 
+zoom, it is important to turn the gain down. This avoids the 
+mistake of placing the calliper on the fuzzy edge of the line which 
+causes an underestimate of the nuchal measurement. 
+A good sagittal section of the fetus, as for measurement of fetal 
+crown–rump length, should be obtained and the NT should be 
+measured with the fetus in the neutral position. When the fetal 
+neck is hyperextended the measurement can be increased by 
+0.6 mm and when the neck is flexed, the measurement can be 
+decreased by 0.4 mm. 
+The 11–13+6 weeks scan 
+
+(a) (b) 
+(c) (d) 
+(e) (f) 
+Figure 8. Ultrasound pictures of 12-weeks fetus. In all six images there is a good sagittal section of the 
+fetus. Image (a) is appropriate for measurement of the nuchal translucency (NT) because only the fetal 
+head and upper thorax are included and the nuchal membrane, which is thin, can be seen separate from 
+the amniotic membrane. In (b) the magnification is too small for accurate measurement of NT. In (c) the 
+fetal neck is hyperextended and in (d) the neck is too flexed. In (e) the maximum measurement of NT 
+should be taken. In (f) the umbilical cord is round the neck. In this case the NT should be measured both 
+above and below the cord and the average of the two measurements should be used in the calculation 
+of risk. 
+Care must be taken to distinguish between fetal skin and amnion 
+because, at this gestation, both structures appear as thin membranes 
+(Figure 8a). This is achieved by waiting for spontaneous 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+fetal movement away from the amniotic membrane; alternatively, 
+the fetus is bounced off the amnion by asking the mother to 
+cough and/or by tapping the maternal abdomen. 
+The maximum thickness of the subcutaneous translucency 
+between the skin and the soft tissue overlying the cervical spine 
+should be measured (Figure 8e). The callipers should be placed 
+on the lines that define the NT thickness – the crossbar of the 
+calliper should be such that it is hardly visible as it merges with 
+the white line of the border and not in the nuchal fluid. During 
+the scan, more than one measurement must be taken and the 
+maximum one should be recorded. 
+The umbilical cord may be round the fetal neck in 5–10% of 
+cases and this finding may produce a falsely increased NT. In 
+such cases, the measurements of NT above and below the cord 
+are different and, in the calculation of risk, it is more appropriate 
+to use the average of the two measurements (Figure 8f ). 
+There are no clinically relevant effects on NT measurements 
+by ethnic origin, parity or gravidity, cigarette smoking, diabetic 
+control, conception by assisted reproduction techniques, bleeding 
+in early pregnancy or fetal gender. 
+The intra-observer and inter-observer differences in measurements 
+of fetal NT are less than 0.5 mm in 95% of cases. 
+Deviation in measurement from normal 
+Fetal NT increases with crown–rump length and therefore it 
+is essential to take gestation into account when determining 
+whether a given NT thickness is increased. In a study involving 
+96,127 pregnancies, the median and 95th centile at a 
+The 11–13+6 weeks scan 
+
+crown-rump-length of 45 mm were 1.2 and 2.1 mm and the 
+respective values at crown rump length of 84 mm were 1.9 and 
+2.7 mm (Snijders et al 1998). 
+In screening for chromosomal defects patient-specific risks are 
+derived by multiplying the a priori maternal age and gestation-
+related risk by a likelihood ratio, which depends on the difference 
+(Delta value in mm) in fetal NT measurement from the normal 
+median for the same crown-rump length (Figures 9–11). 
+In screening using maternal serum biochemical markers a different 
+approach has been used to take into account the gestational 
+age related change in marker levels. This method involves 
+converting the measured concentration into a multiple of the 
+median (MoM) of unaffected pregnancies of the same gestation. 
+Essentially, the Gaussian distributions of log10 (NT MoM) in 
+trisomy 21 and unaffected pregnancies are derived and the 
+heights of the distributions at a particular MoM, which is the 
+likelihood ratio for trisomy 21, is used to modify the a priori 
+maternal age-related risk to derive the patient-specific risk. 
+35 45 55 65 75 85 
+0.0 
+1.0 
+2.0 
+3.0 
+4.0 
+5.0 
+6.0 
+7.0 
+8.0 
+Crown-rump length (mm) 
+Nuchal translucency (mm) 
+Figure 9. Nuchal translucency measurement in 326 trisomy 21 fetuses plotted on the normal range for 
+crown–rump length (95th and 5th centiles). 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+0 
+5 
+10 
+15 
+20 
+25 
+-1 0 1 2 3 4 5 6 
+Nuchal translucency deviation (mm) 
+Frequency (%) 
+Figure 10. Distribution of fetal nuchal translucency thickness expressed as deviation from the normal 
+median for crown–rump length in chromosomally normal fetuses (black bars) and 326 with trisomy 21 
+(blue bars). 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+-0.5 0 1 20.5 1.5 2.5 
+Nuchal translucency deviation (mm) 
+Likelihood ratio 
+Figure 11. Likelihood ratios for trisomy 21 in relation to the deviation in fetal nuchal translucency 
+thickness from the normal median for crown–rump length. 
+In screening by NT the Delta approach provides accurate 
+patient-specific risks (Spencer et al 2003). In contrast, the MoM 
+approach was found to be inappropriate for this purpose, because 
+none of the three basic assumptions that underpin this method 
+are valid. Firstly, in the unaffected population the distributions 
+of NT MoM and log10(NT MoM) are not Gaussian, secondly, 
+The 11–13+6 weeks scan 
+
+the SD’s do not remain constant with gestation and thirdly, the 
+median MoM in the trisomy 21 pregnancies is not a constant 
+proportion of the median for unaffected pregnancies. The MoM 
+approach results in women being given an overestimate of risk 
+for trisomy at 11 weeks and a considerable underestimate of risk 
+at 13 weeks. 
+Nuchal translucency – measurement 
+•The gestation should be 11–13+6 weeks and the fetal crown– 
+rump length should be 45–84 mm. 
+•A mid-sagittal section of the fetus should be obtained and the 
+NT should be measured with the fetus in the neutral position. 
+•Only the fetal head and upper thorax should be included in 
+the image. The magnification should be as large as possible 
+and always such that each slight movement of the callipers 
+•The maximum thickness of the subcutaneous translucency 
+between the skin and the soft tissue overlying the cervical 
+spine should be measured. Care must be taken to distinguish 
+between fetal skin and amnion. 
+•The callipers should be placed on the lines that define the NT 
+thickness – the crossbar of the calliper should be such that it 
+is hardly visible as it merges with the white line of the border 
+and not in the nuchal fluid. 
+•During the scan, more than one measurement must be taken 
+and the maximum one should be recorded. 
+produces only a 0.1 mm change in the measurement. 
+Training and quality assessment in the measurement of NT 
+Appropriate training of sonographers and adherence to a 
+standard technique for the measurement of NT are essential 
+prerequisites for good clinical practice. Furthermore, the success 
+of a screening program necessitates the presence of a system for 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+regular audit of results and continuous assessment of the quality 
+of images. 
+All sonographers performing fetal scans should be capable of 
+reliably measuring the crown–rump length and obtaining a 
+proper sagittal view of the fetal spine. For such sonographers, 
+it is easy to acquire, within a few hours, the skill to measure 
+NT thickness. However, the ability to measure NT and obtain 
+reproducible results improves with training. Good results are 
+achieved after 80 scans for the transabdominal route and 100 
+scans transvaginally. 
+Several studies have demonstrated that ongoing regular audit of 
+images and the distribution of measurements of NT is essential 
+for assessing the quality of a centre and is also useful in identifying 
+individual sonographers whose results deviate from the mean 
+performance. The inter-examination variation in measurements 
+is reduced considerably after an initial learning phase and after 
+feedback to the sonographers on the distribution of their 
+measurements and the quality of their images. 
+The Fetal Medicine Foundation (FMF), which is a UK 
+registered charity, has established a process of training and 
+quality assurance for the appropriate introduction of NT screening 
+into clinical practice. Training is based on a theoretical 
+course, practical instruction on how to obtain the appropriate 
+image and make the correct measurement of NT, and presentation 
+of a logbook of images. These are examined to determine 
+if the magnification is adequate, the section of the fetus is truly 
+sagittal and the head is in the neutral position, the amnion is seen 
+separately from the nuchal membrane and the callipers are placed 
+appropriately. Ongoing quality assurance is based on assessment 
+of the distribution of fetal NT measurements (Figure 12) and 
+examination of a sample of images obtained by each sonographer 
+involved in screening. 
+The 11–13+6 weeks scan 
+
+31Chapter 1 • First trimester diagnosis of chromosomal defectsFigure 12. Distribution of fetal nuchal translucency thickness. In (a) the distribution is good, in (b) themeasurements are underestimated and in (c) the measurements are overestimated.
+0.01.02.03.04.05.06.0455055606570758085Crown-rump length (mm)
+Nuchal translucency (mm)
+0.01.02.03.04.0455055606570758085Crown-rump length (mm)
+Nuchal translucency (mm)
+0.01.02.03.04.0455055606570758085Crown-rump length (mm)
+Nuchal translucency (mm)
+(a)
+(b)
+(c)
+
+Nuchal translucency – training and quality assurance 
+•Appropriate training of sonographers and adherence to a 
+standard technique for the measurement of NT are essential 
+prerequisites for good clinical practice. 
+•The success of a screening program necessitates the presence 
+of a system for regular audit of results and continuous assessment 
+of the quality of images. 
+•Training is based on a theoretical course, practical instruction 
+on how to obtain the appropriate image and make the 
+correct measurement of NT, and presentation of a logbook of 
+images. 
+•Ongoing quality assurance is based on assessment of the 
+distribution of fetal NT measurements and examination of a 
+sample of images obtained by each sonographer involved in 
+screening. 
+Nuchal translucency thickness and risk for chromosomal defects 
+In 1992 a study, in which fetal NT was measured before CVS for 
+fetal karyotyping, reported that in a high proportion of chromosomally 
+abnormal fetuses the NT thickness was increased 
+(Nicolaides et al 1992). 
+This association was subsequently confirmed in several other 
+studies in the early 1990s. Thus, in the combined data from 17 
+series involving a total of 1,690 patients with increased fetal NT 
+the incidence of chromosomal defects was 29% (Nicolaides 
+2004). However, there were large differences between the studies 
+in the incidence of chromosomal defects, ranging from 11% to 
+88%, because of differences in the maternal age distributions of 
+the populations examined and the definition of the minimum 
+abnormal NT thickness, which ranged from 2 mm to 10 mm. 
+Studies in the mid 1990’s demonstrated that firstly, in normal 
+pregnancies, fetal NT thickness increases with gestation, 
+The 11–13+6 weeks scan 
+
+secondly, in trisomy 21 and other major chromosomal defects 
+fetal NT is increased, and thirdly, the risk for trisomies can be 
+derived by multiplying the a priori maternal age and gestation-
+related risk by a likelihood ratio, which depends on the degree of 
+deviation in fetal NT measurement from the normal median for 
+that crown–rump length (Nicolaides et al 1994, Pandya et al 
+1995). 
+It was estimated that, in a pregnant population with a mean 
+maternal age of 28 years, using the risk cut-off of 1 in 300 to 
+define the screen positive group would detect about 80% of 
+trisomy 21 fetuses for a false positive rate of 5%. 
+Nuchal translucency – calculation of patient-specific risk 
+• The risk for trisomies is derived by multiplying the a priori 
+maternal age and gestation-related risk by the NT likelihood 
+ratio. 
+• The NT likelihood ratio depends on the degree of deviation 
+in fetal NT measurement from the normal median for that 
+crown–rump length. 
+Implementation of nuchal translucency screening in routine practice 
+Several prospective interventional studies have examined the 
+implementation of NT screening in routine practice (Nicolaides 
+2004). 
+In some of the studies the screen positive group was defined by a 
+cut-off in fetal NT or a combined risk derived from the maternal 
+age and deviation in fetal NT from the normal median for fetal 
+crown-rump length. 
+The important findings of these studies are, firstly, fetal NT was 
+successfully measured in more than 99% of cases, secondly, there 
+were inevitable variations in false positive and detection rates 
+between the studies because of differences in the maternal age 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+distribution of their populations and in fetal NT or risk cut-offs 
+used, and thirdly, in the combined data on more than 200,000 
+pregnancies, including more than 900 fetuses with trisomy 21, 
+fetal NT screening identified more than 75% of fetuses with 
+trisomy 21 and other major chromosomal defects for a false positive 
+rate of 5%, or the detection rate was about 60% for a false 
+positive rate of 1% (Nicolaides 2004). 
+In the largest study, coordinated by the FMF, 100,311 singleton 
+pregnancies were examined by 306 appropriately trained 
+sonographers in 22 UK centers (Snijders et al 1998). In all cases 
+the fetal NT and crown–rump length were measured and individual 
+patient-specific risks, based on maternal age, gestational 
+age and fetal NT were calculated. Follow-up was obtained from 
+96,127 cases, including 326 with trisomy 21 and 325 with other 
+chromosomal defects (Table 3). The median gestation at the time 
+Table 3. Multicentre study coordinated by the Fetal Medicine Foundation. Number of pregnancies with 
+nuchal translucency (NT) thickness above the 95th centile and an estimated risk for trisomy 21, based on 
+maternal age and fetal nuchal translucency and crown-rump length, of 1 in 300 or more (Snijders et al 
+1998). 
+Fetal karyotype N th centile Risk =1 in 300 
+Normal 95,476 4,209 (4.4%) 7,907 (8.3%) 
+326 234 (71.2%) 268 (82.2%) 
+119 89 (74.8%) 97 (81.5%) 
+46 33 (71.7%) 37 (80.4%) 
+Turner syndrome 54 47 (87.0%) 48 (88.9%) 
+Triploidy 19 (59.4%) 20 (62.5%) 
+Other* 64 41 (64.1%) 51 (79.7%) 
+Total 96,127 4,767 (5.0%) 8,428 (8.8%) 
+NT >95Trisomy 21 
+Trisomy 18 
+Trisomy 13 
+32 
+*Deletions, partial trisomies, unbalanced translocations, sex chromosome aneuploidies 
+The 11–13+6 weeks scan 
+
+of screening was 12 weeks and the median maternal age was 
+31 years. 
+The estimated risk for trisomy 21 was 1 in 300 or more in 8% of 
+the normal pregnancies, in 82% of those with trisomy 21 and 
+in 78% with other chromosomal defects. For a screen-positive 
+rate of 5%, the detection rate was 77% (95% confidence interval 
+72–82%). 
+The issue of spontaneous fetal death 
+Screening for chromosomal defects in the first, rather than the 
+second trimester, has the advantage of earlier prenatal diagnosis 
+and consequently less traumatic termination of pregnancy for 
+those couples who choose this option. A potential disadvantage 
+is that earlier screening preferentially identifies those chromosomally 
+abnormal pregnancies that are destined to miscarry. 
+Approximately 30% of affected fetuses die between 12 weeks of 
+gestation and term. This issue of preferential spontaneous death 
+in fetuses with chromosomal defects is, of course, a potential 
+criticism of all methods of antenatal screening, including second-
+trimester maternal serum biochemistry, because the rate of fetal 
+death between 16 weeks and term is about 20%. 
+In prenatal screening studies it is impossible to know how many 
+of the trisomy 21 pregnancies that were terminated would have 
+resulted in live births. However, it is possible to estimate the 
+impact of prenatal screening on the prevalence of trisomy 21 in 
+live births. This can be done by comparing the number of 
+affected live births with the number estimated on the basis of the 
+maternal age-related prevalence of trisomy 21 in live births and 
+the maternal age distribution of the population screened. In the 
+FMF screening study, by a combination of maternal age and 
+fetal NT, a risk cut-off of 1 in 300 was associated with a false 
+positive rate of 8% and a detection rate of 82% (Snijders et al 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+1998). It was estimated that prenatal screening followed by 
+invasive diagnostic testing and selective termination of affected 
+fetuses would have reduced the potential live birth prevalence of 
+trisomy 21 by 78–82%. 
+Nuchal translucency – effectiveness of screening for trisomy 21 
+•Prospective studies in more than 200,000 pregnancies, 
+including more than 900 fetuses with trisomy 21, have 
+demonstrated that NT screening can identify more than 75% 
+of fetuses with trisomy 21 for a false positive rate of 5%. 
+•Increased NT does not necessarily identify those trisomic 
+fetuses that are destined to die in utero. 
+•The observed detection rate of trisomy 21 with first trimester 
+NT screening is only 2–3% higher than the detection rate of 
+affected pregnancies that would potentially result in livebirths. 
+Observational studies 
+The ability to achieve a reliable measurement of NT is dependent 
+on appropriate training, adherence to a standard technique and 
+motivation of the sonographer. All three components are well 
+illustrated by the differences in results between interventional 
+and observational studies, in which the sonographers were asked 
+to record the fetal NT measurements but not act on the results 
+(Nicolaides 2004). Thus, successful measurement of NT was 
+achieved in more than 99% of cases in the interventional studies, 
+but in only 75% of cases in the observational studies. Furthermore 
+in the interventional studies there was increased NT in 
+76.8% of the trisomy 21 and 4.2% of the chromosomally normal 
+fetuses, compared to the respective rates of 38.4% and 5.0% in 
+the observational studies. 
+In the observational studies, the scans were often carried out at 
+inappropriate gestations and the sonographers were either not 
+trained adequately or they were not sufficiently motivated to 
+The 11–13+6 weeks scan 
+
+measure NT. For example, in one of the studies, in which 
+sonographers were instructed to take no extra scanning time 
+other than that necessary for measurement of the crown-rump 
+length, fetal NT was successfully measured in only 66% of cases 
+(Roberts et al 1995). In another study, the fetal crown-rump 
+length was less than 33 mm in 54% of cases and the 
+sonographers, who were instructed to measure fetal NT within 
+three minutes, were unable to do so in 42% of cases (Kornman 
+et al 1996). These methodological problems are further highlighted 
+by a study of 47,053 singleton pregnancies examined at 
+6–16 weeks (Wald et al 2003a). In 23% of the patients no valid 
+NT measurement was taken because the scans were carried out 
+at inappropriate gestations or the sonographers were unable to 
+obtain a measurement or none of the images were deemed to be 
+of an acceptable quality. 
+Further evidence on the difference between observational and 
+interventional studies is provided by Crossley et al (2002). In this 
+observational study, 17,229 pregnancies were recruited and fetal 
+NT was successfully measured in 73% of cases. In a subsequent 
+study of more than 2,000 pregnancies in which the results of 
+the scan were given to the women, fetal NT was successfully 
+measured in 99.8% of cases. 
+Nuchal translucency and maternal serum biochemistry 
+Trisomic pregnancies are associated with altered maternal serum 
+concentrations of various feto-placental products, including AFP, 
+free b-hCG, uE3, inhibin A and PAPP-A. Screening in the 
+second trimester by maternal age and various combinations of 
+free b-hCG, AFP, uE3 and Inhibin A can identify 50–75% of 
+trisomy 21 pregnancies for a false positive rate of 5%. Screening 
+in the first trimester by a combination of maternal age and serum 
+free b-hCG and PAPP-A identifies about 60% of affected 
+pregnancies for a false positive rate of 5%. However, an essential 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+component of biochemical screening is accurate dating of the 
+pregnancy by ultrasound, otherwise the detection rate is reduced 
+by about 10%. 
+Fetal NT and maternal serum testing in the first-trimester 
+In trisomy 21 pregnancies at 12 weeks, the maternal serum 
+concentration of free b-hCG (about 2 MoM) is higher than in 
+chromosomally normal fetuses whereas PAPP-A is lower (about 
+0.5 MoM). The difference in maternal serum free b-hCG 
+between normal and trisomy 21 pregnancies increases with 
+advancing gestation and the difference in PAPP-A decreases 
+with gestation. These temporal variations in marker levels, their 
+interrelation and their association with maternal weight should be 
+taken into account when developing risk algorithms in order to 
+produce accurate patient-specific risks. 
+There is no significant association between fetal NT and 
+maternal serum free b-hCG or PAPP-A in either trisomy 21 or 
+chromosomally normal pregnancies and therefore the ultrasononographic 
+and biochemical markers can be combined to 
+provide more effective screening than either method individually 
+(Spencer et al 1999). Six prospective screening studies have 
+confirmed the feasibility and effectiveness of combining fetal NT 
+and maternal serum free b-hCG and PAPP-A. In the combined 
+data on a total of 38,804 pregnancies, including 182 with trisomy 
+21, the detection rate for trisomy 21 at a 5% false positive rate 
+was 86% (Nicolaides 2004). 
+In trisomies 18 and 13 maternal serum free b-hCG and 
+PAPP-A are decreased. In cases of sex chromosomal anomalies 
+maternal serum free b-hCG is normal and PAPP-A is low. In 
+paternally derived triploidy maternal serum free b-hCG is greatly 
+increased, whereas PAPP-A is mildly decreased. Maternally 
+derived triploidy is associated with markedly decreased maternal 
+The 11–13+6 weeks scan 
+
+serum free b-hCG and PAPP-A. Screening by a combination of 
+fetal NT and maternal serum PAPP-A and free b-hCG can 
+identify about 90% of all these chromosomal abnormalities for a 
+screen positive rate of 1%, in addition to the 5% necessary in 
+screening for trisomy 21. 
+An important development in biochemical analysis is the introduction 
+of a new technique (random access immunoassay analyzer 
+using time-resolved-amplified-cryptate-emission), which 
+provides automated, precise and reproducible measurements 
+within 30 minutes of obtaining a blood sample. This has made it 
+possible to combine biochemical and ultrasonographic testing as 
+well as to counsel in one-stop clinics for early assessment of fetal 
+risk (OSCAR) (Bindra et al 2002, Spencer et al 2003b). 
+Fetal NT and maternal serum testing in the second-trimester 
+In women having second-trimester biochemical testing following 
+first-trimester NT screening the a priori risk needs to be adjusted 
+to take into account the first-trimester screening results. 
+Prospective studies of screening by a combination of fetal NT in 
+the first trimester and maternal serum biochemistry in the second 
+trimester reported that for a false positive rate of 5% the detection 
+rate of trisomy 21 (85–90%) is similar to combined screening in 
+the first trimester (Nicolaides 2004). 
+Integration of first and second trimester testing 
+A statistical model combining first-trimester fetal NT and 
+maternal serum PAPP-A with second-trimester free b-hCG, uE3 
+and inhibin A, estimated that for a false positive rate of 5% the 
+detection rate of trisomy 21 could be 94% (Wald et al 1999). 
+This test assumes complete compliance by the pregnant women 
+in firstly, participating in a two stage process separated by one 
+month, secondly, in having an ultrasound scan without receiving 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+information as to whether the fetus looks normal or not, and 
+thirdly, accepting second rather than first trimester diagnosis and 
+termination. It is therefore likely that even if the estimates of this 
+hypothetical test are found to be true in prospective studies, it 
+will not gain widespread clinical acceptability. 
+Some of the logistical problems in the implementation of an 
+integrated test are highlighted by the results of a multicentre 
+observational study (SURUSS) investigating first and second 
+trimester screening for trisomy 21 (Wald et al 2003a). The aim 
+was to obtain a measurement of fetal NT in the first trimester and 
+collect maternal serum and urine samples in the first and second 
+trimesters. Intervention was based on the second trimester serum 
+results and all other data were analyzed retrospectively. However, 
+of the 47,053 women that were recruited, only 60% completed all 
+components of the protocol. In this study there were 101 fetuses 
+with trisomy 21 and satisfactory NT images were obtained only 
+from 75 of the cases. The data were used to derive a statistical 
+model suggesting that for a 5% false positive rate, 93% of trisomy 
+21 fetuses could be detected by the integrated test. However, it is 
+likely that this model is inaccurate. For example, the predicted 
+detection rates, for a 5% false positive rate, were 71% for the 
+double test, 77% for the triple test and 83% for the quadruple 
+test, which are substantially higher than the respective rates 
+of 61%, 66% and 75% reported by the same authors in their 
+prospective screening studies (Wald et al 2003b). 
+A similar study in the USA (FASTER trial), reported its 
+findings in the subgroup of 33,557 pregnancies with complete 
+first and second trimester data, including 84 cases of trisomy 21 
+(Malone et al 2004). It was estimated that, for a 5.4% false 
+positive rate, 90% of trisomy 21 fetuses could be detected. 
+Prospective studies have demonstrated that such results are 
+achievable by screening with fetal NT and maternal serum 
+The 11–13+6 weeks scan 
+
+free b-hCG and PAPP-A in the first-trimester (Bindra et al 
+2002, Spencer et al 2003b). It is therefore essential that, in 
+screening, attention is paid to the provision of high quality sonographic 
+and biochemical services for early diagnosis of chromosomal 
+defects, rather than the development of theoretical models 
+which would delay diagnosis until the second trimester and are, 
+in any case, unlikely to be implemented in clinical practice. 
+Screening by nuchal translucency and serum biochemistry 
+•In trisomy 21 pregnancies at 11–13+6 weeks, the maternal 
+serum concentration of free b-hCG is higher (about 2 MoM) 
+and PAPP-A is lower (about 0.5 MoM) than in chromosomally 
+normal fetuses. 
+•There is no significant association between fetal NT and 
+maternal serum free b-hCG or PAPP-A in either trisomy 21 or 
+chromosomally normal pregnancies. The ultrasononographic 
+and biochemical markers can be combined to provide more 
+effective screening than either method individually. 
+•Prospective studies, in more than 50,000 pregnancies, including 
+more than 250 fetuses with trisomy 21, have demonstrated 
+that screening by a combination of fetal NT and either 
+first or second trimester maternal serum biochemistry can 
+identify 85–90% of fetuses with trisomy 21 for a false positive 
+rate of 5%. 
+•In trisomies 18 and 13 maternal serum free b-hCG and 
+PAPP-A are decreased. In sex chromosomal anomalies maternal 
+serum free b-hCG is normal and PAPP-A is low. In paternally 
+derived triploidy maternal serum free b-hCG is greatly 
+increased, whereas PAPP-A is mildly decreased. Maternally 
+derived triploidy is associated with markedly decreased 
+maternal serum free b-hCG and PAPP-A. Screening by a 
+combination of fetal NT and maternal serum PAPP-A and 
+free b-hCG can identify about 90% of all these chromosomal 
+abnormalities for a screen positive rate of 1%, in addition to 
+the 5% in screening for trisomy 21. 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+WOMENS’ ATTITUDES TO 1ST VERSUS 2ND TRIMESTER SCREENING 
+Studies investigating the preference of pregnant women in terms 
+of the methods of screening, have reported that the vast majority 
+prefer this to be carried out in the first rather than in the second 
+trimester. A criticism of NT screening has been that some 
+women with increased fetal NT will face unnecessary decisions 
+regarding invasive testing and ultimately pregnancy termination 
+in an affected pregnancy that would otherwise have ended in 
+spontaneous miscarriage. In a survey of women’s preferences, 
+about 70% stated that they would still choose NT screening even 
+if all the Down’s syndrome pregnancies identified by this method 
+miscarried before the second trimester (Mulvey and Wallace 
+2000). The women wanted to know if their fetus had had Down’s 
+syndrome regardless of the pregnancy outcome and they also 
+valued the knowledge of an underlying reason for a miscarriage 
+if it occurred. 
+Clinical importance of respect for autonomy 
+Respect for autonomy is a central principle in medical ethics and 
+law. This ethical principle obliges the physician to elicit and 
+implement the patient’s preferences. The relevance of respect for 
+autonomy to first trimester screening is two-fold. Firstly, early 
+diagnosis of fetal abnormality and the option of early termination 
+of pregnancy are important to many women. Secondly, most first 
+trimester screening tests provide reassurance for many women 
+who would prefer not to have an invasive procedure if the 
+risk is low. Consequently, the provision of a high-quality first 
+trimester screening service significantly enhances the autonomy 
+of pregnant women (Chasen et al 2001). 
+The vast majority of pregnant women prefer screening and 
+diagnosis to be performed in the first, rather than in the second 
+trimester. 
+The 11–13+6 weeks scan 
+
+REFERENCES 
+Bindra R, Heath V, Liao A, Spencer K, Nicolaides KH. One stop clinic for assessment 
+of risk for trisomy 21 at 11–14 weeks: A prospective study of 15,030 pregnancies. 
+Ultrasound Obstet Gynecol 2002;20:219–25. 
+Chasen ST, Skupski DW, McCullough LB, Chervenak FA. Prenatal informed consent 
+for sonogram: the time for first-trimester nuchal translucency has come. J Ultrasound 
+Med 2001;20:1147–52. 
+Crossley JA, Aitken DA, Cameron AD, McBride E, Connor JM. Combined ultrasound 
+and biochemical screening for Down’s syndrome in the first trimester: a Scottish 
+multicentre study. BJOG 2002;109:667–76. 
+Down LJ. Observations on an ethnic classification of idiots. Clin Lectures and Reports, 
+London Hospital 1866;3:259–62. 
+Hecht CA, Hook EB. The imprecision in rates of Down syndrome by 1-year maternal 
+age intervals: a critical analysis of rates used in biochemical screening. Prenat Diagn 
+1994;14:729–38. 
+Kornman LH, Morssink LP, Beekhuis JR, DeWolf BTHM, Heringa MP, Mantingh A. 
+Nuchal translucency cannot be used as a screening test for chromosomal abnormalities 
+in the first trimester of pregnancy in a routine ultrasound practice. Prenat Diagn 
+1996;16:797–805. 
+Malone FD, Wald NJ, Canick JA, Ball RH, Nyberg DA, Comstock CH, Bukowski R, 
+et al. First- and second-trimester evaluation of risk (FASTER) trial: principal results of 
+the NICHD multicenter Down syndrome screening study. SMFM 2004, Abstract 1. 
+Mulvey S, Wallace EM. Women’s knowledge of and attitudes to first and second 
+trimester screening for Down’s syndrome. BJOG 2000;107:1302–5. 
+Nicolaides KH, Azar G, Byrne D, Mansur C, Marks K. Fetal nuchal translucency: 
+ultrasound screening for chromosomal defects in first trimester of pregnancy. BMJ 
+1992;304:867–9. 
+Nicolaides KH, Brizot ML, Snijders RJM. Fetal nuchal translucency: ultrasound screening 
+for fetal trisomy in the first trimester of pregnancy. BJOG 1994;101:782–6. 
+Nicolaides KH. Nuchal translucency and other first-trimester sonographic markers of 
+chromosomal abnormalities. Am J Obstet Gynecol 2004;191:45–67. 
+Pandya PP, Snijders RJM, Johnson SJ, Brizot M, Nicolaides KH. Screening for fetal 
+trisomies by maternal age and fetal nuchal translucency thickness at 10 to 14 weeks 
+of gestation. BJOG 1995;102:957–62. 
+Roberts LJ, Bewley S, Mackinson AM, Rodeck CH. First trimester fetal nuchal translucency: 
+Problems with screening the general population 1. BJOG 1995;102:381–5. 
+Chapter 1 • First trimester diagnosis of chromosomal defects 
+
+Snijders RJM, Sebire NJ, Cuckle H, Nicolaides KH. Maternal age and gestational 
+age-specific risks for chromosomal defects. Fetal Diag Ther 1995;10:356–67. 
+Snijders RJM, Nicolaides KH. Sequential screening. In: Nicolaides KH, editor. Ultrasound 
+markers for fetal chromosomal defects. Carnforth, UK: Parthenon Publishing, 
+1996, pp109–13. 
+Snijders RJM, Noble P, Sebire N, Souka A, Nicolaides KH. UK multicentre project 
+on assessment of risk of trisomy 21 by maternal age and fetal nuchal translucency 
+thickness at 10–14 weeks of gestation. Lancet 1998;351:343–6. 
+Snijders RJM, Sundberg K, Holzgreve W, Henry G, Nicolaides KH. Maternal age and 
+gestation-specific risk for trisomy 21. Ultrasound Obstet Gynecol 1999;13:167–70. 
+Spencer K, Souter V, Tul N, Snijders R, Nicolaides KH. A screening program 
+for trisomy 21 at 10–14 weeks using fetal nuchal translucency, maternal serum 
+free b-human chorionic gonadotropin and pregnancy-associated plasma protein-A. 
+Ultrasound Obstet Gynecol 1999;13:231–7. 
+Spencer K, Bindra R, Nix ABJ, Heath V, Nicolaides KH. Delta- NT or NT MoM: which 
+is the most appropriate method for calculating accurate patient-specific risks for 
+trisomy 21 in the first trimester? Ultrasound Obstet GynecoI 2003a;22:142–8. 
+Spencer K, Spencer CE, Power M, Dawson C, Nicolaides KH. Screening for chromosomal 
+abnormalities in the first trimester using ultrasound and maternal serum 
+biochemistry in a one stop clinic: A review of three years prospective experience. 
+BJOG 2003b;110:281–6. 
+Tabor A, Philip J, Madsen M, Bang J, Obel EB, Norgaard-Pedersen B. Randomised 
+controlled trial of genetic amniocentesis in 4,606 low-risk women. Lancet 
+1986;1:1287–93. 
+Wald NJ, Watt HC, Hackshaw AK. Integrated screening for Down’s syndrome on the 
+basis of tests performed during the first and second trimesters. N Engl J Med 
+1999;341:461–7. 
+Wald NJ, Rodeck C, Hackshaw AK, Walters J, Chitty L, Mackinson AM; SURUSS 
+Research Group. First and second trimester antenatal screening for Down’s syndrome: 
+the results of the Serum, Urine and Ultrasound Screening Study (SURUSS). Health 
+Technol Assess 2003a;7:1–77. 
+Wald NJ, Huttly WJ, Hackshaw AK. Antenatal screening for Down’s syndrome with 
+the quadruple test. Lancet 2003b;361:835–6. 
+The 11–13+6 weeks scan 
+
+2
+SONOGRAPHIC FEATURES OF CHROMOSOMAL DEFECTS 
+Each chromosomal defect has its own syndromal pattern of 
+detectable abnormalities. This chapter describes the sonographic 
+features of trisomy 21 and other major chromosomal defects in 
+the first and second trimesters of pregnancy. 
+FIRST TRIMESTER ULTRASONOGRAPHY 
+At 11–13+6 weeks, all major chromosomal defects are associated 
+with increased NT thickness (Snijders et al 1998). In trisomies 
+21, 18 and 13 the pattern of increase in NT is similar and the 
+average NT in these defects is about 2.5 mm above the normal 
+median for crown-rump length. In Turner syndrome, the median 
+NT is about 8 mm above the normal median. 
+In addition to increased NT, in trisomy 21, 60–70% of fetuses 
+have absent nasal bone, 25% have a short maxilla, and 80% 
+have abnormal Doppler waveforms in the ductus venosus. In 
+trisomy 18, there is early onset fetal growth restriction, a tendency 
+for bradycardia and exomphalos in 30% of cases, absent 
+nasal bone in 55% and single umbilical artery in 75%. In trisomy 
+13, there is tachycardia in about 70% of the cases and early 
+onset fetal growth restriction, megacystis, holoprosencephaly or 
+exomphalos in about 40% of the cases. In Turner syndrome, 
+there is tachycardia in about 50% of cases and early onset fetal 
+growth restriction. In triploidy, there is early onset asymmetrical 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+fetal growth restriction, bradycardia in 30% of cases, holoprosencephaly, 
+exomphalos or posterior fossa cyst in about 40% and 
+molar changes in the placenta in about 30%. 
+Absence of fetal nasal bone 
+In 1866 Langdon Down noted that a common characteristic of 
+patients with trisomy 21 is a small nose. Anthropometric studies 
+in patients with Down’s syndrome have reported that the 
+nasal root depth is abnormally short in 50% of cases (Farkas et al 
+2001). Similarly, post mortem radiological studies in aborted 
+fetuses with trisomy 21 have reported absence of ossification or 
+hypoplasia of the nasal bone in about 50% of cases. Sonographic 
+studies at 15–24 weeks of gestation reported that about 65% of 
+trisomy 21 fetuses have absent or short nasal bone. 
+The fetal nasal bone can be visualized by sonography at 11–13+6 
+weeks of gestation (Cicero et al 2001). Several studies have demonstrated 
+a high association between absent nasal bone at 11–13+6 
+weeks and trisomy 21, as well as other chromosomal abnormalities 
+(Nicolaides 2004). In the combined data from these studies on a 
+total of 15,822 fetuses the fetal profile was successfully examined 
+in 97.4% cases and the nasal bone was absent in 1.4% of the chromosomally 
+normal fetuses and in 69% of fetuses with trisomy 21. 
+An important finding of these studies was that the incidence 
+of absent nasal bone decreased with fetal crown-rump length, 
+increased with NT thickness and was substantially higher in 
+Afro-Caribbeans than in Caucasians. Consequently, in the calculation 
+of likelihood ratios in screening for trisomy 21 adjustments 
+must be made for these confounding factors (Cicero et al 2004). 
+Integrated first-trimester sonographic and biochemical screening 
+A case-control study comprising of 100 trisomy 21 and 400 
+chromosomally normal singleton pregnancies at 11–13+6 weeks 
+The 11–13+6 weeks scan 
+
+of gestation examined the potential performance of screening for 
+trisomy 21 by a combination of sonography for measurement of 
+fetal NT and assessment of the presence or absence of the fetal 
+nasal bone and measurement of maternal serum free b-hCG and 
+PAPP-A (Cicero et al 2003). It was estimated that for a false 
+positive rate of 5%, the detection rate of trisomy 21 would be 97%. 
+Examination of the nasal bone 
+•The gestation should be 11–13+6 weeks and the fetal 
+crown–rump length should be 45–84 mm. 
+•The image should be magnified so that the head and the 
+upper thorax only are included in the screen. 
+•A mid-sagittal view of the fetal profile should be obtained 
+with the ultrasound transducer held in parallel to the direction 
+of the nose. 
+•In the image of the nose there should be three distinct lines. 
+The top line represents the skin and the bottom one, which is 
+thicker and more echogenic than the overlying skin, represents 
+the nasal bone. A third line, almost in continuity with the 
+skin, but at a higher level, represents the tip of the nose. 
+•At 11–13+6 weeks the fetal profile can be successfully 
+examined in more than 95% of cases. 
+•In chromosomally normal fetuses the incidence of absent 
+nasal bone is less than 1% in Caucasian populations and 
+about 10% in Afro-Caribbeans. 
+•The nasal bone is absent in 60–70% of trisomy 21 fetuses, 
+in about 50% of trisomy 18 fetuses and 30% of trisomy 13 
+fetuses. 
+•For a false positive rate of 5%, screening by a combination of 
+sonography for fetal NT and nasal bone and maternal serum 
+free b-hCG and PAPP-A can potentially identify more than 
+95% of trisomy 21 pregnancies. 
+•It is imperative that sonographers undertaking risk assessment 
+by examination of the fetal profile receive appropriate 
+training and certification of their competence in performing 
+such a scan. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+Crown–rump length 
+Trisomy 18 and triploidy are associated with moderately severe 
+growth restriction, trisomy 13 and Turner syndrome with mild 
+growth restriction, whereas in trisomy 21 growth is essentially 
+normal (Figure 1; Nicolaides et al 1996). 
+Crown-rump length and chromosomal defects 
+• Trisomy 18 and triploidy are associated with moderately 
+severe growth restriction 
+• Trisomy 13 and Turner syndrome are associated with mild 
+growth restriction 
+• In trisomy 21 growth is essentially normal 
+70 75 80 85 90 95 100 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+20 
+Gestation (days) 
+Crown-rump-length (mm) 
+Figure 1. Fetal crown-rump length in fetuses with triploidy plotted on the reference range (mean, 95th 
+and 5th centiles) with gestation of chromosomally normal fetuses. 
+The 11–13+6 weeks scan 
+
+Maxillary length 
+Langdon Down observed that in individuals with trisomy 21 
+‘the face is flat’. This may be the consequence of underdevelopment 
+of the maxilla. Anthropometric and radiological 
+studies in patients with Down’s syndrome have demonstrated 
+underdevelopment of the maxilla in more than 50% of cases 
+(Farkas et al 2001). 
+The fetal maxilla can be easily visualized and measured by 
+sonography at 11–13+6 weeks of gestation (Cicero et al 2004). 
+A mid-sagittal view of the fetal profile is first obtained and 
+the transducer is then gently angled laterally so that both the 
+maxillary bone and mandible, including the ramus and condylar 
+process, can be seen (Figure 2). In chromosomally normal 
+fetuses maxillary length increases linearly with gestation by about 
+0.1 mm for each 1 mm increase in crown-rump length. In the 
+trisomy 21 fetuses the median maxillary length is significantly 
+below the normal median for crown-rump length by 0.7 mm. 
+Figure 2. Ultrasound picture of a 12-weeks fetus demonstrating measurement of maxillary length. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+However, there is a significant association between maxillary 
+bone length and NT thickness and in fetuses with absent 
+nasal bone the maxilla is shorter than in those with present nasal 
+bone. Consequently, the independent contribution of maxillary 
+length in screening for trisomy 21 remains to be determined. In 
+fetuses with other chromosomal defects there are no significant 
+differences from normal in the maxillary length. 
+Ear length 
+In postnatal life, short ears constitute the most consistent clinical 
+characteristic of patients with Down’s syndrome. The fetal ears 
+can be easily visualized and measured by sonography at 11–13+6 
+weeks of gestation (Sacchini et al 2003). Although in trisomy 
+21 fetuses the median ear length is significantly below the 
+normal median for crown-rump length, the degree of deviation 
+from normal is too small for this measurement to be useful in 
+screening for trisomy 21. 
+Femur and humerus length 
+Trisomy 21 is characterised by short stature and during the 
+second trimester the condition is associated with relative shortening 
+of the femur and more so the humerus. At 11–13+6 
+weeks in trisomy 21 fetuses the median femur and humerus 
+lengths are significantly below the appropriate normal median 
+for crown-rump length but the degree of deviation from normal 
+is too small for these measurements to be useful in screening 
+(Longo et al 2004). 
+Single umbilical artery 
+A single umbilical artery, found in about 1% of deliveries, is 
+associated with malformations of all major organ systems and 
+The 11–13+6 weeks scan 
+
+chromosomal defects. In the first-trimester the umbilical arteries 
+can be visualized by color flow mapping on either side of the 
+bladder and in continuity with the umbilical cord insertion to the 
+fetus in an oblique transverse section of the lower fetal abdomen. 
+At 11–13+6 weeks single umbilical artery is found in about 3% 
+of chromosomally normal fetuses and in 80% of fetuses with 
+trisomy 18 (Rembouskos et al 2003). In the fetuses with single 
+umbilical artery the observed number of cases of trisomy 21 
+is not significantly different from the number estimated on the 
+basis of maternal age and fetal NT. In contrast, a single umbilical 
+artery is associated with a seven fold increase in risk of trisomy 
+18. However, a high proportion of trisomy 18 fetuses have other 
+major defects that are easily detectable at the 11–13+6 weeks scan 
+and many other abnormalities that are detectable at 16–20 weeks. 
+It is therefore unlikely that the finding of a single umbilical artery 
+per se should be an indication for fetal karyotyping. 
+Megacystis 
+The fetal bladder can be visualized by sonography in about 80% 
+of fetuses at 11 weeks of gestation and in all cases by 13 weeks. 
+At this gestation the fetal bladder length is normally less than 
+6 mm. Fetal megacystis in the first-trimester, defined by a longitudinal 
+bladder diameter of 7 mm or more, is found in about 1 in 
+1,500 pregnancies (Figure 3). When the longitudinal bladder 
+diameter is 7–15 mm the incidence of chromosomal defects, 
+mainly trisomies 13 and 18, is about 20%, but in the chromosomally 
+normal group there is spontaneous resolution of the 
+megacystis in about 90% of cases (Liao et al 2003). In contrast, 
+in megacystis with bladder diameter greater than 15 mm the 
+incidence of chromosomal defects is about 10% and in the chromosomally 
+normal group the condition is invariably associated 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+Figure 3. Ultrasound picture of a 12-weeks fetus with megacystis. 
+with progressive obstructive uropathy. Megacystis is associated 
+with increased NT, which is observed in about 75% of those with 
+chromosomal defects and in about 30% of those with normal 
+karyotype. After taking into account maternal age and fetal 
+NT the presence of megacystis increases the likelihood for 
+trisomy 13 or 18 by a factor of 6.7. 
+Exomphalos 
+At 11–13+6 weeks the prevalence of exomphalos (Figure 4) is 
+about 1 in 1000, which is four times higher than in live births. 
+The incidence of chromosomal defects, mainly trisomy 18, is 
+about 60%, compared to about 30% at mid-gestation and 15% in 
+neonates. The risk for trisomy 18 increases with maternal age 
+and, since this trisomy is associated with a high rate of intrauterine 
+death, its prevalence decreases with gestational age. In contrast, 
+the rate of fetal death in chromosomally normal fetuses with 
+exomphalos is not higher than in fetuses without this abnormality. 
+Consequently, the prevalence of exomphalos and the associated 
+The 11–13+6 weeks scan 
+
+Figure 4. Ultrasound picture of a 12-weeks trisomy 18 fetus with exomphalos and increased nuchal 
+translucency thickness. 
+risk for chromosomal defects increase with maternal age and 
+decrease with gestational age (Snijders et al 1995). 
+Choroid plexus cysts, pyelectasis and cardiac echogenic foci 
+At 11–14 weeks the prevalences of choroid plexus cysts, 
+pyelectasis and cardiac echogenic foci were 2.2, 0.9 and 0.6% 
+(Whitlow et al 1998). Preliminary results suggest that, as in the 
+second trimester, the prevalence of these markers may be higher 
+in chromosomally abnormal than normal fetuses. However, 
+calculation of likelihood ratios requires the study of many 
+more chromosomally abnormal fetuses to determine the true 
+prevalence of these markers. 
+Placental volume 
+The placental volume, determined at 11–13+6 by 3D ultrasound, 
+increases with fetal crown-rump length. In trisomy 21 fetuses, 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+placental volume is not significantly different from normal but 
+in trisomy 18 placental volume is substantially decreased. 
+Fetal heart rate 
+In normal pregnancy, the fetal heart rate (FHR) increases 
+from about 100 bpm at 5 weeks of gestation to 170 bpm at 10 
+weeks and then decreases to 155 bpm by 14 weeks. At 10–13+6 
+weeks, trisomy 13 and Turner syndrome are associated with 
+tachycardia, whereas in trisomy 18 and triploidy there is fetal 
+bradycardia (Figure 5; Liao et al 2001). In trisomy 21, there is 
+a mild increase in FHR. Measurement of FHR is unlikely 
+110 
+120 
+130 
+140 
+150 
+160 
+170 
+180 
+190 
+200 
+40 50 60 70 80 
+Crown-rump length (mm) Fetal heart rate (bpm) 
+5
+Figure 5. Fetal heart rate in fetuses with trisomy 13 plotted on the reference range (mean, 95th and 
+th centiles) with crown-rump length of the chromosomally normal fetuses. 
+The 11–13+6 weeks scan 
+
+to improve first trimester screening for trisomy 21 but it is a 
+useful measurement in identifying fetuses with trisomy 13. 
+Doppler in the ductus venosus 
+The ductus venosus is a unique shunt directing well-oxygenated 
+blood from the umbilical vein to the coronary and cerebral 
+circulations by preferential streaming through the foramen ovale 
+into the left atrium. Blood flow in the ductus has a characteristic 
+waveform with high velocity during ventricular systole (S-wave) 
+and diastole (D-wave), and forward flow during atrial contraction 
+(a-wave). In the second and third trimesters of pregnancy 
+abnormal flow with absent or reverse a-wave is observed in 
+impending or overt cardiac failure. 
+At 10–13+6 weeks abnormal ductal flow (Figure 6) is associated 
+with chromosomal defects, cardiac abnormalities and adverse 
+pregnancy outcome (Matias et al 1998, Borrell et al 2003). 
+Studies from specialist centres, in more than 5,000 pregnancies, 
+including about 280 fetuses with trisomy 21, have demonstrated 
+that at 10–13+6 weeks there is abnormal flow in the ductus 
+venosus in about 80% of trisomy 21 fetuses and in about 5% 
+of chromosomally normal fetuses (Nicolaides 2004). There is 
+no or only a weak association between increased fetal NT and 
+the incidence of abnormal ductal flow. These findings indicate 
+that assessment of the ductus venosus can be combined with 
+measurement of fetal NT to improve the effectiveness of early 
+sonographic screening for trisomy 21. 
+Examination of ductal flow is time-consuming and requires 
+highly skilled operators and at present it is uncertain if this 
+assessment will be incorporated into the routine first-trimester 
+scan. However, it could be used in specialist centres to 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+Figure 6. Flow velocity waveforms from the fetal ductus venosus at 12 weeks’ gestation demonstrating 
+normal pattern (top) and abnormal a-wave (bottom). 
+re-evaluate the risk in patients with borderline results after 
+screening by fetal NT and maternal serum biochemistry. 
+Abnormal flow in the ductus venosus and chromosomal defects 
+•At 11–13+6 weeks abnormal ductal flow is observed in 5% 
+of chromosomally normal fetuses and in about 80% of fetuses 
+with trisomy 21. 
+•Assessment of the ductus venosus can be combined with 
+measurement of fetal NT to improve the effectiveness of early 
+sonographic screening for trisomy 21. 
+•Examination of ductal flow is time-consuming and requires 
+highly skilled operators. It is therefore unlikely to be used in 
+routine screening, but it could be used in specialist centres to 
+re-evaluate the risk in patients with borderline results after 
+screening by fetal NT and maternal serum biochemistry. 
+The 11–13+6 weeks scan 
+
+Doppler in other vessels 
+Uterine arteries 
+Uterine artery Doppler studies at 11–13+6 weeks found no significant 
+differences in pulsatility index between chromosomally 
+normal and abnormal fetuses. Consequently, the high rates of 
+fetal death and fetal growth restriction of the major chromosomal 
+defects are unlikely to be the consequence of impaired placentation 
+in the first trimester of pregnancy. Uterine artery Doppler is not a 
+useful screening test for chromosomal defects. 
+Umbilical artery 
+Umbilical artery Doppler is not useful in screening for trisomy 21. 
+However, in trisomy 18, impedance to flow is increased and in 
+about 20% of cases there is persistent reversal of end-diastolic flow 
+(REDF). 
+Umbilical vein 
+In second and third-trimester fetuses, pulsatile umbilical venous 
+flow is a late and ominous sign of fetal compromise. At 11–13+6 
+weeks there is pulsatile flow in the umbilical vein in about 
+25% of chromosomally normal fetuses and in 90% of fetuses 
+with trisomy 18 or 13. However, in fetuses with trisomy 21, the 
+prevalence of pulsatile venous flow is not significantly different 
+from that in chromosomally normal fetuses. 
+Jugular vein and carotid artery 
+There are no significant associations between the pulsatility index 
+in the fetal jugular vein and carotid artery and fetal NT and 
+no significant differences between the chromosomally normal 
+and abnormal fetuses. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+SECOND TRIMESTER ULTRASONOGRAPHY 
+In the second trimester scan, as in the first trimester, each chromosomal 
+defect has its own syndromal pattern of detectable abnormalities 
+( Table 1; Snijders and Nicolaides 1996, Nicolaides et al 
+1992). It is therefore recommended that, when an abnormality/ 
+marker is detected at routine ultrasound examination, a thorough 
+check is made for the other features of the chromosomal defect 
+known to be associated with that marker; should additional 
+abnormalities be identified, the risk is dramatically increased. In 
+the case of apparently isolated abnormalities, the decision of 
+Table 1. Common chromosomal defects in fetuses with sonographic abnormalities. 
+Trisomy 21 Trisomy 18 Trisomy 13 Triploidy Turner 
+Ventriculomegaly + + + + 
+Holoprosencephaly + 
+Choroid plexus cysts + 
+Dandy Walker complex + + 
+Facial cleft + + 
+Micrognathia + + 
+Nasal hypoplasia + 
+Nuchal edema + + + 
+Cystic hygromas + 
+Diaphragmatic hernia + + 
+Cardiac defect + + + + + 
+Exomphalos + + 
+Duodenal atresia + 
+Esophageal atresia + + 
+Renal defects + + + + + 
+Short limbs + + + + 
+Clinodactyly + 
+Overlapping fingers + 
+Polydactyly + 
+Syndactyly + 
+Talipes + + + 
+Fetal growth restriction + + + 
+The 11–13+6 weeks scan 
+
+whether to carry out an invasive test depends on the type of 
+abnormality. 
+Second trimester scan: phenotypic expression of chromosomal 
+defects 
+•Trisomy 21 is associated with nasal hypoplasia, increased 
+nuchal fold thickness, cardiac defects, intracardiac echogenic 
+foci, duodenal atresia and echogenic bowel, hydronephrosis, 
+shortening of the femur and more so of the humerus, sandal 
+gap and clinodactyly or mid-phalanx hypoplasia of the fifth 
+finger. 
+•Trisomy 18 is associated with strawberry-shaped head, choroid 
+plexus cysts, absent corpus callosum, enlarged cisterna magna, 
+facial cleft, micrognathia, nuchal edema, heart defects, diaphragmatic 
+hernia, esophageal atresia, exomphalos, usually 
+with bowel only in the sac, single umbilical artery, renal 
+abnormalities, echogenic bowel, myelomeningocoele, growth 
+restriction and shortening of the limbs, radial aplasia, 
+overlapping fingers and talipes or rocker bottom feet. 
+•Trisomy 13 is associated with holoprosencephaly, microcephaly, 
+facial abnormalities, cardiac abnormalities, enlarged 
+and echogenic kidneys, exomphalos and post axial polydactyly. 
+•Triploidy where the extra set of chromosomes is paternally 
+derived is associated with a molar placenta and the pregnancy 
+rarely persists beyond 20 weeks. When there is a double 
+maternal chromosome contribution, the pregnancy may persist 
+into the third trimester. The placenta is of normal consistency 
+but thin and the fetus demonstrates severe asymmetrical 
+growth restriction. Commonly there is mild ventriculomegaly, 
+micrognathia, cardiac abnormalities, myelomeningocoele, 
+syndactyly, and ‘hitch-hiker’ toe deformity. 
+•Turner syndrome is associated with large nuchal cystic hygromas, 
+generalised edema, mild pleural effusions and ascites, 
+cardiac abnormalities and horseshoe kidneys, which are 
+suspected by the ultrasonographic appearance of bilateral 
+mild hydronephrosis. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+Ventriculomegaly 
+The birth prevalence of ventriculomegaly is about 1 per 
+1,000. Causes include chromosomal and genetic defects, brain 
+hemorrhage or infection but in many cases no clear-cut etiology 
+is identified. The overall prevalence of chromosomal defects 
+in fetal ventriculomegaly is about 10% and the commonest 
+chromosomal defects are trisomies 21, 18, 13 and triploidy. The 
+prevalence of chromosomal defects is higher in those with mild 
+to moderate, rather than severe ventriculomegaly. 
+Holoprosencephaly 
+The birth prevalence of holoprosencephaly is about 1 per 10,000. 
+Although in many cases the cause is a chromosomal defect or a 
+genetic disorder in the majority of cases the etiology is unknown. 
+The overall prevalence of chromosomal defects in fetal holoprosencephaly 
+is about 30% and the commonest chromosomal 
+defects are trisomies 13 and 18. Holoprosencephaly is commonly 
+associated with a wide variety of mid-facial abnormalities but 
+the incidence of chromosomal defects in only increased in fetuses 
+with holoprosencephaly and extrafacial abnormalities but not 
+in those where the holoprosencephaly is either isolated or it is 
+associated with facial abnormalities only. 
+Choroid plexus cysts 
+These are found in approximately 2% of fetuses at 16–24 weeks 
+of gestation but in more than 95% of cases they resolve by 28 
+weeks and are of no pathological significance. There is an association 
+between choroid plexus cysts and chromosomal defects, 
+particularly trisomy 18. However, the vast majority of fetuses 
+with trisomy 18 have multiple other abnormalities and therefore, 
+the detection of fetal choroid plexus cysts should stimulate 
+the sonographer to search for the other features of trisomy 18. If 
+The 11–13+6 weeks scan 
+
+the cysts are apparently isolated the risk for trisomy 18 is only 
+marginally increased. 
+Dandy-Walker complex 
+This refers to a spectrum of abnormalities of the cerebellar 
+vermis, cystic dilatation of the fourth ventricle and enlargement 
+of the cisterna magna. The condition is classified into Dandy-
+Walker malformation (complete or partial agenesis of the cerebellar 
+vermis and enlarged posterior fossa), Dandy-Walker variant 
+(partial agenesis of the cerebellar vermis without enlargement 
+of the posterior fossa) and mega-cisterna magna (normal vermis 
+and fourth ventricle). The birth prevalence of Dandy-Walker 
+malformation is about 1 per 30,000. Causes include chromosomal 
+defects, more than 50 genetic syndromes, congenital infections 
+or teratogens such as warfarin, but it can also be an isolated 
+finding. The overall prevalence of chromosomal defects is about 
+40%, usually trisomies 18 or 13 and triploidy. 
+Facial cleft 
+Cleft lip and/or palate is found in approximately 1 per 800 live 
+births, and both genetic and environmental factors are implicated 
+in their causation. Postnatally, chromosomal defects are found 
+in less than 1% of babies with facial cleft. However, in prenatal 
+series the prevalence is about 20%, most commonly trisomies 
+13 and 18. This apparent discrepancy is because in the prenatal 
+studies the populations examined are pre-selected and include 
+many fetuses with multiple other abnormalities. 
+Micrognathia 
+The birth prevalence of micrognathia is about 1 per 1,000. This 
+is a non-specific finding in a wide range of genetic syndromes 
+and chromosomal defects, mainly trisomy 18 and triploidy. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+In two studies reporting on fetal micrognathia the prevalence 
+of chromosomal defects was about 60% but all fetuses had 
+additional malformations and/or growth restriction. 
+Nasal hypoplasia 
+Sonographic studies at 15–24 weeks of gestation reported that 
+about 65% of trisomy 21 fetuses have nasal bone hypoplasia, 
+defined by a nasal bone that is not visible or with a length of less 
+than 2.5 mm (Sonek and Nicolaides 2002, Cicero et al 2003). In 
+chromosomally normal fetuses, the prevalence of nasal hypoplasia 
+is related to the ethnic origin of the mothers, being less than 
+1% in Caucasians and up to 10% in African-Caribbeans. It is 
+premature to speculate on the precise detection rates that could 
+be achieved in the second trimester by a combination of maternal 
+age, serum biochemistry and ultrasound examination for the fetal 
+nasal bone and other sonographic markers. Nevertheless, on the 
+basis of currently available data, nasal hypoplasia is likely to be 
+the single most sensitive and specific second trimester marker of 
+trisomy 21. 
+Diaphragmatic hernia 
+The birth prevalence of diaphragmatic hernia is about 1 per 
+4,000 and the condition is usually sporadic. The prevalence of 
+chromosomal defects, mainly trisomy 18, is about 20%. 
+Cardiac abnormalities 
+Abnormalities of the heart and great arteries are found in 4–7 
+per 1,000 live births and in about 30 per 1,000 stillbirths. The 
+etiology of heart abnormalities is heterogeneous and probably 
+depends on the interplay of multiple genetic and environmental 
+factors. Heart abnormalities are found in more than 90% of 
+The 11–13+6 weeks scan 
+
+fetuses with trisomy 18 or 13 and 40% of those with trisomy 
+21 or Turner syndrome. Prenatal studies of ultrasonographically 
+detectable fetal cardiac abnormalities, have reported chromosomal 
+defects in about 25% of cases. 
+Exomphalos 
+The birth prevalence of exomphalos is about 1 per 4,000. The 
+condition is usually sporadic but in some cases there may be 
+an associated genetic syndrome. Chromosomal defects, mainly 
+trisomies 18 and 13, are found in about 30% of cases at mid-
+gestation and in 15% of neonates. The prevalence of chromosomal 
+defects is four-times higher when the exomphalos sac 
+contains only bowel than in cases where the liver is included. 
+Esophageal atresia 
+The birth prevalence of esophageal atresia is about 1 per 3,000. 
+In 90% of cases there is an associated tracheoesophageal fistula. 
+The condition is sporadic. Chromosomal defects are found in 
+3–4% of affected neonates. Prenatally, chromosomal defects, 
+mainly trisomy 18, are found in about 20% of cases. 
+Duodenal atresia 
+The birth prevalence of duodenal atresia or stenosis is about 1 
+per 5,000. In most cases the condition is sporadic, although in 
+some cases there is an autosomal recessive pattern of inheritance. 
+Trisomy 21 is found in about 40% of cases. 
+Urinary tract abnormalities 
+Prenatal studies have established that urinary tract abnormalities 
+are commonly found in many chromosomal defects. The risk for 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+chromosomal defects is similar for fetuses with unilateral or 
+bilateral involvement, different types of renal abnormalities, 
+urethral or ureteric obstruction, and oligohydramnios or normal 
+amniotic fluid volume. However, the prevalence of chromosomal 
+abnormalities in females is double that in males. The pattern 
+of chromosomal defects, and consequently that of associated 
+malformations, is related to the different types of renal 
+abnormalities. Thus, in mild hydronephrosis, the commonest 
+chromosomal defect is trisomy 21, whereas in moderate/severe 
+hydronephrosis, multicystic kidneys, or renal agenesis the 
+commonest defects are trisomies 18 and 13. 
+Limb abnormalities 
+Trisomies 21, 18, triploidy and Turner syndrome are associated 
+with relative shortening of the long bones. Syndactyly is associated 
+with triploidy, clinodactyly and sandal gap with trisomy 21, 
+polydactyly with trisomy 13, overlapping fingers, rocker bottom 
+feet and talipes with trisomy 18. 
+Fetal growth restriction 
+Low birth weight is a common feature of many chromosomal 
+defects, but the prevalence of chromosomal defects in small for 
+gestational age neonates is only about 1%. However, data derived 
+from postnatal studies underestimate the association between 
+chromosomal defects and growth restriction, since many pregnancies 
+with chromosomally abnormal fetuses result in spontaneous 
+abortion or intrauterine death. The commonest chromosomal 
+defects associated with growth restriction are triploidy and 
+trisomy 18. 
+The highest prevalence of chromosomal defects is found in those 
+cases where in addition to the growth restriction there are fetal 
+structural abnormalities, the amniotic fluid volume is normal or 
+The 11–13+6 weeks scan 
+
+increased and in the group with normal Doppler flow velocity 
+waveforms from both uterine and umbilical arteries. Therefore, 
+growth restriction due to chromosomal defects presents differently 
+from growth restriction due to placental insufficiency, which is 
+characterized by reduced amniotic fluid volume and increased 
+impedance to flow in the uterine and/or umbilical arteries with 
+redistribution in the fetal circulation. 
+Major abnormalities 
+If the second trimester scan demonstrates major abnormalities, it 
+is advisable to offer fetal karyotyping, even if these abnormalities 
+are apparently isolated. The prevalence of such abnormalities is 
+low and therefore the cost implications are small. 
+If the abnormalities are either lethal or they are associated with 
+severe handicap, such as holoprosencephaly, fetal karyotyping 
+constitutes one of a series of investigations to determine the 
+possible cause and thus the risk of recurrence. 
+If the abnormality is potentially correctable by intrauterine 
+or postnatal surgery, such as diaphragmatic hernia, it may be 
+logical to exclude an underlying chromosomal defect – especially 
+because, for many of these conditions, the usual defect is trisomy 
+18 or 13. 
+Minor abnormalities or soft markers 
+Minor fetal abnormalities or soft markers are common and they 
+are not usually associated with any handicap, unless there is an 
+underlying chromosomal defect. Routine karyotyping of all pregnancies 
+with these markers would have major implications, both 
+in terms of miscarriage and in economic costs. It is best to base 
+counseling on an individual estimated risk for a chromosomal 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+defect, rather than the arbitrary advice that invasive testing is 
+recommended because the risk is ‘high’. 
+The estimated risk can be derived by multiplying the a priori 
+risk (based on maternal age, gestational age, history of previously 
+affected pregnancies and, where appropriate, the results of 
+previous screening by NT and/or biochemistry in the current 
+pregnancy) by the likelihood ratio of the specific abnormality or 
+marker. 
+The best estimates of both the positive and negative likelihood 
+ratios for each of the common markers of trisomy 21 are given 
+in Table 2 (Nyberg et al 2001, Bromley et al 2002, Nicolaides 
+2003). 
+Major or minor abnormalities are found in about 75% of fetuses 
+with trisomy 21 and in 10–15% of chromosomally normal 
+fetuses. On the basis of these data the likelihood ratio for trisomy 
+21 if there is no detectable abnormality or marker is 0.30. 
+In each case the likelihood ratio is derived by dividing the 
+prevalence of a given marker in trisomy 21 pregnancies by its 
+prevalence in chromosomally normal pregnancies. For example, 
+an intracardiac echogenic focus is found in 28.2% of trisomy 
+21 fetuses and in 4.4% chromosomally normal fetuses, resulting 
+in a positive likelihood ratio of 6.41 (28.2 / 4.4) and a negative 
+likelihood ratio of 0.75 (71.8 / 95.6). Consequently, the finding 
+of an echogenic focus increases the background risk by a factor 
+of 6.41, but at the same time absence of this marker should 
+reduce the risk by 25%. 
+The same logic applies to each one of the six markers in Table 2. 
+Thus, in a 25 year old woman undergoing an ultrasound scan 
+at 20 weeks of gestation the a priori risk is about 1 in 1,000. If 
+the scan demonstrates an intracardiac echogenic focus, but the 
+nuchal fold is not increased, the humerus and femur are not 
+The 11–13+6 weeks scan 
+
+Table 2. Prevalence of major and minor abnormalities or markers in the second trimester scan in trisomy 
+21 and chromosomally normal fetuses in the combined data of two major series (Nyberg et al 2001, 
+Bromley et al 2002). From these data the positive and negative likelihood ratios (with 95% confidence 
+interval) for each marker can be calculated. In the last column is the likelihood ratio for each marker 
+found in isolation. 
+Sonographic Trisomy Normal Positive Negative LR for 
+marker 21 LR LR isolated 
+marker 
+Nuchal fold 107/319 59/9331 53.05 0.67 9.8 
+(33.5%) (0.6%) (39.37–71.26) (0.61–0.72) 
+Short humerus 102/305 136/9254 22.76 0.68 4.1 
+(33.4%) (1.5%) (18.04–28.56) (0.62–0.73) 
+Short femur 132/319 486/9331 7.94 0.62 1.6 
+(41.4%) (5.2%) (6.77–9.25) (0.56–0.67) 
+Hydronephrosis 56/319 242/9331 6.77 0.85 1.0 
+(17.6%) (2.6%) (5.16–8.80) (5.16–8.80) 
+Echogenic focus 75/266 401/9119 6.41 0.75 1.1 
+(28.2%) (4.4%) (5.15–7.90) (0.69–0.80) 
+Echogenic bowel 39/293 58/9227 21.17 0.87 3.0 
+(13.3%) (0.6%) (14.34–31.06) (0.83–0.91) 
+Major defect 75/350 61/9384 32.96 0.79 5.2 
+(21.4%) (0.65%) (23.90–43.28) (0.74–0.83) 
+LR = Likelihood ratio 
+short and there is no hydronephrosis, hyperechogenic bowel or 
+major defect, the combined likelihood ratio should be 1.1 
+(6.41×0.67×0.68×0.62×0.85×0.87×0.79) and consequently 
+her risk remains at about 1 in 1,000. The same is true if the 
+only abnormal finding is mild hydronephrosis (likelihood ratio 
+of 1). In contrast, if the fetus is found to have both an intracardiac 
+echogenic focus and mild hydronephrosis but no other 
+abnormalities the combined likelihood ratio should be 8.42 
+(6.41×6.77×0.67×0.68×0.62×0.87×0.79) and consequently 
+the risk is increased from 1 in 1,000 to 1 in 119. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+There are no data on the interrelation between these second-
+trimester ultrasound markers and fetal NT or maternal serum 
+free b-hCG or PAPP-A at 11–13+6 weeks. However, there is 
+no obvious physiological reason for such an interrelation and it 
+is therefore reasonable to assume that they are independent. 
+Consequently, in estimating the risk in a pregnancy with a 
+marker, it is logical to take into account the results of previous 
+screening tests. For example, in a 32-year-old woman at 20 weeks 
+of gestation (background risk of 1 in 559), who had an 11–13+6 
+week assessment by NT measurement that resulted in a 7-fold 
+reduction in risk (to 1 in 3913), after the diagnosis of isolated 
+echogenic bowel at the 20-week scan, the estimated risk would 
+increase by a factor of three to 1 in 1304. However, for the same 
+ultrasound finding in the absence of prior NT screening the risk 
+would increase from 1 in 559 to 1 in 186. 
+There are some exceptions to this process of sequential screening, 
+which assumes independence between the findings of different 
+screening results. The findings of nuchal edema or a cardiac 
+defect at the mid-trimester scan cannot be considered independently 
+of NT screening at 11–13+6 weeks. 
+The 11–13+6 weeks scan 
+
+REFERENCES 
+Borrell A, Martinez JM, Seres A, Borobio V, Cararach V, Fortuny A. Ductus venosus 
+assessment at the time of nuchal translucency measurement in the detection of fetal 
+aneuploidy. Prenat Diagn 2003;23:921–6. 
+Bromley B, Lieberman E, Shipp TD, Benacerraf BR. The genetic sonogram. A method 
+of risk assessment for Down syndrome in the second trimester. J Ultrasound Med 
+2002;21:1087–96. 
+Cicero S, Curcio P, Papageorghiou A, Sonek J, Nicolaides KH. Absence of nasal 
+bone in fetuses with trisomy 21 at 11–14 weeks of gestation: an observational study. 
+Lancet 2001;358:1665–7. 
+Cicero S, Bindra R, Rembouskos G, Spencer K, Nicolaides KH. Integrated ultrasound 
+and biochemical screening for trisomy 21 at 11 to 14 weeks. Prenat Diagn 2003; 
+23:306–10. 
+Cicero S, Sonek JD, McKenna DS, Croom CS, Johnson L, Nicolaides KH. Nasal bone 
+hypoplasia in trisomy 21 at 15–22 weeks’ gestation. Ultrasound Obstet Gynecol 
+2003;21:15–8. 
+Cicero S, Rembouskos G, Vandecruys H, Hogg M, Nicolaides KH. Likelihood ratio for 
+trisomy 21 in fetuses with absent nasal bone at the 11–14 weeks scan. Ultrasound 
+Obstet Gynecol 2004;23:218–23. 
+Cicero S, Curcio P, Rembouskos G, Sonek J, Nicolaides KH. Maxillary length at 
+11–14 weeks of gestation in fetuses with trisomy 21. Ultrasound Obstet Gynecol 
+2004;24:19–22. 
+Down LJ. Observations on an ethnic classification of idiots. Clin Lectures and Reports, 
+London Hospital 1866;3:259–62. 
+Farkas LG, Katic MJ,Forrest CR, Litsas L. Surface anatomy of the face in Down’s 
+syndrome: linear and angular measurements in the craniofacial regions. J Craniofac 
+Surg 2001;12:373–9. 
+Liao AW, Snijders R, Geerts L, Spencer K, Nicolaides KH. Fetal heart rate in 
+chromosomally abnormal fetuses. Ultrasound Obstet Gynecol 2000;16:610–3. 
+Liao AW, Sebire NJ, Geerts L, Cicero S, Nicolaides KH. Megacystis at 10–14 weeks 
+of gestation: Chromosomal defects and outcome according to bladder length. 
+Ultrasound Obstet Gynecol 2003;21:338–41. 
+Longo D, DeFigueiredo D, Cicero S, Sacchini C, Nicolaides KH. Femur and humerus 
+length in trisomy 21 fetuses at 11–14 weeks of gestation. Ultrasound Obstet Gynecol 
+2004;23:143–7. 
+Matias A, Gomes C, Flack N, Montenegro N, Nicolaides KH. Screening for chromosomal 
+abnormalities at 11–14 weeks: the role of ductus venosus blood flow. 
+Ultrasound Obstet Gynecol 1998;2:380–4. 
+Chapter 2 • Sonographic features of chromosomal defects 
+
+Nicolaides KH, Sebire NJ, Snijders JM. Crown rump length in chromosomally 
+abnormal fetuses. In Nicolaides KH (Ed) The 11–14-week scan-The diagnosis of fetal 
+abnormalities. New York: Parthenon Publishing, 1996, pp31–3. 
+Nicolaides KH, Snijders RJM, Gosden RJM, Berry C, Campbell S. Ultrasonographically 
+detectable markers of fetal chromosomal abnormalities. Lancet 1992; 
+340:704–7. 
+Nicolaides KH. Screening for chromosomal defects. Ultrasound Obstet Gynecol 
+2003;21:313–21. 
+Nicolaides KH. Nuchal translucency and other first-trimester sonographic markers of 
+chromosomal abnormalities. Am J Obstet Gynecol 2004;191:45–67. 
+Nyberg DA, Souter VL, El-Bastawissi A, Young S, Luthhardt F, Luthy DA. Isolated 
+sonographic markers for detection of fetal Down syndrome in the second trimester of 
+pregnancy. J Ultrasound Med 2001;20:1053–63. 
+Rembouskos G, Cicero S, Longo D, Sacchini C, Nicolaides KH. Single Umbilical 
+Artery at 11–14 weeks: relation to chromosomal defects. Ultrasound Obstet Gynecol 
+2003;22:567–70. 
+Sacchini C, El-Sheikhah A, Cicero S, Rembouskos G, Nicolaides KH. Ear length 
+in trisomy 21 fetuses at 11–14 weeks of gestation. Ultrasound Obstet Gynecol 
+2003;22:460–3. 
+Snijders RJM, Noble P, Sebire N, Souka A, Nicolaides KH. UK multicentre project 
+on assessment of risk of trisomy 21 by maternal age and fetal nuchal translucency 
+thickness at 10–14 weeks of gestation. Lancet 1998;351:343–6. 
+Snijders RJM, Brizot ML, Faria M, Nicolaides KH. Fetal exomphalos at 11–14 weeks 
+of gestation. J Ultrasound Med 1995;14:569–74. 
+Snijders RJM, Nicolaides KH. Sequential screening. In: Nicolaides KH, editor. 
+Ultrasound Markers for Fetal Chromosomal Defects. Carnforth, UK: Parthenon 
+Publishing, 1996, pp109–13. 
+Sonek J, Nicolaides KH. Prenatal ultrasonographic diagnosis of nasal bone 
+abnormalities in three fetuses with Down syndrome. Am J Obstet Gynecol 
+2002;186:139–41. 
+Whitlow BJ, Lazanakis ML, Kadir RA, Chatzipapas I, Economides DL. The significance 
+of choroid plexus cysts, echogenic heart foci and renal pyelectasis in the first 
+trimester. Ultrasound Obstet Gynecol 1998;12:385–90. 
+The 11–13+6 weeks scan 
+
+3
+INCREASED NUCHAL TRANSLUCENCY WITH 
+NORMAL KARYOTYPE 
+Increased fetal NT thickness is a common phenotypic expression 
+of trisomy 21 and other chromosomal abnormalities, but it is 
+also associated with fetal death and a wide range of fetal malformations, 
+deformations, dysgeneses, and genetic syndromes. This 
+chapter reviews the outcome of chromosomally normal fetuses 
+with increased NT. On the basis of these data it is possible to 
+estimate, for each NT group, the chances of intrauterine survival 
+and delivery of a healthy baby with no major abnormalities. 
+These data are useful in counselling parents of pregnancies with 
+increased fetal NT and in planning the appropriate follow-up 
+investigations. 
+In normal fetuses NT thickness increases with fetal crown-rump 
+length (CRL). The median and 95th centile of NT at a CRL of 
+45 mm are 1.2, and 2.1 mm and the respective values at CRL of 
+84 mm are 1.9 and 2.7 mm (Snijders et al 1998). The 99th centile 
+does not change significantly with CRL and it is about 3.5 mm. 
+Increased NT, refers to a measurement above the 95th centile and 
+the term is used irrespective of whether the collection of fluid 
+is septated or not and whether it is confined to the neck or 
+envelopes the whole fetus. After 14 weeks, increased NT usually 
+resolves but in some cases it evolves into nuchal edema or cystic 
+hygromas. 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+Table 1. Relation between nuchal translucency thickness and prevalence of chromosomal defects, 
+miscarriage or fetal death and major fetal abnormalities. In the last column is the estimated prevalence 
+of delivery of a healthy baby with no major abnormalities. 
+Nuchal 
+translucency 
+Chromosomal 
+Defects 
+NorFetal death 
+mal karyMajor fetal 
+abnormalities 
+otypeAlive and 
+well 
+<95th centile 0.2% 1.3% 1.6% 97% 
+95th–99th centiles 3.7% 1.3% 2.5% 93% 
+3.5–4.4 mm 21.1% 2.7% 10.0% 70% 
+4.5–5.4 mm 33.3% 3.4% 18.5% 50% 
+5.5–6.4 mm 50.5% 10.1% 24.2% 30% 
+=6.5 mm 64.5% 19.0% 46.2% 15% 
+OUTCOME OF FETUSES WITH INCREASED NUCHAL TRANSLUCENCY 
+The relation between NT thickness and the prevalence of 
+chromosomal defects, miscarriage or fetal death and major fetal 
+abnormalities is summarized in Table 1 (Souka et al 2004). 
+Chromosomal defects 
+The prevalence of chromosomal defects increases exponentially 
+with NT thickness (Table 1; Snijders et al 1998). In the chromosomally 
+abnormal group, about 50% have trisomy 21, 25% 
+have trisomy 18 or 13, 10% have Turner syndrome, 5% have 
+triploidy and 10% have other chromosomal defects. 
+Fetal death 
+In chromosomally normal fetuses, the prevalence of fetal death 
+increases exponentially with NT thickness from 1.3% in those 
+The 11–13+6 weeks scan 
+
+with NT between the 95th and 99th centiles to about 20% for NT 
+of 6.5 mm or more (Table 1; Souka et al 2001, Michailidis 
+and Economides 2001). The majority of fetuses that die do so by 
+20 weeks and they usually show progression from increased NT 
+to severe hydrops. 
+Fetal abnormalities 
+Major fetal abnormalities are defined as those requiring medical 
+and/or surgical treatment or conditions associated with mental 
+handicap. Several studies have reported that increased fetal NT 
+is associated with a high prevalence of major fetal abnormalities. 
+In the combined data of 28 studies on a total of 6153 chromosomally 
+normal fetuses with increased NT the prevalence of 
+major abnormalities was 7.3% (Souka et al 2004) However, there 
+were large differences between the studies in the prevalence 
+of major abnormalities, ranging from 3% to 50%, because of 
+differences in their definition of the minimum abnormal NT 
+thickness, which ranged from 2 mm to 5 mm. 
+The prevalence of major fetal abnormalities in chromosomally 
+normal fetuses increases with NT thickness, from 1.6%, in those 
+with NT below the 95th centile, to 2.5% for NT between the 95th 
+and 99th centiles and exponentially thereafter to about 45% for 
+NT of 6.5 mm or more (Table 1; Souka et al 2001, Michailidis 
+and Economides 2001). 
+Developmental delay 
+Studies on the long term follow up of chromosomally and 
+anatomically normal fetuses with increased NT reported that the 
+prevalence of developmental delay is 2–4% (Souka et al 2004). 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+However, it is difficult to assess the true significance of these 
+findings because only one of the studies had a control group for 
+comparison. Brady et al (1998), performed a clinical follow up 
+study of 89 children that in fetal life had NT of 3.5 mm or more 
+and 302 children whose fetal NT was less than 3.5 mm. Delay in 
+achievement of developmental milestones was observed in one of 
+the children in each group. 
+ABNORMALITIES ASSOCIATED WITH INCREASED NT 
+A wide range of fetal abnormalities have been reported in fetuses 
+with increased NT and these are summarized in Table 2. 
+The observed prevalence for some of the abnormalities, such 
+as anencephaly, holoprosencephaly, gastroschisis, renal abnormalities 
+and spina bifida, may not be different from that in the 
+general population. However, the prevalence of major cardiac 
+abnormalities, diaphragmatic hernia, exomphalos, body stalk 
+anomaly, skeletal abnormalities, and certain genetic syndromes, 
+such as congenital adrenal hyperplasia, fetal akinesia deformation 
+sequence, Noonan syndrome, Smith-Lemli-Opitz syndrome and 
+spinal muscular atrophy, appears to be substantially higher than 
+in the general population and it is therefore likely that there is a 
+true association between these abnormalities and increased NT. 
+Cardiac defects 
+There is a high association between increased NT and cardiac 
+defects in both chromosomally abnormal and normal fetuses 
+(Hyett et al 1997, 1999). Eight studies have reported on the 
+screening performance of NT thickness for the detection of 
+cardiac defects (Souka et al 2004). In total, 67,256 pregnancies 
+The 11–13+6 weeks scan 
+
+Table 2. Fetal abnormalities in fetuses with increased nuchal translucency thickness. 
+Central nervous system 
+defect 
+Gastrointestinal defect Fetal anemia 
+Acrania / anencephaly Crohn’s disease Blackfan Diamond anaemia 
+Agenesis of the corpus callosum Duodenal atresia Congenital erythropoietic porphyria 
+Craniosynostosis Esophageal atresia Dyserythropoietic anaemia 
+Dandy Walker malformation Small bowel obstruction Fanconi anemia 
+Diastematomyelia Parvovirus B19 infection 
+Encephalocele Genitourinary defect Thalassaemia-a 
+Fowler syndrome Ambiguous genitalia 
+Holoprosencephaly Congenital adrenal hyperplasia Neuromuscular defect 
+Hydrolethalus syndrome Congenital nephrotic syndrome Fetal akinesia deformation sequence 
+Iniencephaly Hydronephrosis Myotonic dystrophy 
+Joubert syndrome Hypospadias Spinal muscular atrophy 
+Macrocephaly Infantile polycystic kidneys 
+Microcephaly Meckel-Gruber syndrome Metabolic defect 
+Spina bifida Megacystis Beckwith-Wiedemann syndrome 
+Trigonocephaly C Multicystic dysplastic kidneys GM1 gangliosidosis 
+Ventriculomegaly Renal agenesis Long-chain 3-hydroxyacyl-coenzyme 
+A dehydrogenase deficiency 
+Mucopolysaccharidosis type VII 
+Facial defect Skeletal defect Smith-Lemli-Opitz syndrome 
+Agnathia/micrognathia Achondrogenesis Vitamin D resistant rickets 
+Facial cleft Achondroplasia Zellweger syndrome 
+Microphthalmia Asphyxiating thoracic dystrophy 
+Treacher-Collins syndrome Blomstrand Other defect 
+osteochondrodysplasia 
+Campomelic dwarfism Body stalk anomaly 
+Nuchal defect Cleidocranial dysplasia Brachmann-de Lange syndrome 
+Cystic hygroma Hypochondroplasia CHARGE association 
+Neck lipoma Hypophosphatasia Deficiency of the immune system 
+Jarcho-Levin syndrome Congenital lymphedema 
+Cardiac defect Kyphoscoliosis EEC syndrome 
+Di George syndrome Limb reduction defect Neonatal myoclonic encephalopathy 
+Nance-Sweeney syndrome Noonan syndrome 
+Pulmonary defect Osteogenesis imperfecta Perlman syndrome 
+Cystic adenomatoid Roberts syndrome Stickler syndrome 
+malformation 
+Diaphragmatic hernia Robinow syndrome Unspecified syndrome 
+Fryn syndrome Short-rib polydactyly syndrome Severe developmental delay 
+Sirenomelia 
+Abdominal wall defect Talipes equinovarus 
+Cloacal exstrophy Thanatophoric dwarfism 
+Exomphalos VACTER association 
+Gastroschisis 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+were examined and the prevalence of major cardiac defects was 
+2.4 per 1,000. For a false positive rate of 4.9%, the detection rate 
+of cardiac defects was 37.5%. 
+A meta-analysis of screening studies reported that the detection 
+rates were about 37% and 31% for the respective NT cut-offs 
+of the 95th and 99th centiles (Makrydimas et al 2003). In 
+chromosomally normal fetuses, the prevalence of major cardiac 
+defects increases exponentially with NT thickness from 1.6 per 
+1,000 in those with NT below the 95th centile, to about 1% for 
+NT of 2.5–3.4 mm, 3% for NT of 3.5–4.4 mm, 7% for NT of 
+4.5–5.4 mm, 20% for NT of 5.5–6.4 mm and 30% for NT of 
+6.5 mm or more (Souka et al 2004). 
+The clinical implication of these findings is that increased NT 
+constitutes an indication for specialist fetal echocardiography. 
+Certainly, the overall prevalence of major cardiac defects in such 
+a group of fetuses (1–2%) is similar to that found in pregnancies 
+affected by maternal diabetes mellitus or with a history of a 
+previously affected offspring, which are well accepted indications 
+for fetal echocardiography. 
+At present, there may not be sufficient facilities for specialist 
+fetal echocardiography to accommodate the potential increase in 
+demand if the 95th centile of nuchal translucency thickness is 
+used as the cut-off for referral. In contrast, a cut-off of the 99th 
+centile would result in only a small increase in workload and, in 
+this population the prevalence of major cardiac defects would be 
+very high. 
+Patients identified by NT scanning as being at high risk for 
+cardiac defects need not wait until 20 weeks for specialist echocardiography. 
+Improvements in the resolution of ultrasound 
+machines have now made it possible to undertake detailed 
+The 11–13+6 weeks scan 
+
+cardiac scanning in the first trimester of pregnancy. A specialist 
+scan from 13 weeks can effectively reassure the majority of 
+parents that there is no major cardiac defect. In the cases with 
+a major defect, the early scan can either lead to the correct 
+diagnosis or at least raise suspicions so that follow-up scans are 
+carried out. 
+The best strategy of screening for major cardiac abnormalities 
+is to carry out specialist fetal echocardiography in patients with 
+increased NT at 11–13+6 weeks and in those with an abnormal 
+four-chamber view in the routine mid-trimester scan. These 
+two indications are complimentry. Thus, major defects, such 
+as tetralogy of Fallot, transposition of the great arteries and 
+coarctation of the aorta are rarely detected by routine examination 
+of the four-chamber view. However, a high proportion of these 
+abnormalities present with increased NT. 
+Body stalk anomaly 
+This lethal, sporadic abnormality is found in about 1 in 10,000 
+fetuses at 10–13+6 weeks. The ultrasonographic features are 
+major abdominal wall defect, severe kyphoscoliosis and short 
+umbilical cord with a single artery (Daskalakis et al 1997). The 
+upper half of the fetal body is seen in the amniotic cavity, whereas 
+the lower part is in the celomic cavity, suggesting that early 
+amnion rupture before obliteration of the celomic cavity is a possible 
+cause of the syndrome. Although the fetal NT is increased 
+in about 85% of the cases, the karyotype is usually normal. 
+Diaphragmatic hernia 
+Increased NT thickness is present in about 40% of fetuses with 
+diaphragmatic hernia, including more than 80% of those that 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+result in neonatal death due to pulmonary hypoplasia and in 
+about 20% of the survivors (Sebire et al 1997). It is possible 
+that in fetuses with diaphragmatic hernia and increased NT the 
+intrathoracic herniation of the abdominal viscera occurs in the 
+first trimester and prolonged compression of the lungs causes 
+pulmonary hypoplasia. In the cases where diaphragmatic hernia 
+is associated with a good prognosis, the intrathoracic herniation 
+of viscera may be delayed until the second or third trimesters of 
+pregnancy. 
+Exomphalos 
+At 11–13+6 weeks the incidence of exomphalos is about 1 in 
+1,000 and the incidence of chromosomal defects, mainly trisomy 
+18, is about 60% (Snijders et al 1995). Increased NT is 
+observed in about 85% of chromosomally abnormal and 40% 
+of chromosomally normal fetuses with exomphalos. 
+Megacystis 
+Fetal megacystis at 11–13+6 weeks of gestation, defined by a 
+longitudinal bladder diameter of 7 mm or more, is found 
+in about 1 in 1,500 pregnancies. Megacystis is associated with 
+increased NT, which is observed in about 75% of those with 
+chromosomal abnormalities, mainly trisomy 13, and in about 
+30% of those with normal karyotype (Liao et al 2003). 
+Genetic syndromes 
+The genetic syndromes associated with increased NT are 
+summarised in Table 3. 
+The 11–13+6 weeks scan 
+
+Table 3. Genetic syndromes reported in fetuses with increased nuchal translucency thickness.
+Genetic syndrome Inheritance Birth prevalence Prognosis and common sonographically detectable abnormalitiesAchondrogenesis AR 1 in 40,000 Lethal skeletal dysplasia. Severe limb shortening, narrow thorax, hypomineralization ofthe vertebral bodies. Mineralization of the skull normal in type II and poor in type I.
+Achondroplasia* AD 1 in 26,000 Intelligence and life expectancy are normal. Macrocephaly, depressed nasal bridge,
+lumbar lordosis and short limbs, usually after 22 weeks.
+Adrenal hyperplasia* AR 1 in 5,000 Deficiency in one of the enzymes of cortisol biosynthesis, resulting in overproduction ofcortisol precursors and androgens. Increased NT, ambiguous genitalia in females.
+Asphyxiating thoracic 
+dystrophy 
+AR 1 in 70,000 Variable prognosis from neonatal death to normal survival. Narrow chest and rhizomeliclimb shortening, which may not become apparent until after 22 weeks.
+Beckwith–Wiedemannsyndrome 
+Sporadic 1 in 14,000 In some cases, there is mental handicap, which is thought to be secondary toinadequately treated hypoglycemia. About 5% develop tumors during childhood, mostcommonly nephroblastoma and hepatoblastoma. Prenatal sonographic features includemacrosomia and exomphalos.
+Blackfan-Diamondanemia 
+AD, AR 1 in 200,000 Congenital hypoplastic anemia requiring treatment with steroids and repeated bloodtransfusions. The risk of hematologic malignancies, mainly acute leukemia, is increased.
+Thumb defects, hypertelorism, cardiac and urogenital anomalies.
+BlomstrandosteochondrodysplasiaAR Rare Lethal skeletal dysplasia. Severe limb shortening, narrow thorax, increased bone density.
+Brachmann-Cornelia de 
+Lange syndrome 
+AD 1 in 160,000 Mental handicap. Fetal growth restriction, short limbs, heart defects, diaphragmatichernia. 
+Campomelic dysplasia AR 1 in 200,000 Lethal skeletal dysplasia. Short and bowed lower limbs with narrow thorax.
+CHARGE association Sporadic Rare Acronym for Coloboma of the eye, Heart anomaly, choanal Atresia, growth and mentalRetardation, Gonadal hypoplasia and Ear abnormalities and/or deafness. There maynot be any antenatal sonographic findings.
+Cleidocranial dysplasia AD Rare Normal life expectancy. Hypoplastic clavicles and nasal bone. 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+The 11–13+6 weeks scan 
+Table 3. Continued
+Genetic syndrome Inheritance 
+Di George syndrome Sporadic 
+hypocalcemia, due to hypoplasia of the parathyroid glands, and susceptibility toinfection due to hypoplasia or aplasia of the thymus gland. A variety of cardiacmalformations are seen, including tetralogy of Fallot, interrupted aortic arch, truncusarteriosus, right aortic arch and aberrant right subclavian artery. Short stature and mildto moderate learning difficulties are common.
+Dyserythropoietic AD, AR Rare Congenital, usually mild anemia. In some cases there is severe anemia presenting withanemia fetal hydrops.
+Ectrodactyly-ectodermal Rare 
+dysplasia-cleft palatesyndromeErythropoietic AR Rare Usually presents during childhood with severe cutaneous photosensitivity withporphyria 
+and chronic hemolytic anemia. Severe cases present with fetal hydrops.
+Fanconi anemia AR Congenital aplastic anemia characterised by pancytopenia and spontaneouschromosome instability. The phenotype and age of onset are variable. There may be noprenatal sonographically detectable abnormalities.
+Fetal akinesia AR, Rare 
+deformation sporadic associated with fetal myopathy, neuropathy or an underlying connective tissuesequence abnormality. Severe cases present with arthrogryposis and increased NT in the firsttrimester. 
+AR Rare 
+disorganisation and hemorrhagic necrosis of the developing brain. Prenatal featuresinclude hydranencephaly and arthrogryposis.
+Fryn syndrome AR Usually lethal. Diaphragmatic hernia, digital defects, short webbed neck.
+Birth prevalence Prognosis and common sonographically detectable abnormalities1 in 4,000 Results from de novo 22q11 deletion in 90% of cases. Characterized by neonatalAD Wide variability in phenotypic expression. Split hand and foot, cleft lip and/or palate.
+progressive bullous lesions, leading to infection, bone resorption, cutaneous deformity(Gunther’s disease) 
+1 in 22,000 
+Heterogeneous group of conditions resulting in multiple joint contractures, frequentlyFowler syndrome Proliferative vasculopathy of the central nervous system that leads to disruption,
+1 in 15,000 
+
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+Table 3. 
+Continued
+Genetic syndrome Inheritance 
+GM1-Gangliosidosis* 
+AR 
+Rare 
+motor and mental development. Death occurs within the first 10 years of life from chestinfections. Prenatal sonographic findings include visceromegaly and generalized edema.
+Hydrolethalus 
+AR 
+1 in 20,000 
+Lethal condition characterized by hydrocephalus, absent corpus callosum, facial cleft,
+syndromeHypochondroplasia 
+Resembles achondroplasia and is characterised by short-limb dwarfism manifestingduring childhood. Prenatally there may be short limbs and macrocephaly.
+Hypophosphatasia 
+AR 
+Subdivided into perinatal, infantile, childhood and adult forms, according to the age ofonset of symptoms. In the perinatal type there is hypomineralization of the skull andspine, short limbs and narrow thorax.
+Infantile polycystic 
+AR 
+Subdivided into perinatal, neonatal, infantile, and juvenile, depending on the severity ofthe disease and age of presentation. Prenatal sonographic features include large,echogenic kidneys and oligohydramnios.
+Jarcho–Levin 
+AR 
+Heterogeneous disorder characterized by scoliosis and disorganization of the spine.
+syndrome 
+respiratory insufficiency in infancy. Spondylocostal dysplasia is associated with survivalto adult life but with some degree of physical disability.
+Joubert syndrome 
+AR 
+Rare 
+5 years of life. Partial or complete absence of the cerebellar vermis.
+Long-chain 
+AR 
+Rare 
+Lethal disorder. Muscular hypotonia, cardiomyopathy, hydrops.
+3-hydroxyacyl-coenzyme Adehydrogenasedeficiency*
+Lymphedema 
+Rare 
+subtypes, congenital (Milroy disease, present at birth), praecox (pubertal onset) andtarda (midlife onset), with congenital lymphedema being the rarest and most severe ofthe three. There may be no prenatal sonographic findings.
+Birth prevalence Prognosis and common sonographically detectable abnormalitiesProgressive neurological deterioration, resulting in early and severe retardation of bothmicrognathia, polydactyly, talipes and cardiac septal defects.
+AD 
+1 in 26,000 
+1 in 100,000 
+1 in 10,000 
+kidney disease 
+1 in 500,000 
+There are two types. In spondylothoracic dysplasia there is a narrow thorax and lethalProfound mental retardation and developmental delay. Death usually occurs in the firstAD 
+Hypoplastic/aplastic lymphatic vessels, usually affecting the lower limbs. Three clinical
+
+Table 3. Continued
+Genetic syndrome Inheritance Birth prevalence Prognosis and common sonographically detectable abnormalitiesMeckel–GrubersyndromeAR 1 in 10,000 Lethal. Typical features are encephalocele, bilateral polycystic kidneys, polydactyly.
+Mucopolysaccharidosistype VII* 
+AR Rare Mental retardation, short stature, macrocephaly, hearing loss, corneal opacities andrecurrent lower respiratory tract infection.
+Myotonic dystrophy* AD 1 in 25,000 The genetic defect is an amplified trinucleotide repeat in a protein kinase gene onchromosome 19. Age of onset and severity of disease vary with the number ofrepeats. The mutation can worsen progressively in successive generations and thesevere congenital form occurs almost exclusively in the offspring of affected women.
+Prenatal sonographic signs may be decreased fetal movements and polyhydramniosin the third trimester.
+Nance–SweeneysyndromeAR Rare Intelligence and life expectancy are normal. Short limbs, vertebral abnormalities.
+Nephritic syndrome* ARin Finland 
+1 in 8,000 Renal failure requiring transplantation within the first 4 years of life. Prenatally maypresent with transient hydrops.
+Noonan syndrome AD 1 in 2,000 Life expectancy is probably normal in those without severe heart disease. Mildmental retardation is present in about one-third of cases. The majority of cases arediagnosed postnatally. Prenatal sonographic findings include skin edema,
+hydrothorax, polyhydramnios and cardiac defects, such as pulmonic stenosis andhypertrophic cardiomyopathy but these may become apparent only in the thirdtrimester. 
+Osteogenesisimperfecta type II* 
+AR 1 in 60,000 Lethal skeletal dysplasia. Short limbs and ribs with multiple fractures,
+hypomineralization of the skull.
+Perlman syndrome AR Rare Similar to Beckwith–Wiedemann syndrome. Fetal and neonatal mortality is more than60% and, in survivors, there is a high incidence of neurodevelopmental delay.
+Sonographic features include progressive macrosomia and enlarged kidneys. 
+The 11–13+6 weeks scan 
+
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+Table 3. Continued
+Genetic syndrome Inheritance Birth prevalence Prognosis and common sonographically detectable abnormalitiesAR Rare 
+puffing. Characterized by symmetrical limb defects of variable severity(tetraphocomelia), facial cleft, microcephaly and growth restriction.
+AR Rare 
+anomalies. 
+AR Rare 
+syndrome 
+type III (Naumoff) has wide metaphyses with spurs; type IV (Beemer–Langer) ischaracterized by median cleft lip, extremely short ribs and proruberant abdomenwith umbilical hernia. Prenatal sonographic findings include short limbs, narrowthorax and polydactyly.
+Smith–Lemli–Opitz AR 
+syndrome* 
+external genitalia in the male.
+AR Progressive muscle weakness leading to death before two years of age because ofrespiratory failure. Decreased fetal movements are commonly reported andsymptoms usually start at birth or up to six months of age.
+Progressive myopia beginning in the first decade of life, resulting in retinaldetachment and blindness, sensorineural hearing loss, marfanoid habitus withnormal height, premature degenerative changes in various joints. There may be noprenatal sonographic findings but in some cases there is a facial cleft, ormicrognathia. 
+Thalassaemia-a* The alpha locus determines a polypeptide chain, the á-chain, which is present inMediterranean adult hemoglobin (a2/b2), fetal hemoglobin (a2/c2) and embryonic hemoglobinand Asian (a2/d2). Normally there are four alpha gene copies. Absence of all four a-genes 
+populations a-thalassemia, which presents with hydrops fetalis,
+usually in the second trimester. 
+Roberts syndrome Associated with the cytogenetic finding of premature centromere separation andRobinow syndrome Skeletal defect with short forearms, frontal bossing, hypertelorism and vertebralShort-rib polydactyly Lethal skeletal dysplasia. There are four types. Type I (Saldino–Noonan) has narrowmetaphyses; type II (Majewski) has facial cleft and disproportionally shortened tibiae;
+1 in 20,000 High perinatal and infant mortality and severe mental retardation. Prenatalsonographic features include polydactyly, cardiac defects, ambiguous or femaleSpinal muscular 1 in 7,000 
+atrophy type 1* 
+Stickler syndrome AD 1 in 10,000 
+AR Common in 
+results in homozygous 
+
+Table 3. Continued
+Genetic syndrome Inheritance Birth prevalence Prognosis and common sonographically detectable abnormalitiesThanatophoricdysplasia* 
+Sporadic 1 in 10,000 Lethal skeletal dysplasia. Severe limb shortening, narrow thorax, enlarged head withprominent forehead. 
+Treacher Collins 
+syndromeAD 1 in 50,000 Normal life expectancy. Micrognathia, deformities of the ears.
+Trigonocephaly ‘C’ 
+syndrome 
+AR 1 in 15,000 About half of the affected individuals die in infancy while survivors are severelymentally handicapped with progressive microcephaly.Trigonocephaly, short nose,
+prominent maxilla. 
+VACTER association Sporadic, AR 1 in 6,000 Acronym for Vertebral abnormalities, Anal atresia, Cardiac defects, Tracheo-
+Esophageal fistula with esophageal atresia, Radial and Renal defects. Prognosisdepends on the particular combination and severity of the abnormalities present.
+Mental function is usually normal.
+Vitamin D resistentricketsAR Rare None. 
+Zellweger syndrome* AR 1 in 25,000 Death occurs in the first two years of life, most commonly due to chest infections andliver failure. Prenatal features include hypertelorism, brain and cardiac defects,
+hepatomegaly, growth restriction.
+*Genetic syndromes which are amenable to prenatal diagnosis by DNA analysis 
+The 11–13+6 weeks scan 
+
+PATHOPHYSIOLOGY OF INCREASED FETAL NT 
+The heterogeneity of conditions associated with increased NT 
+suggests that there may not be a single underlying mechanism for 
+the collection of fluid under the skin of the fetal neck. Possible 
+mechanisms include cardiac dysfunction, venous congestion in 
+the head and neck, altered composition of the extracellular 
+matrix, failure of lymphatic drainage, fetal anemia or hypoproteinemia 
+and congenital infection. 
+Pathophysiology of increased nuchal translucency 
+•Cardiac dysfunction 
+•Venous congestion in the head and neck 
+•Altered composition of the extracellular matrix 
+•Failure of lymphatic drainage 
+•Fetal anemia 
+•Fetal hypoproteinemia 
+•Fetal infection. 
+Cardiac dysfunction 
+Central to the hypothesis that heart failure contributes to 
+increased NT is the observation that in both chromosomally 
+abnormal and normal fetuses there is a high association between 
+increased NT and abnormalities of the heart and great arteries. 
+Furthermore, Doppler studies have reported abnormal flow in 
+the ductus venosus in fetuses with chromosomal and/or major 
+cardiac defects and increased NT (Matias et al 1999). 
+Venous congestion in the head and neck 
+Venous congestion in the head and neck could result from 
+constriction of the fetal body as encountered in amnion rupture 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+sequence, superior mediastinal compression found in diaphragmatic 
+hernia or the narrow chest in skeletal dysplasias. However, 
+in at least some of the cases of skeletal dysplasias, such as 
+osteogenesis imperfecta, an additional or alternative mechanism 
+for the increased NT may be the altered composition of the 
+extracellular matrix. 
+Altered composition of the extracellular matrix 
+Many of the component proteins of the extracellular matrix are 
+encoded on chromosomes 21, 18 or 13. Immunohistochemical 
+studies, examining the skin of chromosomally abnormal fetuses, 
+have demonstrated specific alterations of the extracellular matrix 
+which may be attributed to gene dosage effects (von Kaisenberg 
+et al 1998). Altered composition of the extracellular matrix may 
+also be the underlying mechanism for increased fetal NT in an 
+expanding number of genetic syndromes, which are associated 
+with alterations in collagen metabolism (such as achondrogenesis 
+type II, Nance–Sweeney syndrome, osteogenesis imperfecta 
+type II), abnormalities of fibroblast growth factor receptors (such 
+as achondroplasia and thanatophoric dysplasia) or disturbed 
+metabolism of peroxisome biogenesis factor (such as Zellweger 
+syndrome). 
+Failure of lymphatic drainage 
+A possible mechanism for increased NT is dilatation of the 
+jugular lymphatic sacs, because of developmental delay in the 
+connection with the venous system, or a primary abnormal dilatation 
+or proliferation of the lymphatic channels interfering with 
+a normal flow between the lymphatic and venous systems. 
+Immunohistochemical studies in nuchal skin tissue from fetuses 
+The 11–13+6 weeks scan 
+
+with Turner syndrome have shown that the lymphatic vessels in 
+the upper dermis are hypoplastic (von Kaisenberg et al 1999). 
+In chromosomally normal fetuses with increased NT, deficient 
+lymphatic drainage, due to hypoplastic or aplastic lymphatic 
+vessels, is found in association with Noonan syndrome and 
+congenital lymphedema. In congenital neuromuscular disorders, 
+such as fetal akinesia deformation sequence, myotonic dystrophy 
+and spinal muscular atrophy, increased NT may be the consequence 
+of impaired lymphatic drainage due to reduced fetal 
+movements. 
+Fetal anemia 
+Fetal anemia is associated with a hyperdynamic circulation and 
+fetal hydrops develops when the hemoglobin deficit is more than 
+7 g/dL (Nicolaides et al 1988). This is true for both immune and 
+non-immune hydrops fetalis. However, in red blood cell isoimmunization 
+severe fetal anemia does not occur before 16 weeks of 
+gestation, presumably because the fetal reticuloendothelial system 
+is too immature to result in destruction of antibody coated 
+erythrocytes. Consequently, red blood cell isoimmunization does 
+not present with increased fetal NT. In contrast, genetic causes 
+of fetal anemia (a-thalassemia, Blackfan-Diamond anemia, 
+congenital erythropoietic porphyria, dyserythropoietic anemia, 
+Fanconi anemia) and possibly congenital infection-related anemia 
+can present with increased fetal NT. 
+Fetal hypoproteinemia 
+Hypoproteinemia is implicated in the pathophysiology of both 
+immune and non-immune hydrops fetalis (Nicolaides et al 
+1995). In the first trimester, hypoproteinemia due to proteinuria 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+may be the underlying mechanism for the increased NT in 
+fetuses with congenital nephrotic syndrome. 
+Fetal infection 
+In about 10% of cases of ‘unexplained’ second- or third-trimester 
+fetal hydrops, there is evidence of recent maternal infection 
+and, in these cases, the fetus is also infected. In contrast, in 
+pregnancies with increased fetal NT and normal karyotype, only 
+1.5% of the mothers have evidence of recent infection and the 
+fetuses are rarely infected (Sebire et al 1997). 
+These findings suggest that, in pregnancies with increased fetal 
+NT, the prevalence of maternal infection with the TORCH 
+group of organisms is not higher than in the general population. 
+Furthermore, in cases of maternal infection, the presence of 
+increased fetal NT does not signify the presence of fetal infection 
+with these organisms. Therefore, increased NT in chromosomally 
+normal fetuses need not stimulate the search for maternal 
+infection unless the translucency evolves into second- or third-
+trimester nuchal edema or generalized hydrops. 
+The only infection that has been reported in association with 
+increased NT is Parvovirus B19. In this condition the increased 
+NT has been attributed to myocardial dysfunction or fetal 
+anemia due to suppression of hemopoiesis. 
+MANAGEMENT OF PREGNANCIES WITH INCREASED NT 
+The relation between NT thickness and chromosomal defects, 
+miscarriage or fetal death and prevalence of major fetal defects is 
+summarized in Table 1. On the basis of these data it is possible 
+to estimate, for each NT group, the chances of intrauterine 
+The 11–13+6 weeks scan 
+
+survival and delivery of a healthy baby with no major defects. 
+These data are useful in counselling parents of pregnancies with 
+increased fetal NT and in planning the appropriate follow-up 
+investigations (Figure 1). 
+pi 
+nA a c 
+i 
+eov s n 
+c t 
+TORCH & P irus r e 
+Genet 
+a eTORCH & P n 
+Genet 
+11-14 weeks 
+Fetal karyoty ng 
+Anomaly scan 
+Chromosomal defects 
+Major abnormalities 
+Normal karyotype 
+No abnormalities 
+14-16 weeks 
+omaly scan 
+Echocardiography 
+No abnormalities 
+Resolving nuchal 
+Major abnormalities 
+No abnormalities 
+Persistent nuchal 
+rv 
+esting 
+20 weeks 
+Anomaly scan 
+Echocardiography 
+No abnormalities 
+Major abnormalities 
+No abnormalities 
+Persistent nuchal eic t 
+rvovirus scre 
+sting 
+Figure 1. Management of pregnancies with increased nuchal translucency thickness. 
+Fetal NT below the 99th centile 
+In pregnancies with fetal NT below the 99th centile (3.5 mm) 
+the decision by the parents in favour or against fetal karyotyping 
+will depend on the patient-specific risk for chromosomal defects, 
+which is derived from the combination of maternal age, 
+sonographic findings and serum free b-hCG and PAPP-A at 
+11–13+6 weeks. 
+The parents can be reassured that the chances of delivering a 
+baby with no major abnormalities is about 97% for NT below the 
+95th centile and 93% for NT between the 95th and 99th centiles. 
+Furthermore, many of the major fetal abnormalities can be diagnosed 
+or suspected at the time of the high-resolution scan at 
+11–13+6 weeks. 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+In terms of the subsequent management of the pregnancy it 
+would be best to carry out a detailed fetal scan at 20 weeks 
+to determine fetal growth and diagnose or exclude major 
+abnormalities that could not be identified at the 11–13+6 weeks 
+scan. 
+In the 4% of fetuses with NT between the 95th and 99th centiles, 
+special care should be taken to firstly, confirm that the nuchal 
+fold thickness is not increased, secondly, to examine the fetal 
+anatomy with the knowledge that the prevalence of major abnormalities 
+is about 2.5%, rather than 1.6% in those with NT below 
+the 95th centile, and thirdly, to examine the fetal heart. It would 
+be preferable if specialist fetal echocardiography is carried out 
+but the feasibility of this will primarily depend on the availability 
+of such service. 
+Fetal NT above the 99th centile 
+A fetal NT above 3.5 mm is found in about 1% of pregnancies. 
+The risk of major chromosomal defects is very high and 
+increases from about 20% for NT of 4.0 mm to 33% for NT of 
+5.0 mm, 50% for NT of 6.0 mm and 65% for NT of 6.5 mm 
+or more. Consequently, the first line of management of such 
+pregnancies should be the offer of fetal karyotyping by CVS. 
+In patients with a family history of the genetic syndromes which 
+are associated with increased NT and are amenable to prenatal 
+diagnosis by DNA analysis (Table 3), the CVS sample can also 
+be used for the diagnosis or exclusion of these syndromes. In 
+addition, a detailed scan should be carried out at 11–13+6 weeks 
+in search of the many major abnormalities that have been 
+reported in association with increased NT (Table 3). 
+The 11–13+6 weeks scan 
+
+Resolution of increased NT 
+In the chromosomally normal group, a detailed scan, including 
+fetal echocardiography, should be carried out at 14–16 weeks to 
+determine the evolution of the NT and to diagnose or exclude 
+many fetal defects. If this scan demonstrates resolution of the 
+NT and absence of any major abnormalities the parents can be 
+reassured that the prognosis is likely to be good and the chances 
+of delivering a baby with no major abnormalities is more than 
+95%. 
+The only necessary additional investigation is a detailed scan at 
+20–22 weeks for the exclusion or diagnosis of both major abnormalities 
+and the more subtle defects that are associated with the 
+genetic syndromes listed in Table 3. If none of these is found, the 
+parents can be counseled that the risk of delivering a baby with a 
+serious abnormality or neurodevelopmental delay may not be 
+higher than in the general population. 
+Evolution to nuchal edema 
+Persistence of unexplained increased NT at the 14–16 weeks 
+scan or evolution to nuchal edema or hydrops fetalis at 20–22 
+weeks, raise the possibility of congenital infection or a genetic 
+syndrome. Maternal blood should be tested for toxoplasmosis, 
+cytomegalovirus, and parvovirus B19. Follow-up scans to define 
+the evolution of the edema should be carried out every four 
+weeks. Additionally, consideration should be given to DNA 
+testing for certain genetic conditions, such as spinal muscular 
+atrophy, even if there is no family history for these conditions. 
+In pregnancies with unexplained nuchal edema at the 20–22 
+weeks scan the parents should be counseled that there is a 10% 
+risk of evolution to hydrops and perinatal death or a livebirth 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+with a genetic syndrome, such as Noonan syndrome. The risk of 
+neurodevelopmental delay is 3–5%. 
+•Increased fetal NT thickness at 11–13+6 weeks is a common 
+phenotypic expression of chromosomal defects and a wide 
+range of fetal malformations and genetic syndromes. 
+•The prevalence of fetal abnormalities and adverse pregnancy 
+outcome increases exponentially with NT thickness. However, 
+the parents can be reassured that the chances of delivering 
+a baby with no major abnormalities is more than 90% if the 
+fetal NT is between the 95th and 99th centiles, about 70% for 
+NT of 3.5–4.4 mm, 50% for NT 4.5–5.4 mm, 30% for NT of 
+5.5–6.4 mm and 15% for NT of 6.5 mm or more. 
+•The vast majority of fetal abnormalities associated with 
+increased NT can be diagnosed by a series of investigations 
+that can be compled by 14 weeks of gestation. 
+The 11–13+6 weeks scan 
+
+REFERENCES 
+Brady AF, Pandya PP, Yuksel B, Greenough A, Patton MA, Nicolaides KH. Outcome 
+of chromosomally normal livebirths with increased fetal nuchal translucency at 10–14 
+weeks’ gestation. J Med Genet 1998;35:222–4. 
+Hyett JA, Moscoso G, Nicolaides KH. Abnormalities of the heart and great arteries in 
+first trimester chromosomally abnormal fetuses. Am J Med Genet 1997;69:207–16. 
+Hyett J, Perdu M, Sharland G, Snijders R, Nicolaides KH. Using fetal nuchal translucency 
+to screen for major congenital cardiac defects at 10–14 weeks of gestation: 
+population based cohort study. BMJ 1999;318:81–5. 
+Liao AW, Sebire NJ, Geerts L, Cicero S, Nicolaides KH. Megacystis at 10–14 weeks 
+of gestation: Chromosomal defects and outcome according to bladder length. 
+Ultrasound Obstet Gynecol 2003;21:338–41. 
+Makrydimas G, Sotiriadis A, Ioannidis JP. Screening performance of first-trimester 
+nuchal translucency for major cardiac defects: a meta-analysis. Am J Obstet Gynecol 
+2003;189:1330–5. 
+Matias A, Huggon I, Areias JC, Montenegro N, Nicolaides KH. Cardiac defects in 
+chromosomally normal fetuses with abnormal ductus venosus blood flow at 10–14 
+weeks. Ultrasound Obstet Gynecol 1999;14:307–10. 
+Michailidis GD, Economides DL. Nuchal translucency measurement and pregnancy 
+outcome in karyotypically normal fetuses. Ultrasound Obstet Gynecol 2001;17:102–5. 
+Nicolaides KH, Warenski JC, Rodeck CH. The relationship of fetal plasma protein 
+concentration and hemoglobin level to the development of hydrops in rhesus 
+isoimmunization. Am J Obstet Gynecol 1985;1:152:341–4. 
+Nicolaides KH, Soothill PW, Clewell WH, Rodeck CH, Mibashan R, Campbell S. Fetal 
+haemoglobin measurement in the assessment of red cell isoimmunisation. Lancet 
+1988;1:1073–5. 
+Sebire NJ, Snijders RJM, Davenport M, Greenough A, Nicolaides KH. Fetal nuchal 
+translucency thickness at 10–14 weeks of gestation and congenital diaphragmatic 
+hernia. Obstet Gynecol 1997;90:943–7. 
+Sebire NJ, Bianco D, Snijders RJM, Zuckerman M, Nicolaides KH. Increased fetal 
+nuchal translucency thickness at 10–14 weeks: is screening for maternal-fetal infection 
+necessary? BJOG 1997;104:212–5. 
+Snijders RJM, Brizot ML, Faria M, Nicolaides KH. Fetal exomphalos at 11–14 weeks 
+of gestation. J Ultrasound Med 1995;14:569–74. 
+Snijders RJM, Noble P, Sebire N, Souka A, Nicolaides KH. UK multicentre project 
+on assessment of risk of trisomy 21 by maternal age and fetal nuchal translucency 
+thickness at 10–14 weeks of gestation. Lancet 1998;351:343–6. 
+Chapter 3 • Increased nuchal translucency with normal karyotype 
+
+Souka AP, von Kaisenberg CS, Hyett JA, Sonek JD, Nicolaides KH. Increased nuchal 
+translucency with normal karyotype. Am J Obstet Gynecol 2004; in press 
+Souka AP, Krampl E, Bakalis S, Heath V, Nicolaides KH. Outcome of pregnancy in 
+chromosomally normal fetuses with increased nuchal translucency in the first trimester. 
+Ultrasound Obstet Gynecol 2001;18:9–17. 
+von Kaisenberg CS, Krenn V, Ludwig M, Nicolaides KH, Brand-Saberi B. Morphological 
+classification of nuchal skin in fetuses with trisomy 21, 18 and 13 at 12–18 
+weeks and in a trisomy 16 mouse. Anat Embryol 1998;197:105–24. 
+von Kaisenberg CS, Nicolaides KH, Brand-Saberi B. Lymphatic vessel hypoplasia in 
+fetuses with Turner syndrome. Hum Reprod 1999;14:823–6. 
+The 11–13+6 weeks scan 
+
+4
+MULTIPLE PREGNANCY 
+Multiple pregnancy results from the ovulation and subsequent 
+fertilisation of more than one oocyte. In such case the fetuses 
+are genetically different (polyzygotic or non-identical). Multiple 
+pregnancy can also result from splitting of one embryonic mass 
+to form two or more genetically identical fetuses (monozygotic). 
+In all cases of polyzygotic multiple pregnancy each zygote 
+develops its own amnion, chorion and placenta (polychorionic). 
+In monozygotic pregnancies, there may be sharing of the same 
+placenta (monochorionic), amniotic sac (monoamniotic) or even 
+fetal organs (conjoined or Siamese). 
+When the single embryonic mass splits into two within three days 
+of fertilisation, which occurs in one-third of monozygotic twins, 
+each fetus has its own amniotic sac and placenta (diamniotic and 
+dichorionic) (Figure 1). When embryonic splitting occurs after 
+the third day following fertilisation, there are vascular communications 
+within the two placental circulations (monochorionic). 
+Embryonic splitting after the 9th day following fertilisation results 
+in monoamniotic monochorionic twins and splitting after the 12th 
+day results in conjoined twins. 
+PREVALENCE AND EPIDEMIOLOGY 
+Twins account for about 1% of all pregnancies with two-thirds 
+being dizygotic and one-third monozygotic. 
+Chapter 4 • Multiple pregnancy 
+
+Placentas 
+Sacs 
+Fetuses 
+33% 
+DICHORIONIC 
+MONOCHORIONIC 
+65% 
+MONOAMNI2% 
+OASI MESE 
+TIC
+Days0 3 912 
+Figure 1. In monozygotic twins embryonic splitting within the first three days of fertilisation results in a 
+diamniotic and dichorionic pregnancy, splitting between days 3 and 9 results in a diamniotic monochorionic 
+pregnancy, splitting between days 9 and 12 results in a monoamniotic monochorionic pregnancy, 
+and splitting after the 12th day results in conjoined twins. 
+The prevalence of dizygotic twins varies with ethnic group (up to 
+5-times higher in certain parts of Africa and half as high in parts 
+of Asia), maternal age (2% at 35 years), parity (2% after four 
+pregnancies) and method of conception (20% with ovulation 
+induction). 
+The prevalence of monozygotic twins is similar in all ethnic 
+groups and does not vary with maternal age or parity, but may 
+be 2–3 times higher following in-vitro fertilisation procedures, 
+possibly because with these methods the architecture of the zona 
+pellucida is altered although the mechanism remains uncertain. 
+In the last 20 years the rate of twinning has increased. This 
+increase is most marked for dizygotic twins. It is estimated that 
+about one third of the increase in multiple births is a consequence 
+of childbearing later in life, but the majority of the effect is due to 
+the use of assisted reproduction techniques. 
+The 11–13+6 weeks scan 
+
+DETERMINATION OF ZYGOSITY AND CHORIONICITY 
+Zygosity can only be determined by DNA fingerprinting, which 
+requires amniocentesis, chorion villus sampling or cordocentesis. 
+Determination of chorionicity can be performed by ultrasonography 
+and relies on the assessment of fetal gender, number of 
+placentas, and characteristics of the membrane between the two 
+amniotic sacs (Monteagudo et al 1994). 
+Different-sex twins are dizygotic and therefore dichorionic, but 
+in about two-thirds of twin pregnancies the fetuses are of the 
+same sex and these may be either monozygotic or dizygotic. 
+Similarly, if there are two separate placentas the pregnancy is 
+dichorionic, but in the majority of cases the two placentas are 
+adjacent to each other and there are often difficulties in distinguishing 
+between dichorionic-fused and monochorionic placentas. 
+In dichorionic twins the inter-twin membrane is composed of a 
+central layer of chorionic tissue sandwiched between two layers of 
+amnion, whereas in monochorionic twins there is no chorionic 
+layer present. The best way to determine chorionicity is by an 
+ultrasound examination at 6–9 weeks of gestation. Dichorionic 
+twins can be easily distinguished by the presence of a thick 
+septum between the chorionic sacs. This septum becomes progressively 
+thinner to form the chorionic component of the inter-
+twin membrane, but remains thicker and easier to identify at the 
+base of the membrane as a triangular tissue projection, or lambda 
+sign (Bessis et al 1981, Sepulveda et al 1996, 1997, Monteagudo 
+et al 2000). 
+Sonographic examination of the base of the inter-twin membrane 
+at 10–13+6 weeks of gestation for the presence or absence of the 
+lambda sign (Figure 2) provides reliable distinction between 
+dichorionic and monochorionic pregnancies. With advancing 
+Chapter 4 • Multiple pregnancy 
+
+Figure 2. Ultrasound appearance of monochorionic (left) and dichorionic (right) twin pregnancies at 
+12 weeks of gestation. Note that in both types there appears to be a single placental mass but in the 
+dichorionic type there is an extention of placental tissue into the base of the intertwin membrane forming 
+the lambda sign. 
+gestation there is regression of the chorion laeve and the ‘lambda’ 
+sign becomes progressively more difficult to identify. Thus by 20 
+weeks only 85% of dichorionic pregnancies demonstrate the 
+lambda sign. 
+Therefore, absence of the lambda sign at 20 weeks, and presumably 
+thereafter, does not constitute evidence of monochorionicity 
+and does not exclude the possibility of dichorionicity or dizygosity. 
+Conversely, because none of the pregnancies classified as monochorionic 
+at the 10–13+6 week scan subsequently develop the 
+lambda sign, the identification of this feature at any stage of 
+pregnancy should be considered as evidence of dichorionicity. 
+CHORIONICITY AND PREGNANCY COMPLICATIONS 
+Miscarriage 
+In singleton pregnancies with a live fetus demonstrated at the 
+11–13+6 weeks scan the rate of subsequent miscarriage or fetal 
+The 11–13+6 weeks scan 
+
+death before 24 weeks is about 1%. The rate of fetal loss in 
+dichorionic twins is about 2% and in monochorionic twins it 
+is about 10% (Sebire et al 1997a). This high mortality confined 
+to monochorionic pregnancies is the consequence of severe 
+early-onset TTTS. 
+Reduction of the excess fetal loss in twins, compared to singletons, 
+can only be achieved through early identification of monochorionic 
+pregnancies by ultrasound examination at 11–13+6 weeks, 
+close surveillance and appropriate treatment, with endoscopic 
+laser coagulation of the communicating placental vessels, in those 
+that develop severe TTTS (Ville et al 1995, Senat et al 2004). 
+Perinatal mortality 
+The perinatal mortality rate in twins is about 5-times higher than 
+in singletons. This increased mortality, which is mainly due to 
+prematurity-related complications, is higher in monochorionic 
+(5%) than dichorionic (2%) twin pregnancies (Sebire et al 1997a). 
+In monochorionic twins, an additional complication to prematurity 
+is TTTS. 
+Early preterm delivery 
+The most important complication of any pregnancy is delivery 
+before term and especially before 32 weeks. Almost all babies 
+born before 24 weeks die and almost all born after 32 weeks 
+survive. Delivery between 24 and 32 weeks is associated with 
+a high chance of neonatal death and handicap in the survivors. 
+The chance of spontaneous delivery between 24 and 32 weeks 
+is about 1% in singletons, 5% in dichorionic and 10% in 
+monochorionic twin pregnancies (Sebire et al 1997a). 
+Chapter 4 • Multiple pregnancy 
+
+Growth restriction 
+In singleton pregnancies the prevalence of babies with birth 
+weight below the 5th centile is 5%, in dichorionic twins it is 
+about 20% and in monochorionic twins it is 30% (Sebire et al 
+1997a, 1998a). Furthermore, the chance of growth restriction of 
+both twins is about 2% in dichorionic and 8% in monochorionic 
+pregnancies. 
+In singleton pregnancies the two main factors determining fetal 
+growth are genetic potential and placental function. In monochorionic 
+twin pregnancies both factors should be the same for 
+the two fetuses. Consequently, inter-twin disparities in growth 
+are likely to reflect the degree of unequal splitting of the initial 
+single cell mass or the magnitude of imbalance in the flow of 
+fetal blood through placental vascular communications between 
+the two circulations. In contrast, since about 90% of dichorionic 
+pregnancies are dizygotic, inter-twin disparities in size would be 
+due to differences in genetic constitution of the fetuses and their 
+placentas. 
+Pre-eclampsia 
+The prevalence of pre-eclampsia is about 4-times greater in 
+twin than in singleton pregnancies but it is not significantly different 
+between monochorionic and dichorionic twins (Savvidou 
+et al 2001). 
+Death of one fetus 
+Intrauterine death of a fetus in a twin pregnancy may be associated 
+with adverse outcome for the co-twin but the type and 
+degree of risk is dependent on the chorionicity of the pregnancy. 
+The 11–13+6 weeks scan 
+
+In singleton pregnancies death and retention of the fetus may 
+be associated with maternal disseminated intravascular coagulation; 
+however, in twin pregnancies with one dead fetus this 
+complication has only rarely been reported. 
+Death of one fetus in dichorionic pregnancies carries a risk to 
+the remaining fetus, mainly due to preterm delivery, which may 
+be the consequence of release of cytokines and prostaglandins 
+by the resorbing dead placenta. In dichorionic twins the risk of 
+death or handicap in such cases is about 5–10% whereas in 
+monochorionic twins, there is at least a 30% risk of death or 
+neurological handicap to the co-twin due to hypotensive episodes 
+in addition to the risk of preterm delivery. The acute hypotensive 
+episode is the result of hemorrhage from the live fetus into the 
+dead fetoplacental unit (Fusi et al 1991). Intrauterine blood 
+transfusion within 24 hours of death of the co-twin may prevent 
+fetal death. 
+Structural defects 
+Structural fetal defects in twin pregnancies can be grouped into 
+those which also occur in singletons and those specific to the 
+twinning process; the latter being unique to monozygotic twins. 
+For any given defect the pregnancy may be concordant or discordant 
+in terms of both the presence or type of abnormality and 
+its’ severity. The prevalence of structural defects per fetus in 
+dizygotic twins is the same as in singletons, whereas the rate in 
+monozygotic twins is 2–3 times higher (Burn et al 1991, Baldwin 
+et al 1994). Concordance of defects (both fetuses being affected) 
+is uncommon, being found in about 10% of dichorionic and 20% 
+of monochorionic pregnancies. 
+Multiple pregnancies discordant for a fetal abnormality can 
+essentially be managed expectantly or by selective fetocide of the 
+Chapter 4 • Multiple pregnancy 
+
+abnormal twin (Sebire et al 1997b). In cases where the abnormality 
+is non-lethal but may well result in serious handicap the 
+parents need to decide whether the potential burden of a handicapped 
+child is enough to risk the loss of the normal twin from 
+fetocide-related complications. In cases where the abnormality is 
+lethal it may be best to avoid such risk to the normal fetus, unless 
+the condition itself threatens the survival of the normal twin. 
+In the case of dichorionic pregnancies fetocide can be carried 
+out by intracardiac injection of potassium chloride, whereas in 
+monochorionic pregnancies fetocide necessitates occlusion of the 
+umbilical cord vessels. 
+Twin-to-twin transfusion syndrome 
+In monochorionic twin pregnancies there are placental vascular 
+anastomoses which allow communication of the two fetoplacental 
+circulations; these anastomoses may be arterio-arterial, venovenous, 
+or arterio-venous in nature. Anatomical studies demonstrated 
+that arterio-venous anastomoses are deep in the placenta 
+but the feeding vessels are invariably superficial (Benirschke et al 
+1973). In about 30% of monochorionic twin pregnancies, imbalance 
+in the net flow of blood across the placental vascular arteriovenous 
+communications from one fetus, the donor, to the other, 
+the recipient, results in twin-to-twin transfusion syndrome; in 
+about half of these the condition is severe. 
+Severe disease, with the development of polyhydramnios, becomes 
+apparent at 16–24 weeks of pregnancy. The pathognomonic 
+features of severe TTTS by ultrasonographic examination 
+are the presence of a large bladder in the polyuric recipient fetus 
+in the polyhydramniotic sac and ‘absent’ bladder in the anuric 
+donor that is found ‘stuck’ and immobile at an edge of the 
+placenta or the uterine wall where it is held fixed by the collapsed 
+membranes of the anhydramniotic sac (Figure 3). 
+The 11–13+6 weeks scan 
+
+Figure 3. Severe twin-to-twin transfusion syndrome at 20 weeks of gestation. In the polyuric 
+recipient there is polyhydramnios and the anuric donor is held fixed to the placenta by the collapsed 
+membranes of the anhydramniotic sac. 
+Early prediction of twin-to twin transfusion syndrome 
+Ultrasonographic features of the underlying hemodynamic 
+changes in severe TTTS may be present from as early as 11– 
+13+6 weeks of gestation and manifest as increased NT thickness 
+in one or both of the fetuses. In monochorionic twin pregnancies 
+at 11–13+6, the prevalence of increased NT thickness in at least 
+one of the fetuses in those that subsequently develop TTTS is 
+about 30%, compared to 10% in those that do not develop 
+TTTS (Sebire et al 2000). 
+Another early ultrasound marker of severe TTTS may be abnormal 
+Doppler flow velocity waveform in the ductus of the recipient 
+twin (Matias et al 2000). Intertwin discrepancies in crown-rump 
+length are not predictive of subsequent development of TTTS. 
+An early manifestation of disparity in amniotic fluid volume due 
+to TTTS is inter-twin membrane folding (Figure 4). In about 
+Chapter 4 • Multiple pregnancy 
+
+Figure 4. Monochorionic twin pregnancy at 16 weeks of gestation affected by early twin-to-twin transfusion 
+syndrome showing folding of the inter-twin membrane, pointing towards the recipient amniotic sac 
+and the increased echogenicity of the amniotic fluid in the donor sac. 
+30% of monochorionic twin pregnancies at 15–17 weeks of 
+gestation there is a membrane folding, and in about half of such 
+cases (15% of total) there is progression to the polyhydramnios/ 
+anhydramnios sequence of severe TTTS; in the other 15% there 
+is moderate TTTS with large discrepancies in amniotic fluid 
+volume and fetal size persisting throughout pregnancy (Sebire 
+et al 1998b). 
+In two-thirds of monochorionic twin pregnancies, there is no 
+membrane folding and these pregnancies are not at increased risk 
+for miscarriage or perinatal death due to TTTS. 
+Twin reversed arterial perfusion sequence 
+The most extreme manifestation of twin-to-twin transfusion 
+syndrome, found in approximately 1% of monozygotic twin pregnancies, 
+is acardiac twinning. This twin disorder has been named 
+twin reversed arterial perfusion (TRAP) sequence because the 
+underlying mechanism is thought to be disruption of normal 
+vascular perfusion and development of the recipient twin due to 
+The 11–13+6 weeks scan 
+
+an umbilical arterial-to-arterial anastomosis with the donor or 
+pump-twin (Van Allen et al 1983). At least 50% of donor twins 
+die due to congestive heart failure or severe preterm delivery, due 
+to polyhydramnios. All perfused twins die due to the associated 
+multiple malformations. Prenatal treatment is by occlusion of the 
+blood flow to the acardiac twin by ultrasound-guided diathermy 
+of the umbilical cord or laser coagulation of the umbilical cord 
+vessels within the abdomen of the acardiac twin, which is carried 
+out at about 16 weeks of gestation. 
+Importance of prenatal determination of chorionicity 
+•Chorionicity, rather than zygosity, is the main factor determining 
+pregnancy outcome. 
+•In monochorionic twins the rates of miscarriage, perinatal 
+death, preterm delivery, fetal growth restriction and fetal 
+abnormalities are much higher than in dichorionic twins. 
+•Death of a monochorionic fetus is associated with a high 
+chance of sudden death or severe neurological damage in the 
+co-twin. 
+CHROMOSOMAL DEFECTS IN MULTIPLE PREGNANCIES 
+In multiple pregnancies compared to singletons, prenatal diagnosis 
+of chromosomal abnormalities is complicated because, 
+firstly, the techniques of invasive testing may provide uncertain 
+results or may be associated with higher risks of miscarriage and, 
+secondly, the fetuses may be discordant for an abnormality, in 
+which case one of the options for the subsequent management of 
+the pregnancy is selective fetocide. 
+Selective fetocide can result in spontaneous abortion or severe 
+preterm delivery, which may occur several months after the 
+Chapter 4 • Multiple pregnancy 
+
+procedure. The risk for these complications is related to the 
+gestation at fetocide. Selective fetocide after 16 weeks is associated 
+with a three-fold increase in risk compared to reduction 
+before 16 weeks, and there is an inverse correlation between the 
+gestational age at fetocide with the gestation at delivery (Evans 
+et al 1994). 
+Amniocentesis in twins is effective in providing a reliable 
+karyotype for both fetuses and the procedure-related fetal loss 
+rate is about 2%. In the case of chorionic villus sampling, the 
+procedure-related fetal loss rate is about 1%, but in about 1% of 
+cases there may be a diagnostic error, either due to sampling the 
+same placenta twice or cross-contamination. The main advantage 
+of chorionic villus sampling is that it provides results sufficiently 
+early to allow for safer selective fetocide. 
+Screening by maternal age 
+In dizygotic pregnancies, the maternal age-related risk for chromosomal 
+abnormalities for each twin is the same as in singleton 
+pregnancies and therefore the chance that at least one fetus is 
+affected by a chromosomal defect is twice as high as in singleton 
+pregnancies. Furthermore, since the rate of dizygotic twinning 
+increases with maternal age the proportion of twin pregnancies 
+with chromosomal abnormalities is higher than in singleton 
+pregnancies. 
+In monozygotic twins, the risk for chromosomal abnormalities 
+is the same as in singleton pregnancies and in the vast majority 
+of cases both fetuses are affected. 
+The relative proportion of spontaneous dizygotic to monozygotic 
+twins in Caucasian populations is about two-to-one and therefore 
+the prevalence of chromosomal abnormalities affecting at least 
+The 11–13+6 weeks scan 
+
+one fetus in twin pregnancies would be expected to be about 
+1.6 times higher than in singletons.
+In counselling parents it is possible to give more specific estimates 
+of one and/or both fetuses being affected depending on chorionicity. 
+Thus in monochorionic twins the parents can be counseled 
+that both fetuses would be affected and this risk is similar to 
+that in singleton pregnancies. If the pregnancy is dichorionic, 
+then the parents can be counseled that the risk of discordancy 
+for a chromosomal abnormality is about twice that in singleton 
+pregnancies whereas the risk that both fetuses would be affected 
+can be derived by squaring the singleton risk ratio. For example, 
+in a 40 year old woman with a risk for trisomy 21 of about 1 in 
+100 based on maternal age, in a dizygotic twin pregnancy the risk 
+that one fetus would be affected would be 1 in 50 (1 in 100 plus 
+1 in 100), whereas the risk that both fetuses would be affected 
+is 1 in 10,000 (1 in 100 × 1 in 100). This is in reality an oversimplification, 
+since, unlike monochorionic pregnancies that are 
+always monozygotic, only about 90% of dichorionic pregnancies 
+are dizygotic. 
+Screening by second trimester maternal serum biochemistry 
+In singleton pregnancies, screening for trisomy 21 by a combination 
+of maternal age and second trimester maternal serum 
+biochemistry can detect 50–70% of trisomy 21 cases for a 5% false 
+positive rate (Cuckle 1998). 
+In twin pregnancies, the median value for maternal serum 
+markers, such as AFP, hCG, free b-hCG and inhibin-A are about 
+twice those for singleton pregnancies. When this is taken into 
+account in the mathematical modeling for calculation of risks it 
+was estimated that serum screening in twins may identify about 
+45% of affected fetuses for a 5% false positive rate (Cuckle 1998). 
+Chapter 4 • Multiple pregnancy 
+
+Even if prospective studies demonstrate that serum testing in 
+twins is effective, the following problems would still need to 
+be addressed; (a) the detection rate for an acceptable low false 
+positive rate, especially since invasive testing in multiple pregnancies 
+is technically more demanding, (b) in the presence of a 
+‘screen positive’ result, there is no feature to suggest which 
+fetus may be affected, and (c) if the pregnancy is discordant for 
+chromosomal defect, further management by way of selective 
+termination carries increased risk in the second compared to 
+the first trimester. 
+Screening by fetal nuchal translucency thickness 
+In dichorionic twin pregnancies, the detection rate (75–80%) and 
+false positive rate (5% per fetus or 10% per pregnancy) of fetal 
+NT in screening for trisomy 21 are similar to those in singleton 
+pregnancies (Sebire et al 1996a, 1996b). Patient specific-risks for 
+trisomy 21 are calculated for each fetus based on maternal age 
+and fetal NT. Effective screening and diagnosis of major chromosomal 
+abnormalities can be achieved in the first trimester, 
+allowing the possibility of earlier and therefore safer selective 
+fetocide for those parents that choose this option. 
+An important advantage of screening by fetal NT in dichorionic 
+twins is that when there is discordancy for a chromosomal abnormality, 
+the presence of a sonographically detectable marker helps 
+to ensure the correct identification of the abnormal twin should 
+the parents choose selective termination. 
+In monochorionic pregnancies, the false-positive rate of NT 
+screening (8% per fetus or 14% per pregnancy) is higher than in 
+dichorionic twins, because increased NT is an early manifestation 
+of TTTS. The risk for trisomy 21 is calculated for each fetus, 
+based on maternal age and fetal NT and then the average risk 
+between the two fetuses is considered to be the risk for the 
+pregnancy as a whole. 
+The 11–13+6 weeks scan 
+
+Screening by fetal NT thickness and maternal serum biochemistry 
+In normal twin pregnancies, compared to singletons, the median 
+maternal serum free b-hCG and PAPP-A, adjusted for maternal 
+weight, are about 2.0 MoM. In trisomy 21 twin pregnancies 
+the median level of free b-hCG is significantly higher and 
+PAPP-A lower than than in normal twins. At a false positive rate of 
+10% (compared to 5% in singletons) screening by a combination 
+of fetal NT and maternal serum biochemistry could identify 
+85–90% of trisomy 21 pregnancies (Spencer and Nicolaides 
+2003). Chorionicity is not associated with significant differences in 
+maternal serum free b-hCG or PAPP-A values in first trimester. 
+Management of twin pregnancies with chromosomal abnormalities 
+When both fetuses are chromosomally abnormal the parents usually 
+chose termination of pregnancy. In pregnancies discordant for 
+chromosomal defects the main options are either selective fetocide 
+or expectant management. In such cases the decision is essentially 
+based on the relative risk of selective fetocide causing miscarriage 
+and hence death of the normal baby, compared to the potential 
+burden of caring for a handicapped child (Sebire et al 1997c). 
+Selective fetocide after 16 weeks of gestation is associated with 
+three-fold increase in risk of spontaneous abortion compared to 
+reduction before 16 weeks and there is and inverse correlation 
+between the gestation at fetocide with the gestation at delivery 
+(Evans et al 1994). It is possible that the resorbing dead 
+fetoplacental tissue triggers an intrauterine inflammatory process 
+that is proportional to the amount of dead tissue and therefore 
+the gestation at fetocide. Such an inflammatory process could 
+result in the release of cytokines and prostaglandins which would 
+in turn induce uterine activity with consequent miscarriage/ 
+preterm labour. 
+Chapter 4 • Multiple pregnancy 
+
+In pregnancies discordant for trisomy 21 the usual choice is 
+selective fetocide, because with expectant management the majority 
+of affected babies would survive. In the case of more lethal 
+defects, such as trisomy 18, about 85% of affected fetuses die 
+in-utero and those that are live born usually die within the first 
+year of life. In this respect, expectant management may be the 
+preferred option; this would certainly avoid the procedure-related 
+complications from selective fetocide. The alternative view is that 
+the amount of dead fetoplacental tissue (and therefore the risk for 
+consequent miscarriage or preterm labour) would be less after 
+fetocide at 12 weeks rather than spontaneous death of the trisomy 
+18 fetus at a latter stage of pregnancy. 
+Screening for trisomy 21 in monochorionic twins 
+•In monozygotic twins, the risk for chromosomal abnormalities 
+is the same as in singleton pregnancies. 
+•In monochorionic pregnancies, the false-positive rate of NT 
+screening (8% per fetus or 14% per pregnancy) is higher 
+than in dichorionic twins, because increased NT is an early 
+manifestation of TTTS. 
+•The risk for trisomy 21 is calculated for each fetus, based on 
+maternal age, fetal NT and maternal serum biochemistry and 
+then the average risk between the two fetuses is considered to 
+be the risk for the pregnancy as a whole. 
+Screening for trisomy 21 in dichorionic twins 
+•Screening by a combination of fetal NT and maternal 
+serum biochemistry identifies about 85–90% of trisomy 21 
+fetuses for a false positive rate of 10% (compared to 5% in 
+singletons). 
+•In pregnancies discordant for chromosomal defects the 
+main options are either selective fetocide or expectant 
+management. 
+•Selective fetocide after 16 weeks of gestation is associated 
+with three-fold increase in risk of spontaneous abortion 
+compared to reduction before 16 weeks. 
+The 11–13+6 weeks scan 
+
+REFERENCES 
+Baldwin VJ. Anomalous development of twins. In Pathology of Multiple Pregnancy. 
+In Baldwin VJ (Ed). Springer-Verlag, New York, 1994, pp169–97. 
+Benirschke K, Kim CK. Multiple pregnancy. N Eng J Med 1973;288:1276–84. 
+Bessis R, Papiernik E. Echographic imagery of amniotic membranes in twin pregnancies. 
+In: Gedda L, Parisi P, eds. Twin research 3: Twin biology and multiple 
+pregnancy. New York: Alan R. Liss, 1981, pp183–7. 
+Burn J. Disturbance of morphological laterality in humans. Ciba Found Symp 
+1991;162:282–96. 
+Cuckle H. Down’s syndrome screening in twins. J Med Screen 1998;5:3–4. 
+Evans MI, Goldberg JD, Dommergues M, Wapner RJ, Lynch L, Dock BS, et al. Efficacy 
+of second-trimester selective termination for fetal abnormalities: international collaborative 
+experience among the world’s largest centers. Am J Obstet Gynecol 
+1994;171:90–4. 
+Fusi L, MacOharland P, Fisk N, Nicolini U, Wigglesworth J. Acute twin-twin transfusion: 
+a possible mechanism for brain damaged survivors after intrauterine death of 
+a monozygotic twin. Obstet Gynecol 1991;78:517–22. 
+Matias A, Montenegro N, Areias JC. Anticipating twin-twin transfusion syndrome in 
+monochorionic twin pregnancy. Is there a role for nuchal translucency and ductus 
+venosus blood flow evaluation at 11–14 weeks? Twin Res 2000;3:65–70. 
+Monteagudo A, Timor-Tritsch I, Sharma S. Early and simple determination of chorionic 
+and amniotic type in multifetal gestations in the first 14 weeks by high frequency 
+transvaginal ultrasound. Am J Obstet Gynecol 1994;170:824–9. 
+Monteagudo A, Timor-Tritsch IE. Second- and third-trimester ultrasound evaluation 
+of chorionicity and amnionicity in twin pregnancy. A simple algorithm. J Reprod Med 
+2000;45:476–80. 
+Savvidou MD, Karanastasi E, Skentou C, Geerts L, Nicolaides KH. Twin chorionicity 
+and pre-eclampsia. Ultrasound Obstet Gynecol 2001;18:228–31. 
+Sebire NJ, Snijders RJM, Hughes K, Sepulveda W, Nicolaides KH. Screening for trisomy 
+21 in twin pregnancies by maternal age and fetal nuchal translucency thickness 
+at 10–14 weeks of gestation. BJOG 1996a;103:999–1003. 
+Sebire NJ, Noble PL, Psarra A, Papapanagiotou G, Nicolaides KH. Fetal karyotyping 
+in twin pregnancies: selection of technique by measurement of fetal nuchal translucency. 
+BJOG 1996b;103:887–90. 
+Sebire NJ, Sepulveda W, Hughes KS, Noble P, Nicolaides KH. Management of twin 
+pregnancies discordant for anencephaly. BJOG 1997b;104:216–9. 
+Chapter 4 • Multiple pregnancy 
+
+Sebire NJ, Snijders RJM, Hughes K, Sepulveda W, Nicolaides KH. The hidden 
+mortality of monochorionic twin pregnancies. BJOG 1997a;104:1203–7. 
+Sebire NJ, Snijders RJM, Santiago C, Papapanagiotou G, Nicolaides KH. Management 
+of twin pregnancies with fetal trisomies. BJOG 1997c;104:220–2. 
+Sebire NJ, Carvalho M, D’Ercole C, Souka A, Nicolaides KH. Intertwin disparity 
+in fetal size in monochorionic and dichorionic twin pregnancies. Obstet Gynecol 
+1998a;91:82–5. 
+Sebire NJ, Souka A, Carvalho M, Nicolaides KH. Inter-twin membrane folding as an 
+early feature of developing twin-to-twin transfusion syndrome. Ultrasound Obstet 
+Gynecol 1998b;11:324–27. 
+Sebire NJ, Souka A, Skentou H, Geerts L, Nicolaides KH. Early prediction of severe 
+twin-to-twin transfusion syndrome. Hum Reprod 2000;15:2008–10. 
+Senat MV, Deprest J, Boulvain M, Paupe A, Winer N, Ville Y. Endoscopic laser 
+surgery versus serial amnioreduction for severe twin-to-twin transfusion syndrome. 
+N Engl J Med 2004;351:136–44. 
+Sepulveda W, Sebire NJ, Hughes K, Odibo A, Nicolaides KH. The lambda sign 
+at 10–14 weeks of gestation as a predictor of chorionicity in twin pregnancies. 
+Ultrasound Obstet Gynecol 1996;7:421–3. 
+Sepulveda W, Sebire NJ, Hughes K, Kalogeropoulos A, Nicolaides KH. Evolution 
+of the lambda or twin/chorionic peak sign in dichorionic twin pregnancies. Obstet 
+Gynecol 1997;89:439–41. 
+Spencer K, Nicolaides KH. Screening for trisomy 21 in twins using first trimester ultrasound 
+and maternal serum biochemistry in a one-stop clinic: a review of three years 
+experience. BJOG 2003;110:276–80. 
+Van Allen MI, Smith DW & Shepard TH. Twin reversed arterial perfusion (TRAP) 
+sequence: study of 14 twin pregnancies with acardius. Semin Perinatol 1983; 
+7:285–93. 
+Ville Y, Hyett J, Hecher K, Nicolaides KH. Preliminary experience with endoscopic 
+laser surgery for severe twin-twin transfusion syndrome. N Engl J Med 1995; 
+332:224–7. 
+The 11–13+6 weeks scan 
+

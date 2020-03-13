@@ -1,0 +1,3 @@
+The probability of the source being non trust worthy is : 78.5578816059 %
+According to the given threshold, we must not learn causal relations from this source
+The confidence degree of the decision based in the threshold and the probability of the source is 55.44686378433067 %

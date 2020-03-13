@@ -1,0 +1,4 @@
+No aprende el sistema ya que la entropia de A->B es mayor y la de B->C igual al no encontrarse causales.
+A->B sometimes,0.7540979523568799,3.401197451296879
+B->C always,0.7540979523568799,0.7540979523568799
+

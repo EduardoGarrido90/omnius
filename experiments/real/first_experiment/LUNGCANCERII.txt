@@ -1,0 +1,501 @@
+ Lung Cancer
+
+Also called: Bronchogenic carcinoma
+
+Lung cancer is one of the most common cancers in the world. It is a leading cause of cancer death in men and women in the United States. Cigarette smoking causes most lung cancers. The more cigarettes you smoke per day and the earlier you started smoking, the greater your risk of lung cancer. High levels of pollution, radiation and asbestos exposure may also increase risk.
+
+Common symptoms of lung cancer include
+
+    * A cough that doesn't go away and gets worse over time
+    * Constant chest pain
+    * Coughing up blood
+    * Shortness of breath, wheezing, or hoarseness
+    * Repeated problems with pneumonia or bronchitis
+    * Swelling of the neck and face
+    * Loss of appetite or weight loss
+    * Fatigue
+
+There are many types of lung cancer. Each type of lung cancer grows and spreads in different ways and is treated differently. Treatment also depends on the stage, or how advanced it is. Treatment may include chemotherapy, radiation and surgery.
+
+ Lung Cancer
+
+This section has been reviewed and approved by the Cancer.Net Editorial Board, 12/08
+Overview
+Overview
+
+Lung cancer affects more than 200,000 Americans each year. Although cigarette smoking is the main cause, anyone can develop lung cancer. Lung cancer is always treatable, no matter the size, location, or if the cancer has spread.
+
+The lungs absorb oxygen from the air and bring the oxygen into the bloodstream for delivery to the rest of the body. As the body’s cells use oxygen, they release carbon dioxide. The bloodstream carries carbon dioxide back to the lungs, and the carbon dioxide leaves the body when people exhale. The lungs contain many different types of cells. Most cells in the lung are epithelial cells. Epithelial cells line the airways and produce mucus, which lubricates and protects the lung. The lung also contains nerve cells, hormone-producing cells, blood cells, and structural or supporting cells.
+
+There are two major types of lung cancer: non-small cell and small cell. Non-small cell lung cancer (NSCLC) arises from epithelial cells and is the most common type. Small cell lung cancer begins in the nerve cells or hormone-producing cells of the lung. The term “small cell” refers to the size and shape of the cancer cells as seen under a microscope. It is important for doctors to distinguish NSCLC from small cell lung cancer because the two types of cancer are usually treated in different ways.
+
+Lung cancer begins when cells in the lung grow out of control and form a lump (also called a tumor, mass, lesion, or nodule). A tumor can be benign (noncancerous) or malignant (cancerous). A cancerous tumor is a collection of a large number of cancer cells that have the ability to spread to other parts of the body. A lung tumor can begin anywhere in the lung.
+
+Once a cancerous lung tumor begins to grow, it may or may not shed cancer cells. These cells can be carried away in blood or float away in the natural fluid, called lymph, which surrounds lung tissue. Lymph flows through tubes called lymphatic vessels that drain into collecting stations called lymph nodes, the tiny, bean-shaped organs that help fight infection. Lymph nodes are located in the lungs, the center of the chest, and elsewhere in the body. The natural flow of lymph out of the lungs is toward the center of the chest, which explains why lung cancer often spreads there. When a cancer cell leaves its site of origin and moves into a lymph node or to a far away part of the body through the bloodstream, it is called metastasis.
+
+The location and size of the initial lung tumor, and whether it has spread to lymph nodes or more distant sites, determines the stage of lung cancer. The type of lung cancer (NSCLC versus small cell) and stage of the disease (discussed later in Staging) determine what type of treatment is needed.
+
+Statistics
+
+In 2009, an estimated 219,440 adults (116,090 men and 103,350 women) in the United States will be diagnosed with lung cancer. Lung cancer is the second most common cancer and the leading cause of cancer deaths for men and women.  It is estimated that 159,390 deaths (88,900 men and 70,490 women) from this disease will occur this year. For all people with lung cancer, the one-year survival rate (percentage of people who survive at least one year after the cancer is detected excluding those who die from other diseases) is 41%. The five-year relative survival rate is 15%.
+
+Lung cancer represents 15% of all cancer diagnoses and 28% of all cancer deaths. For men, death rates have declined consistently since 1994 at a rate of nearly 2% each year. The death rates for women with lung cancer have stabilized since 2003 after increasing for several decades. For unclear reasons, black men have the highest incidence and the lowest survival rates of lung cancer.
+
+These statistics should not be taken as a death sentence. It is important to remember that statistics do not apply to an individual person. No doctor can tell a person how long he or she will live with lung cancer. Some people who are told that their lung cancer will be cured do not live as long as patients who are told that their lung cancer is not curable. The important thing to remember is that lung cancer is treatable at any stage, and that these treatments have been proven to help people live longer and better, despite a diagnosis of lung cancer.
+
+Cancer survival statistics should be interpreted with caution. These estimates are based on data from thousands of cases of this type of cancer in the United States each year, but the actual risk for a particular individual may differ. Because survival statistics are often measured in multi-year intervals, they may not represent advances made in the treatment or diagnosis of this cancer.
+
+Statistics adapted from the American Cancer Society's publication, Cancer Facts & Figures 2009.
+
+ Lung Cancer
+
+This section has been reviewed and approved by the Cancer.Net Editorial Board, 12/08
+Risk Factors and Prevention
+Risk Factors and Prevention
+
+A risk factor is anything that increases a person’s chance of developing cancer. Some risk factors can be controlled, such as smoking, and some cannot be controlled, such as age and family history. Although risk factors can influence the development of cancer, most do not directly cause cancer. Some people with several risk factors never develop cancer, while others with no known risk factors do. However, knowing your risk factors and communicating them to your doctor may help you make more informed lifestyle and health care choices.
+
+The following factors may raise a person’s risk of developing lung cancer:
+
+Tobacco. Most lung cancer occurs in people who smoke. Tobacco smoke damages cells in the lungs, causing the cells to grow abnormally. The risk that smoking will lead to cancer is higher for people who smoke heavily and/or for a long time. Regular exposure to smoke from someone else’s cigarettes, cigars, or pipes (called environmental or “secondhand” tobacco smoke) can increase a person’s risk of lung cancer even if that person does not smoke.
+
+Asbestos. These are hair-like crystals found in many types of rock and are often used as fireproof insulation in buildings. When asbestos fibers are inhaled, they can irritate the lung. Many studies show that the combination of smoking and asbestos exposure is particularly hazardous. People who work with asbestos in jobs (such as shipbuilding, asbestos mining, insulation, or automotive brake repair) and smoke have a higher risk of developing lung cancer. Using protective breathing equipment reduces this risk.
+
+Radon. This is an invisible, odorless gas naturally released by some soil and rocks. Exposure to radon has been associated with an increased risk of some types of cancer, including lung cancer. Most hardware stores have kits that test home radon levels, and basements can be ventilated to reduce radon exposure.
+
+The most important way to prevent lung cancer is to avoid tobacco smoke. People who never smoke have the lowest risk of lung cancer. People who smoke can reduce their risk of lung cancer by stopping smoking, but their risk of lung cancer will still be higher than people who never smoked. Attempts to prevent lung cancer with vitamins or other treatments have not worked. Beta-carotene, a drug related to vitamin A, has been tested for the prevention of lung cancer. It did not reduce the risk of cancer. In people who continued to smoke, beta-carotene actually increased the risk of lung cancer.
+
+Screening
+
+There are no tests recommended for screening the general population for lung cancer. Doctors still need to prove that screening everyone at risk for lung cancer reduces rates of death from lung cancer in the general population. A new test, called a low-dose helical (or spiral) computed tomography (CT or CAT) scan, is currently being studied for this purpose. A CT scan creates a three-dimensional picture of the inside of the body with an x-ray machine. A computer then combines these images into a detailed, cross-sectional view that shows any abnormalities or tumors. Sometimes, a contrast medium (a special dye) is injected into a patient’s vein to provide better detail.
+Symptoms
+
+People with lung cancer may experience the following symptoms. Sometimes people with lung cancer do not show any of these symptoms. Or, these symptoms may be caused by a medical condition that is not cancer. If you are concerned about a symptom on this list, please talk with your doctor.
+
+For people with lung cancer who have no symptoms, their lung cancer may be discovered on a chest x-ray or CT scan performed for some other reason, such as checking for heart disease. Most people with lung cancer are diagnosed when the tumor grows, takes up space, or begins to interfere with nearby structures. A lung tumor may also make fluid that can collect in the lung or the space around the lung. A tumor can push the air out of the lungs and cause the lung to collapse. In this way, a lung tumor can prevent the exchange of oxygen and carbon dioxide by blocking the flow of air into the lungs, or by using up the space normally required for oxygen to come in and carbon dioxide to go out of the lung.
+
+Symptoms of lung cancer may include:
+
+    * Fatigue
+
+    * Cough
+
+    * Shortness of breath
+
+    * Chest pain, if a tumor invades a structure within the chest or involves the lining of the lung
+
+    * Loss of appetite
+
+    * Coughing up phlegm or mucus
+
+    * Hemoptysis (coughing up blood)
+
+Although lung cancer can metastasize (spread) anywhere in the body, the most common sites of spread are the lymph nodes, lungs, bones, brain, liver, and structures near the kidneys called the adrenal glands. Metastases (spread to more than one area) from lung cancer can cause further breathing difficulties, bone pain, abdominal or back pain, headache, weakness, seizures, and/or speech difficulties. Rarely, a lung tumor can release hormones that result in chemical imbalances, such as low blood sodium levels or high blood calcium levels.
+
+Symptoms such as fatigue, malaise (feeling out-of-sorts or unwell), and loss of appetite are not necessarily due to metastases. The presence of cancer anywhere in the body can cause a person to feel unwell in a general way. Loss of appetite can result in weight loss. Fatigue and weakness can further worsen breathing difficulties.
+
+Diagnosis
+
+Doctors use many tests to diagnose cancer and determine if it has spread from the lung. Some tests may also determine which treatments may be the most effective. For most types of cancer, a biopsy is the only way to make a definitive diagnosis of cancer. If a biopsy is not possible or more information is needed, the doctor may suggest other tests that will help make a diagnosis. Imaging tests may be used to find out whether the cancer has metastasized, but they can never be used to diagnose lung cancer. Only a biopsy can do that. Your doctor may consider these factors when choosing a diagnostic test:
+
+    * Location of the suspected cancer
+
+    * Size of the suspected cancer
+
+    * Age and medical condition
+
+    * The type of cancer suspected
+
+    * Severity of symptoms
+
+    * Previous test results
+
+In addition to a physical examination, the following tests may be used to diagnose lung cancer:
+
+Biopsy. A biopsy is the only way to make a diagnosis of lung cancer. A biopsy is the removal of a small amount of tissue for examination under a microscope. The sample removed from the biopsy is analyzed by a pathologist (a doctor who specializes in interpreting laboratory tests and evaluating cells, tissues, and organs to diagnose disease). If cancer cells are present, the pathologist will determine if it is small cell lung cancer or NSCLC, based on its appearance under the microscope.
+
+Common procedures doctors use to obtain tissue for the diagnosis and staging of lung cancer are listed below:
+
+Sputum cytology. If there is reason to suspect lung cancer, the doctor may ask a person to cough up some phlegm so it can be examined under the microscope. A pathologist can find cancer cells mixed in with the mucus.
+
+Bronchoscopy. In this procedure, the doctor passes a thin, flexible tube with a light on the end into the mouth or nose, down through the main windpipe, and into the breathing passages of the lungs. A surgeon or a pulmonologist (a medical doctor who specializes in the diagnosis and treatment of lung disease) may perform this procedure. The tube lets the doctor see inside the lungs. Tiny tools inside the tube can take samples of fluid or tissue, so the pathologist can examine them. Patients are given mild anesthesia (medication to put them to sleep) during a bronchoscopy.
+
+Needle aspiration. After numbing the skin, a special type of radiologist, called an interventional radiologist, inserts a small needle through the chest and directly into the lung tumor. The doctor uses the needle to aspirate (suck out) a small sample of tissue for testing. Often, the radiologist uses a chest CT scan or special x-ray machine called a fluoroscope to guide the needle.
+
+Bone marrow biopsy. For patients with small cell lung cancer, doctors sometimes use a local anesthetic (to numb the area) and a special needle to remove a tiny piece of bone (typically from the hip bone) in order to determine whether small cell cancer is present within the bones.
+
+Thoracentesis. After numbing the area, a needle is inserted through the chest wall and into the space between the lung and the wall of the chest where fluid can collect. The fluid is removed and checked for cancer cells by the pathologist.
+
+Thoracotomy. This procedure is performed in an operating room with the help of general anesthesia. A surgeon then makes an incision in the chest, examines the lung directly, and takes tissue samples for testing. A thoracotomy is the procedure surgeons most often perform to completely remove a lung tumor.
+
+Thoracoscopy. Through a small cut in the skin of the chest wall, a surgeon can insert a special instrument and a small video camera to assist in the examination of the inside of the chest. Patients require general anesthesia, but recovery time may be shorter given the smaller incisions. This procedure may be referred to as “VATS” (video-assisted thoracoscopic surgery).
+
+Mediastinoscopy. A surgeon examines and takes a sample of the lymph glands in the center of the chest (underneath the breastbone) by making a small incision at the top of the breastbone. This procedure also requires general anesthesia and is done in an operating room.
+
+Imaging tests
+
+In addition to biopsies and surgical procedures, imaging scans are vital to the care of people with lung cancer. However, no test is perfect, and no scan can diagnose lung cancer. Only a biopsy can do that. Chest x-ray and scan results must be combined with a person’s medical history, a physical examination, blood tests, and biopsy information to form a complete story about where the cancer began and whether or where it has spread.
+
+CT scan. This test produces images that allow doctors to see the size and location of lung tumors and/or lung cancer metastases.
+
+Magnetic resonance imaging (MRI) scan. This test also produces images that allow doctors to see the size and location of lung tumors and/or lung cancer metastases. An MRI uses magnetic fields, not x-rays, to produce detailed images of the body. A contrast medium (a special dye) may be injected into a patient’s vein to provide better detail. MRI scanning is imprecise when used to image a structure that is moving, like your lungs, which move with each breath a person takes. For that reason, the MRI scan is rarely used to study the lungs themselves.
+
+Scans are also available that use radioactive molecules, called tracers, injected into the blood to show where cancer is possibly located:
+
+Positron emission tomography (PET) scan. A PET scan is a way to create pictures of organs and tissues inside the body. A small amount of a radioactive substance is injected into a patient’s body and absorbed by the organs or tissues being studied. This substance gives off energy that is detected by a scanner, which produces the images. A specialist in nuclear medicine helps your doctor interpret PET scans.
+
+Bone scan. A bone scan uses a radioactive tracer to look at the inside of the bones. The tracer is injected into a patient’s vein. It collects in areas of the bone and is detected by a special camera. Healthy bone appears gray to the camera, and areas of injury, such as those caused by cancer, appear dark.
+
+Bone scans and PET scans are often used in combination with information gathered from a CT scan, MRI, regular x-rays, and a physical examination.
+
+To learn more about what to expect during common diagnostic tests, read Cancer.Net: Tests and Procedures.
+
+Finding out where the cancer started
+
+Lung cancer starts in the lungs. Many other types of cancer start elsewhere in the body and spread to the lungs when they metastasize. For example, breast cancer that has spread to the lungs is still called breast cancer. Therefore, it is important for doctors to know if cancer started in the lungs or elsewhere.
+
+To find where the cancer started, the doctor takes into account the patient’s symptoms and medical history, physical examination, the appearance of the tumor on x-rays and scans, and risk factors for cancer. A pathologist can perform tests on the biopsy sample to help identify the origin of a cancer, and the doctor may order other tests for the patient to rule out specific types of cancer. If, after these considerations, the doctor is still not sure where the cancer started, the doctor may give a diagnosis of metastatic cancer “of unknown primary.” Most treatments for metastatic cancer of unknown primary that are first discovered in the chest are the same as those for metastatic lung cancer.
+
+To learn about the terms used in this section, read the Cancer.Net Feature: Cancer Terms to Know: Newly Diagnosed.
+
+Staging With Illustrations
+
+Staging is a way of describing a cancer, such as where it is located, if or where it has spread, and if it is affecting the functions of other organs in the body. Doctors use diagnostic tests to determine the cancer’s stage, so staging may not be complete until all of the tests are finished. Knowing the stage helps the doctor to decide what kind of treatment is best and can help predict a patient’s prognosis (chance of recovery). There are different stage descriptions for different types of cancer.
+
+As doctors learn new information about lung cancer, the staging system may be updated or changed. The International Association for the Study of Lung Cancer (IASLC) is expected to issue updated staging information in 2009, and these changes may mean that more patients could be recommended for adjuvant chemotherapy (chemotherapy after surgery). Learn more about lung cancer Treatment.
+
+In general, a lower number stage of lung cancer is associated with a better outcome. However, no doctor can predict how long a patient will live with lung cancer based only on the stage of disease, because lung cancer is different in each person, and individuals respond to treatment differently.
+
+Staging is different for NSCLC and small cell lung cancer. Each staging system is described below.
+
+Staging of NSCLC
+
+The stage of NSCLC is described by a number, one through four (Roman numerals I through IV). One way to determine the staging of NSCLC is to determine whether the cancer can be completely removed by a surgeon. To completely remove the lung cancer, the surgeon must remove the cancer along with the surrounding, normal lung tissue.
+
+Stage I and II
+
+In general, NSCLC that is stage one (I) or two (II) has a size and location that makes it possible for a surgeon to completely remove it. Stage I cancer has not spread to any lymph nodes. Stage II cancer may involve lymph nodes, but the lymph nodes are contained within the surrounding lung, so they may be removed along with the section of lung where the cancer started.
+
+Stage I Lung Cancer
+
+Larger image
+
+Stage I Lung Cancer
+
+Larger image
+
+Stage III
+
+Stage three (III) NSCLC is difficult, and sometimes impossible, to remove. For example, lung cancer may spread to the lymph nodes located in the center of the chest, which is outside the lung. In this situation, it is less likely that the surgeon can completely remove the cancer because removal of the cancer has to be performed bit by bit.
+
+When the cancer has spread to lymph nodes in the center of the chest, on the same side as where the cancer started, it is known as stage three-A (IIIA). When the cancer spreads to lymph nodes on the opposite side of the chest, it is known as stage three-B (IIIB). In general, surgery is not successful for any stage IIIB or IV lung cancer. Other situations that make a lung cancer impossible to remove are if it has spread to the lymph nodes above the collarbone or into the fluid surrounding the lung, or if the cancer grows into vital structures within the chest, such as the heart, large blood vessels or the main breathing tubes leading to the lungs; all of these conditions are considered stage IIIB.
+
+Stage I Lung Cancer
+
+Larger image
+
+Stage IV
+
+Stage four (IV) means NSCLC has spread to different sections (lobes) of the lung, or to distant sites within the body by way of the bloodstream. Once released in the blood, NSCLC can spread anywhere in the body, but has a tendency to spread to the brain, bones, liver, and to the adrenal glands.
+
+Stage I Lung Cancer
+
+Larger image
+
+Staging of small cell lung cancer
+
+Because almost all small cell lung cancer has spread outside the lung when discovered, very few patients with small cell lung cancer are treated with surgery, and all receive chemotherapy. Some patients with small cell lung cancer can benefit from radiation therapy. The staging for small cell lung cancer helps identify which patients can be treated with radiation therapy in addition to chemotherapy.
+
+Small cell lung cancer is classified as either limited stage or extensive stage:
+
+    * Limited stage means the cancer is located on one side of the chest and involves a single region of the lung and adjacent lymph nodes. This region can be treated in its entirety with radiation therapy. About 30% of patients have limited stage.
+
+    * Extensive stage means the cancer has spread to other regions of the chest, or outside of the chest, and cannot be treated completely with radiation therapy. Most patients (70%) have extensive stage disease and are treated with chemotherapy only.
+
+Recurrent: Recurrent cancer is cancer that comes back after treatment.
+
+Used with permission of the American Joint Committee on Cancer (AJCC), Chicago, Illinois. The original source for this material is the AJCC Cancer Staging Manual, Sixth Edition (2002) published by Springer-Verlag New York, www.springer-ny.com.
+
+Prognosis
+
+The stage of lung cancer influences prognosis. While lung cancer is treatable at any stage, only certain stages of lung cancer can be cured. Some characteristics of patients are important to prognosis, regardless of whether the goal is treatment or cure.
+
+Doctors measure a patient’s general strength and vigor using an index known as performance status. Patients who are strong enough to go about their daily activities without assistance and even work outside the home can safely receive chemotherapy, radiation therapy, and/or surgery. Treatment may not be as effective for patients with bone or liver metastases from lung cancer, excessive weight loss, ongoing cigarette use, or pre-existing medical conditions such as heart disease or emphysema.
+
+It is important to note that a patient’s age has never been useful in predicting whether that patient will benefit from treatment. The average age of patients with lung cancer in the United States is 71. A patient’s age should never be used as the only reason for deciding on what treatment is best, especially for older patients who are otherwise physically fit and have no other medical problems besides lung cancer.
+  Treatment
+
+The treatment of lung cancer depends on the size and location of the tumor, whether the cancer has spread, and the person’s overall health. In many cases, a team of doctors will work with the patient to determine the best treatment plan.
+
+This section outlines treatments that are the standard of care (the best treatments available) for this specific type of cancer. Patients are also encouraged to consider clinical trials when making treatment plan decisions. A clinical trial is a research study to test a new treatment to prove it is safe, effective, and possibly better than standard treatment. Your doctor can help you review all treatment options. For more information, read the clinical trials section.
+
+There are four basic ways to treat lung cancer: surgery, radiation therapy, chemotherapy, and targeted therapy. Each treatment option is described below, followed by an outline of treatment by the type and stage of cancer.
+
+Surgery
+
+A thoracic surgeon is specially trained to perform lung cancer surgery. The goal of surgery is the complete removal of the lung tumor and the nearby lymph nodes in the chest. The tumor must be removed with a surrounding border of normal lung tissue (called the margin). A “negative margin” means that when the pathologist examines the lung, or piece of lung that has been removed by the surgeon, no traces of cancer were found in the healthy tissue surrounding the tumor.
+
+The lungs have five lobes, three in the right lung and two in the left lung. For NSCLC, a lobectomy (removal of an entire lobe of the lung) has been shown to be the most effective type of surgery, even when the lung tumor is very small. If, for whatever reason, the surgeon cannot remove an entire lobe of the lung, the surgeon can remove the tumor in a procedure called a wedge, surrounded by a margin of normal lung. If the tumor is close to the center of the chest, the surgeon may have to perform a pneumonectomy (surgery to remove the entire lung). The time it takes to recover from lung surgery depends on how much of the lung is removed and the health of the patient before surgery.
+
+Adjuvant therapy
+
+Adjuvant therapy is treatment that is given after surgery to lower the risk of the lung cancer returning. Adjuvant therapy includes radiation therapy, chemotherapy, and targeted therapy. It is intended to eliminate any lung cancer cells that may be lingering in the body. Adjuvant therapy may decrease the risk of recurrence, but does not necessarily eliminate it.
+
+Along with staging, other sophisticated tools can help determine prognosis and help you and your doctor make decisions about whether adjuvant therapy would be helpful in your treatment. The website Adjuvant! Online (www.adjuvantonline.com) is one such tool that your doctor can access to interpret a variety of factors that are important for making the treatment decision. This website should only be used with the interpretation of your doctor.
+
+For additional information, read the What to Know: ASCO's Guideline on Adjuvant Treatment for Lung Cancer.
+
+Radiation therapy
+
+Radiation therapy is the use of high energy x-rays or other particles to kill cancer cells. If you need radiation therapy, you will be asked to see a specialist called a radiation oncologist. Like surgery, radiation therapy cannot be used to treat widespread cancer. Radiation only kills cancer cells directly in the path of the radiation beam. It also damages the normal cells caught in its path, and for this reason, it cannot be used to treat large areas of the body. Patients with lung cancer treated with radiation therapy often experience fatigue and loss of appetite. If radiation therapy is given to the neck, or center of the chest, patients may also develop a sore throat and have difficulty swallowing. Skin irritation, like sunburn, may occur at the treatment site. Most side effects go away soon after treatment is finished.
+
+If the radiation therapy irritates or inflames the lung, patients may develop a cough, fever, or shortness of breath months and sometimes years after the radiation therapy ends. This condition occurs in about 15% of patients and is called radiation pneumonitis. If it is mild, radiation pneumonitis does not require treatment and resolves on its own. If it is severe, radiation pneumonitis may require treatment with steroid medications, such as prednisone. Radiation therapy may also cause permanent scarring of the lung tissue near the site of the original tumor. Typically, the scarring does not lead to symptoms. Widespread scarring can lead to permanent cough and shortness of breath. For this reason, radiation oncologists carefully plan the treatments using CT scans of the chest to minimize the amount of normal lung tissue exposed to the radiation beam.
+
+Chemotherapy
+
+Chemotherapy is the use of drugs to kill cancer cells. Systemic chemotherapy is delivered through the bloodstream, targeting cancer cells throughout the body. Chemotherapy is given by a medical oncologist. Most chemotherapy used for lung cancer is injected into a vein (called intravenous, or IV injection).
+
+The side effects of chemotherapy depend on the individual and the dose used, but can include fatigue, risk of infection, nausea and vomiting, loss of appetite, and diarrhea. Nausea and vomiting are often avoidable; for more information, read the What to Know: ASCO's Guideline on Preventing Nausea and Vomiting Caused by Cancer Treatment. These side effects usually go away once treatment is finished.
+
+Chemotherapy may also damage normal cells in the body, including blood cells, skin cells, and nerve cells. This may result in low blood counts, an increased risk of infection, hair loss, mouth sores, and/or numbness or tingling in the hands and feet. Your medical oncologist can often prescribe drugs to help provide relief from many side effects. Hormone injections are also used to prevent white and red blood cell counts from becoming too low.
+
+Newer chemotherapy treatment plans cause fewer side effects and are as effective as older treatments. Chemotherapy has been shown to improve both the length and quality of life in people with lung cancer of all stages.
+
+The medications used to treat cancer are continually being evaluated. Talking with your doctor is often the best way to learn about the medications prescribed for you, their purpose, and their potential side effects or interactions with other medications. Learn more about your prescriptions through Cancer.Net's Drug Information Resources, which provides links to searchable drug databases.
+
+Targeted therapy
+
+Targeted therapy is a treatment that target faulty genes or proteins that contribute to cancer growth and development. These abnormal proteins are present in unusually large amounts in certain lung cancer cells.
+
+A monoclonal antibody is a drug made in the laboratory that blocks a receptor on the cell surface, which is like the doorway of the cell. Bevacizumab (Avastin) is a monoclonal antibody given in combination with chemotherapy for lung cancer. Drugs like bevacizumab block the formation of new blood vessels (also called angiogenesis), which is necessary for a tumor to grow and spread. The risk of serious bleeding for patients taking bevacizumab is about 2%.
+
+Erlotinib (Tarceva) is a drug approved by the U.S. Food and Drug Administration (FDA) for locally advanced and metastatic NSCLC. It blocks the epidermal growth factor receptor (EGFR), a protein that helps lung cancer cells grow and multiply. This medication is a pill that can be taken by mouth. The side effects of erlotinib include rash that looks like acne and diarrhea.
+
+Many doctors recommend treatment with cetuximab (Erbitux), a monoclonal antibody that targets and blocks the EGFR. This is drug is given along with chemotherapy to treat lung cancer, especially when treatment with bevacizumab is unsafe. The side effects of cetuximab include rash and allergic reactions.
+
+Gefitinib (Iressa) is another drug that works like erlotinib. It is available only to people who were already taking it, had taken it in the past and had a good effect, or as part of a clinical trial.
+
+Combining treatments
+
+Most patients with lung cancer are treated by more than one specialist with more than one type of treatment. For example, chemotherapy can be prescribed before or after surgery, or before, during, or after radiation therapy. Patients should have a sense that their doctors have a coordinated plan of care and are communicating effectively with one another. If patients do not feel that the surgeon, radiation oncologist, or medical oncologist is communicating effectively with them or each other about the goals of treatment and the plan of care, patients should discuss this with their doctors or seek additional opinions before treatment.
+
+Treatment of NSCLC
+
+Stage I and II. In general, stage I and II NSCLC are treated with surgery. Surgeons cure many patients with an operation. Before or after surgery, a patient may be referred to a medical oncologist. Some patients with a large tumor or evidence of spread to lymph nodes may benefit from neoadjuvant chemotherapy (chemotherapy before the surgery, also called induction chemotherapy) or adjuvant chemotherapy to reduce the chance the cancer will return. Radiation therapy is recommended to treat and cure a lung tumor in people for whom surgery is not advisable.
+
+Stage III. Stage III NSCLC has spread to the point that surgery or radiation therapy alone is not enough to cure the disease for most people. Patients with stage III disease also have a high risk of the cancer returning, either in the same place or at a distant location, even after successful surgery or radiation therapy. For this reason, doctors generally do not recommend immediate surgery, and sometimes suggest chemotherapy with surgery to follow.
+
+After chemotherapy, patients with stage IIIa NSCLC may still undergo surgery, especially if the chemotherapy is effective in killing or shrinking the cancer. Because chemotherapy travels throughout the body, if it is killing the cancer the doctors can see, it may also be killing the invisible cancer cells that may have spread from the original tumor. After effective chemotherapy, surgeons can be more confident that removing a stage IIIa NSCLC will result in a cure.
+
+Some patients with stage IIIa NSCLC are not treated with surgery. Instead, patients with stage IIIa disease may be treated with a combination of chemotherapy and radiation therapy with the intent to cure. The chemotherapy may be delivered either before or at the same time as the radiation therapy. This method has shown to improve the ability of radiation therapy to shrink the cancer and to decrease the risk of the cancer returning. Chemotherapy delivered at the same time as radiation therapy is more effective than chemotherapy delivered before radiation therapy, but it results in more side effects. Patients who have received both chemotherapy and radiation therapy for stage IIIa disease may still go on to have surgery. However, there is debate among doctors whether surgery is necessary for patients effectively treated with radiation therapy and if radiation therapy is needed in patients whose tumors are completely removed following treatment with chemotherapy.
+
+For most patients with NSCLC, the tumor is unresectable (cannot be removed by surgery). This may be because they have stage IIIb lung cancer, or the surgeon feels that an operation would be too risky, or that the tumor cannot be removed completely. For patients with unresectable NSCLC, with no signs of spread of cancer to distant sites or in the fluid around the lung, a combination of chemotherapy and radiation therapy can still be used to try to cure the patient.
+
+Stage IIIb with pleural effusion and Stage IV NSCLC. Patients with stage IV NSCLC or stage IIIb due to malignant pleural effusion (cancer cells in the fluid around the lung) are typically not treated with surgery or radiation therapy. Rarely, doctors recommend that a brain or adrenal metastasis be removed surgically if that is the only place the cancer has spread. Radiation therapy can also be used to treat a single site of metastasis, such as in the brain. However, patients with stage IV disease, or stage IIIb with a pleural effusion, are at very high risk for the cancer spreading or growing in another location. Most patients with these stages of NSCLC are only treated with drugs.
+
+The goals of chemotherapy are to shrink the cancer, relieve discomfort caused by the cancer, prevent further spread, and lengthen life. Rarely, chemotherapy can make metastatic lung cancer disappear. However, doctors know from experience that the cancer will return. Therefore, patients with stage IV disease, or stage IIIb with a pleural effusion, are never considered “cured” of their cancer no matter how well the chemotherapy works. These patients must be followed closely by their doctors and require lifelong chemotherapy to control their disease. Chemotherapy has been proven to improve both length and quality of life for patients with NSCLC.
+
+For more information about NSCLC treatment that cannot be removed by surgery, read the What to Know: ASCO's Guideline on Advanced Lung Cancer Treatment.
+
+Treatment of small cell lung cancer
+
+As with NSCLC, the treatment of small cell lung cancer depends on the stage. Small cell lung cancer spreads quickly, so systemic chemotherapy is the primary treatment for all patients. The most commonly used chemotherapy regimen is etoposide (VePesid, Lastet, Etopoph plus cisplatin (Platinol) or carboplatin (Paraplatin). Patients with limited stage small cell lung cancer are best treated with simultaneous chemotherapy plus radiation therapy to the chest given twice a day. Radiation therapy is best when given during the first or second month of chemotherapy. Patients with extensive stage cancer are treated with chemotherapy only. Chemotherapy is given for three to six months. Surgery is rarely appropriate for patients with small cell lung cancer and is only considered for patients with very early-stage disease, such as a small lung nodule. In those cases, chemotherapy, with or without radiation therapy, is given afterwards.
+
+In patients whose tumors have diminished after chemotherapy, radiation therapy to the head cuts the risk that the cancer will spread to the brain. This preventative radiation to the head is called prophylactic cranial irradiation (PCI) and has been shown to extend the lives of these patients.
+
+Like patients with advanced NSCLC, patients with small cell lung cancer of any stage face the risk that their cancer can return, even when it is initially controlled. All patients with small cell lung cancer must be followed closely by their doctors with x-rays, scans, and check-ups.
+
+Stopping smoking
+
+Even after lung cancer is diagnosed, it is still not too late to benefit from stopping cigarette smoking. People who stop smoking have an easier time with all treatments, feel better, live longer, and have a lower risk of developing a second lung cancer. Stopping smoking is never easy and even harder when facing the diagnosis of lung cancer and treatment. People who smoke should seek help from family, friends, smoking cessation programs, and health care professionals. None of the smoking cessation aids available interfere with cancer treatment. For more information, read the Tobacco section.
+
+Controlling physical symptoms caused by lung cancer
+
+Chemotherapy is not as effective as radiation therapy or surgery to treat lung cancer that has spread to the brain. For this reason, lung cancer that has spread to the brain is treated instead with radiation therapy, surgery, or both. Most patients with brain metastases from lung cancer are treated with radiation therapy to the entire brain. This can cause side effects such as hair loss, fatigue, and redness of the scalp. With a small tumor, a type of radiation therapy called stereotactic radiosurgery can focus radiation only on the tumor in the brain and minimize side effects.
+
+Radiation therapy or surgery may also be used to treat metastases that are causing pain or other symptoms.
+
+    * A tumor in the chest that is bleeding or blocking the lung passages can be shrunk by radiation therapy.
+
+    * During a bronchoscopy (See Diagnosis), lung passages blocked by cancer can be opened to improve breathing.
+
+    * A surgeon can use a laser to burn away a tumor or place a mechanical stent (support) to prop open an airway passage.
+
+    * Bone metastases that weaken important bones can be treated with surgery and reinforced using metal implants. Bone metastases can also be treated with radiation therapy.
+
+Medications can also help treat the symptoms of lung cancer.
+
+    * Medications are used to treat cancer pain. Most hospitals and cancer centers have pain control specialists that design pain-relief treatments even for very severe cancer pain. Many drugs used to treat cancer pain, especially morphine, can also relieve shortness of breath caused by cancer.
+
+    * Medications can be used to suppress cough, open closed airways, or reduce bronchial secretions.
+
+    * Prednisone or methylprednisolone (multiple brand names) can reduce inflammation caused by lung cancer or radiation therapy and improve breathing.
+
+    * Extra oxygen from small, portable tanks can help make up for the lung’s reduced ability to extract oxygen from the air.
+
+    * Medications called bisphosphonates strengthen bones, lessen bone pain, and can help prevent future bone metastases.
+
+    * Appetite stimulants and nutritional supplements can improve appetite and lessen weight loss.
+
+To learn about the terms used in this section, read the Cancer.Net Feature: Cancer Terms to Know: During Treatment.
+Clinical Trials Resources
+
+Doctors and scientists are always looking for better ways to treat patients with lung cancer. A clinical trial is a way to test a new treatment to prove that it is safe, effective, and possibly better than a standard treatment. Patients who participate in clinical trials are among the first to receive new treatments before they are widely available. However, there is no guarantee that the new treatment will be safe, effective, or better than a standard treatment.
+
+Patients decide to participate in clinical trials for many reasons. For some patients, a clinical trial is the best treatment option available. Because standard treatments are not perfect, patients are willing to face the added uncertainty of a clinical trial in the hope of a better result. Other patients volunteer for clinical trials because they know that finding new drugs and other therapies is the only way to make progress in treating lung cancer. Even if they do not benefit directly from the clinical trial, their participation may benefit future patients with lung cancer.
+
+To join a clinical trial, patients must complete a learning process known as informed consent. During informed consent, the doctor will list all of the patient’s options, so the person understands how the new treatment differs from the standard treatment. The doctor must also explain all of the risks of the new treatment, which may or may not be different from the risks of standard treatment. Finally, the doctor must detail what will be required of each patient in order to participate in the clinical trial, including the number of doctor visits, tests, and the schedule of treatment. Learn more about clinical trials, including patient safety, phases of a clinical trial, deciding to participate in a clinical trial, questions to ask the research team, and links to find cancer clinical trials.
+Side Effects
+
+Cancer and its treatment can cause a variety of side effects. However, doctors have made major strides in recent years in reducing pain, nausea and vomiting, and other physical side effects of cancer treatments. Many treatments used today are less intensive but as effective as treatments used in the past. Doctors also have many ways to provide relief to patients when such side effects do occur.
+
+Fear of treatment side effects is common after a diagnosis of cancer, but it may be helpful to know that preventing and controlling side effects is a major focus of your health care team. Before treatment begins, talk with your doctor about possible side effects of the specific treatments you will be receiving. The specific side effects that can occur depend on a variety of factors, including the type of cancer, its location, the individual treatment plan (including the length and dosage of treatment), and the person’s overall health.
+
+Ask your doctor which side effects are most likely to happen (and which are not), when side effects are likely to occur, and how they will be addressed by the health care team if they do happen. Also, be sure to communicate with your doctor about side effects you experience during and after treatment. For more information on the most common side effects of cancer and different treatments, along with ways to prevent or control them, visit Cancer.Net’s section on Managing Side Effects, based on ASCO’s curriculum.
+
+In addition to physical side effects, there may be psychosocial (emotional and social) effects as well. Learn more about the importance of addressing these needs in Cancer.Net’s section on Caring for the Whole Patient.
+
+For more information on late effects or long-term side effects, please read the After Treatment section or talk with your doctor.
+Living With Cancer
+
+Living With Lung Cancer
+
+Because lung cancer is associated with smoking, patients may feel that they will not receive as much support or help from people around them because they believe that others will think that their behavior caused the disease. The truth is that most smokers do not develop lung cancer, and not all patients with lung cancer smoke. Lung cancer is a disease that affects all people. In fact, most people who get lung cancer today either have stopped smoking years earlier, or have never smoked.
+
+For many patients, a diagnosis of lung cancer can be very stressful, and at times difficult to bear. Some patients with lung cancer develop anxiousness, and less commonly, depression. Patients and their families should not be afraid to express the way they are feeling to doctors, nurses, and social workers. The health care team is there to help, and many team members have special skills and experience that can make things easier for patients and their families.
+
+In addition to moral support and education, the doctor may prescribe anti-anxiety medications like alprazolam (Xanax) or lorazepam (Ativan, Lorazepam Intensol) and occasionally, antidepressants. He or she may refer the patient to a counselor, psychologist, social worker, or psychiatrist. Furthermore, patients and their families should be aware that there are resources available in the community to help people living with cancer. Some patients feel comfortable discussing their disease and experiences throughout treatment with their doctor, nurse, family, friends, or other patients. These patients may also join support groups or advocacy groups in order to increase awareness about lung cancer and to help fellow patients who are living with this disease.
+
+A lung cancer diagnosis is serious. However, patients can be hopeful that their doctors can offer them effective treatment. They can take comfort knowing that the advances being made in the diagnosis and treatment of lung cancer will provide more and more patients with a chance for cure.
+After Treatment
+
+Each year, tens of thousands of people are cured of lung cancer in the United States. After treatment for lung cancer ends, your doctor will outline a program of tests and visits to monitor your recovery and to check that the cancer has not returned. This plan may include regular physical examinations and/or medical tests. During this period, any new problem without an obvious cause that lasts for more than two weeks should be brought to the attention of your doctor or nurse.
+
+People treated for lung cancer may continue to have symptoms, even after treatment ends. Common post-treatment problems include pain, fatigue, and shortness of breath. Feelings of depression and anxiety may also persist after treatment, and fear of the cancer returning is very common. Often people feel that they have less support once the treatment has ended and that there is less assistance available from their doctors, nurses, and other programs, such as support groups. Your doctor, nurse, and social worker can help you develop a plan to manage any problems that persist after treatment. There are also many available resources specifically designed for people following treatment:
+
+    * Cancer.Net: Survivorship
+
+    * National Coalition for Cancer Survivorship (NCCS): Cancer Survival Toolbox
+
+    * National Cancer Institute: Life After Cancer Treatment
+
+    * American Cancer Society (ACS) Cancer Survivor Network
+
+Nothing helps recovering people with lung cancer more than stopping smoking. There are many tools and approaches available. Enlist the support of your family, friends, nurses, and doctors—it is difficult to stop on your own.
+
+People who develop lung cancer are at higher risk for developing a second lung cancer. Your doctor will recommend scans to monitor you for this possibility, so any new cancers can be detected as early as possible.
+
+People recovering from lung cancer are encouraged to follow established guidelines for good health, such as maintaining a healthy weight, not smoking, eating a balanced diet, and having recommended cancer screening tests. Because many survivors of lung cancer have smoked cigarettes in the past, they are at very high risk for heart disease, stroke, emphysema, and chronic bronchitis. Certain cancer treatments can further increase these risks. Even for those who are non-smokers, returning to your usual health routines after cancer is important for your overall well being. Talk with your doctor to develop a plan that is best for your needs.
+
+Moderate physical activity can help rebuild your strength and energy level. Recovering patients, even those using oxygen, are encouraged to walk for 15 to 30 minutes each day to improve their heart and lung functioning. Your doctor can help you create an appropriate exercise plan based upon your needs, physical abilities, and fitness level.
+
+Learn more about Healthy Living After Cancer.
+
+To learn about the terms used in this section, read the Cancer.Net Feature: Cancer Terms to Know: After Treatment.
+
+Current Research
+
+Research for lung cancer is ongoing. The following advances are under investigation in clinical trials and may not be approved or available at this time. Always discuss all diagnostic and treatment options with your doctor.
+
+Personalized therapy. Specific characteristics of patients and their tumors that can predict whether a certain chemotherapy or targeted therapy may work are being identified. To collect this information, patients will increasingly be asked to undergo additional analyses of the tumor samples obtained at the time of diagnosis. In the majority of patients where chemotherapy is recommended, not enough tumor tissue was removed during the biopsy that was used to diagnose their cancer for these additional studies. These patients will be asked to undergo additional biopsies to help plan therapy and, if part of a clinical trial, to aid the research to discover better ways to treat lung cancer.
+
+Targeted therapy. The future of lung cancer therapy lies in the development of targeted therapy. There are hundreds of new drugs now being studied both in the laboratory and in clinical trials. Learn more about Understanding Targeted Treatments.
+
+Better techniques for surgery and radiation therapy. Doctors are finding ways to improve the effectiveness of surgical and radiologic procedures while reducing the side effects of these procedures. Advances in all types of treatment will improve the ability of doctors to combine chemotherapy, radiation therapy, and surgery for the treatment of patients with all stages of lung cancer.
+
+Improved screening. Lung cancer is more successfully treated in its early stages, which has raised interest in screening patients for lung cancer before it grows to the point that it causes symptoms. There are currently no proven screening tests for lung cancer. Advances in imaging techniques, such as low-dose, helical CT scanning, are currently under investigation, and may result in better methods to detect lung cancer early. In the future, molecules detected in the blood or sputum may suggest the presence of lung cancer before it shows up on a CT scan.
+
+Reduced tobacco use. Even with the best methods for the early detection and treatment of lung cancer, the best way to save lives from lung cancer is through programs to reduce cigarette smoking. For most people, lung cancer is a highly preventable disease. Even for people with lung cancer, stopping smoking lets people live longer, lowers side effects, and lessens the chance of getting a second lung cancer. Quitting smoking is hard at any time, and even more so during cancer treatment. The health care team can help make it easier to quit smoking with nicotine replacement and other techniques.
+Questions to Ask the Doctor
+
+Regular communication with your doctor is important in making informed decisions about your health care. Consider asking the following questions of your doctor:
+
+For all patients with lung cancer:
+
+    * What type of lung cancer do I have?
+
+    * What is the stage of my lung cancer? What does this mean?
+
+    * Should I see another doctor to assist in my care, such as a thoracic surgeon, radiation oncologist, medical oncologist, and/or pulmonologist? What is the role of each doctor in my care?
+
+    * Do I need additional scans or biopsies in order to plan my treatment?
+
+    * Can you explain my pathology report (laboratory test results) to me?
+
+    * What is the goal of my treatment?
+
+    * What clinical trials are open to me?
+
+    * What are the possible side effects of this treatment, both in the short term and the long term?
+
+    * How will this treatment affect my daily life? Will I be able to work, exercise, and perform my usual activities?
+
+    * In addition to treating my cancer, what can be done to treat my symptoms?
+
+    * Are there any other treatment options available to me?
+
+    * What support services are available to me? To my family?
+
+For patients who will have surgery:
+
+    * What type of surgery will I have? Will lymph nodes be removed?
+
+    * How long will the operation take?
+
+    * How long will I be in the hospital?
+
+    * Can you describe what my recovery from surgery will be like?
+
+For patients who are to receive chemotherapy and targeted therapy:
+
+    * What are the names of the drugs, and how are they given?
+
+    * What are the side effects of each medication? What side effects or problems should I watch for?
+
+    * What can be done to lessen these side effects?
+
+    * How often will I need to visit the doctor to receive the therapy, and how long will each visit take?
+
+    * Will I be able to go to and return from this treatment on my own, or should I arrange to have assistance?
+
+For patients who are to receive radiation therapy:
+
+    * How will my treatment be planned? What types of scans will be used?
+
+    * Where will I receive radiation therapy?
+
+    * How often will I receive radiation therapy?
+
+    * How much time will each treatment take?
+
+    * How much of the normal lung will be included in the radiation field?
+
+    * Is it possible for me to receive chemotherapy with my radiation therapy? If so, what are the added side effects of giving the chemotherapy at the same time, compared with one after another?
+
+    * Will I be able to go to and return from this treatment on my own, or should I arrange to have assistance?
+
+For patients considering a clinical trial:
+
+    * What are my options for standard treatment?
+
+    * What other treatments through clinical trials are available to me?
+
+    * How will my experience differ if I enroll in this clinical trial, as opposed to standard treatment (different risks, extra tests or time commitment, schedule)?
+
+    * What is the goal of this clinical trial? Is this a phase I, II, or III clinical trial? What does this mean?
+
+    * Where will I receive the clinical trial treatment?
+
+For patients who have completed their treatment:
+
+    * What are the chances that my cancer will return?
+
+    * Is there anything more I can do to reduce the chance that my cancer will return?
+
+    * What follow-up tests will I need and how often will I need them?
+
+    * What tests will I have during my follow-up visit?
+
+For patients who smoke:
+
+    * How can you help me to quit smoking?

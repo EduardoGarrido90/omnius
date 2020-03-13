@@ -1,0 +1,45 @@
+// Lung Cancer Experiment
+digraph {
+	1 [label="Tobacco Use"]
+	2 [label="Lung Cancer"]
+	3 [label="Secondhand Smoke"]
+	4 [label="Heavy Smoking"]
+	5 [label=Complications]
+	6 [label=Death]
+	7 [label=Symptoms]
+	8 [label="Bone Pain"]
+	9 [label=Treatable]
+	10 [label="Radiation Therapy"]
+	11 [label=Bleeding]
+	12 [label="Chemical Imbalances"]
+	13 [label=Pain]
+	14 [label="Speech Difficulties"]
+	15 [label="Breathing Difficulties"]
+	16 [label=Metastasize]
+	17 [label="Collect Fluid"]
+	19 [label=Fatigue]
+	20 [label="Loss of appetite"]
+	21 [label=Workplace]
+	22 [label="Radon Gas"]
+	1 -> 2
+	3 -> 2
+	4 -> 2
+	2 -> 5
+	2 -> 5
+	2 -> 6
+	2 -> 7
+	2 -> 8
+	2 -> 9
+	2 -> 10
+	2 -> 11
+	2 -> 12
+	2 -> 13
+	2 -> 14
+	2 -> 15
+	2 -> 16
+	2 -> 17
+	9 -> 19
+	9 -> 20
+	21 -> 2
+	22 -> 2
+}

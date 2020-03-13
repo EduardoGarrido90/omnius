@@ -1,0 +1,719 @@
+
+
+		FICHERO condicional.txt
+		*********ANALIZADOR MORFOLOGICO*************
+
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:13 --  In the United States  ,about  9 0 %of lung cancer deaths in men  and almost  8 0 %of lung cancer deaths in women are due to smoking . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+			Modificador encontrado: almost , intensidad: 2 , contexto:  and almost 8 0 % 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   1 2 3 4 5 6 7 8People who quit smoking have a lower risk of lung cancer than if 
+
+		 	**ANTECEDENTE: they had continued to smoke , but their risk is higher than the risk for people who never smoked . 
+
+>Número de linea:15 --   1 2 3 4 5 6 7 8People who quit smoking have a lower risk of lung cancer than if they had continued to smoke , but their risk is higher than the risk for people who never smoked  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: lower , intensidad: 1 , contexto: a lower risk of lung 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:23 --  Every year  ,about  3 , 0 0 0nonsmokers die from lung cancer due to secondhand smoke . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Agency for Toxic Substances  and Disease Registry ToxFAQs  ™ *National Toxicology Program 's  1 1th Report on CarcinogensExternal Web Site Icon  *National Institute for Occupational Safety  and Health Family History Risk of lung cancer may be higher if 
+
+		 	**ANTECEDENTE: a person 's parents , siblings ( brothers or sisters ) , or children have had lung cancer . 
+
+>Número de linea:42 --   *Agency for Toxic Substances  and Disease Registry ToxFAQs  ™ *National Toxicology Program 's  1 1th Report on CarcinogensExternal Web Site Icon  *National Institute for Occupational Safety  and Health Family History Risk of lung cancer may be higher if a person 's parents , siblings ( brothers or sisters ) , or children have had lung cancer  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:47 --  However  ,it 's hard to tell how much of the risk in people who drink is actually due to tobacco smoke  ,since many people both smoke  and drink . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+			Modificador encontrado: much , intensidad: 4 , contexto: how much of the risk 
+			Modificador encontrado: many , intensidad: 5 , contexto: since many people both smoke 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:66   Even if you don't smoke , your risk of lung cancer increases if you 're exposed to secondhand smoke . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Workplace exposure to asbestos  and other substances known to cause cancer  —such as arsenic  ,chromium  ,nickel  and tar  —also can increase your risk of developing lung cancer  ,especially if 
+
+		 	**ANTECEDENTE: you 're a smoker . 
+
+>Número de linea:68 --  Workplace exposure to asbestos  and other substances known to cause cancer  —such as arsenic  ,chromium  ,nickel  and tar  —also can increase your risk of developing lung cancer  ,especially if you 're a smoker  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+			Modificador encontrado: especially , intensidad: 4 , contexto: , especially if you 're 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  People with lung cancer can experience shortness of breath if 
+
+		 	**ANTECEDENTE: cancer grows to block the major airways . 
+
+>Número de linea:75 --  People with lung cancer can experience shortness of breath if cancer grows to block the major airways  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2 ** 
+
+			Modificador encontrado: major , intensidad: 5 , contexto: the major airways 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:77   Tell your doctor if you experience pain . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:109 --  Only about  2 %of those diagnosed with lung cancer that has spread to other areas of the body are alive five years after the diagnosis  ,although the survival rates for lung cancers diagnosed at a very early stage are higher  ,with approximately  4 9 %surviving for five years or longer . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+			Modificador encontrado: very , intensidad: 5 , contexto: a very early stage are 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:119   If this is the case , the cancer is not considered to be lung cancer . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:119   For example  ,if prostate cancer spreads via the bloodstream to the lungs , it is metastatic prostate cancer ( a secondary cancer ) in the lung and is not called lung cancer . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:177 --  About  9 0 %of lung cancers arise due to tobacco use . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:201 --  o The risk for lung cancer increases with significant long  -term exposure to radon  ,although no one knows the exact risk . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:234 --  The symptoms are due to direct effects of the primary tumor  ,to effects of metastatic tumors in other parts of the body  ,or to disturbances of hormones  ,blood  ,or other systems caused by the cancer . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:305    )IN THIS ARTICLE  *Lung Cancer Overview  *Lung Cancer Causes  *Lung Cancer Symptoms  *When to Seek Medical Care  *Exams  and Tests  *Lung Cancer Treatment  *Medical Treatment  *Surgery  *Next Steps  *Follow  -up  *Prevention  *Outlook  *Support Groups  and Counseling  *For More Information  *Web Links  *Multimedia  *Synonyms  and Keywords  *Authors  and Editors  *Viewer Comments  :Lung Cancer  -Describe Your Experience When to Seek Medical Care See a health  -care provider as soon as possible if any of the following develop : * any symptom of lung cancer , * new cough or change in an existing cough , * hemoptysis ( flecks of blood in the sputum when coughing ) , * unexplained weight loss , * unexplained persistent fatigue , or * unexplained deep aches or pains . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: More , intensidad: 4 , contexto: For More Information * Web 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:319   Go immediately to the nearest hospital emergency department if any of the following occur : * coughing up a large amount of blood , * sudden shortness of breath , * sudden weakness , * sudden vision problems , or * persistent chest pain . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:369    *If symptoms are severe , the x - ray may be skipped and a CT scan or MRI may be performed right away . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:377   If a person 's chest x - ray film or scan suggests that a tumor is present , he or she will undergo a procedure for diagnosis . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Cells in the sputum can be examined to see if 
+
+		 	**ANTECEDENTE: they are cancerous . 
+
+>Número de linea:389 --   *Cells in the sputum can be examined to see if they are cancerous  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:391   If negative , the findings usually need to be confirmed by further testing . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:407   Needle biopsy  :If a tumor is on the periphery of the lung , it usually cannot be seen with bronchoscopy . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:413 --  Although this condition can be dangerous  ,it is almost always recognized  and treated without serious consequences . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+			Modificador encontrado: almost , intensidad: 2 , contexto: is almost always recognized  and 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Unfortunately  ,this operation may not be successful in removing all tumor cells if 
+
+		 	**ANTECEDENTE: the tumor is large or has spread to the lymph nodes outside of the lungs . 
+
+>Número de linea:431 --   *Unfortunately  ,this operation may not be successful in removing all tumor cells if the tumor is large or has spread to the lymph nodes outside of the lungs  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  These tests are generally performed only if 
+
+		 	**ANTECEDENTE: symptoms occur that suggest metastatic disease . 
+
+>Número de linea:451 --  These tests are generally performed only if symptoms occur that suggest metastatic disease  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Staging is based on size of the tumor  ,location of the tumor , and degree of metastasis of the tumor  (if 
+
+		 	**ANTECEDENTE: any ) . 
+
+>Número de linea:457 --   *Staging is based on size of the tumor  ,location of the tumor , and degree of metastasis of the tumor  (if any )  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:503    *If SCLC is in an early stage ( confined to the thorax ) , the standard of care is chemotherapy and radiation therapy given at the same time . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *The brain is sometimes treated with radiation even if 
+
+		 	**ANTECEDENTE: no tumor is present there . 
+
+>Número de linea:507 --   *The brain is sometimes treated with radiation even if no tumor is present there  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:513    *If relapse occurs , a different type of chemotherapy regimen may offer symptom relief and modest survival benefit . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3 ** 
+
+			Modificador encontrado: modest , intensidad: 5 , contexto: and modest survival benefit 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Planning should begin with a three  -way conversation between the patient  ,someone representing the patient  (if 
+
+		 	**ANTECEDENTE: he or she is too ill to participate ) , and the health - care provider . 
+
+>Número de linea:609 --   *Planning should begin with a three  -way conversation between the patient  ,someone representing the patient  (if he or she is too ill to participate ) , and the health - care provider  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 4
+
+			Modificador encontrado: too , intensidad: 5 , contexto: is too ill to participate 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Palliative care may be given at home  ,in a hospital if 
+
+		 	**ANTECEDENTE: home care is not possible , or in a hospice facility . 
+
+>Número de linea:613 --  Palliative care may be given at home  ,in a hospital if home care is not possible , or in a hospice facility  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  People with cancer should not wait for friends or family to bring it up if 
+
+		 	**ANTECEDENTE: they want to talk about their concerns , they should let friends and family know . 
+
+>Número de linea:714 --  People with cancer should not wait for friends or family to bring it up if they want to talk about their concerns , they should let friends and family know  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 4 ** 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:750 --  Approximately  3 , 0 0 0lung cancer deaths occur each year among adult nonsmokers in the United States as a result of exposure to secondhand smoke  ( 2 ). 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:820   If products containing asbestos are disturbed , tiny asbestos fibers are released into the air . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:822 --  Although rare  ,mesothelioma is the most common form of cancer associated with asbestos exposure . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+			Modificador encontrado: most , intensidad: 5 , contexto: the most common form of 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:824 --  Although pleural plaques are not precursors to lung cancer  ,evidence suggests that people with pleural disease caused by exposure to asbestos may be at increased risk for lung cancer  ( 2 , 9 ). 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:829 --  As a result of Government regulations  and improved work practices  ,today  ’s workers  (those without previous exposure  )are likely to face smaller risks than did those exposed in the past . 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:835 --  Although it is clear that the health risks from asbestos exposure increase with heavier exposure  and longer exposure time  ,investigators have found asbestos  -related diseases in individuals with only brief exposures . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:850 --  Although all forms of asbestos are considered hazardous  ,different types of asbestos fibers may be associated with different health risks . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  It is particularly important to check with a doctor if 
+
+		 	**ANTECEDENTE: any of the following symptoms develop ( 6 ) : * Shortness of breath , wheezing , or hoarseness . 
+
+>Número de linea:859 --  It is particularly important to check with a doctor if any of the following symptoms develop ( 6 ) : * Shortness of breath , wheezing , or hoarseness  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: particularly , intensidad: 3 , contexto: is particularly important to check 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:878   If necessary , OSHA can provide more information or make an inspection . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2 ** 
+
+			Modificador encontrado: more , intensidad: 5 , contexto: provide more information or make 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Contact information for state workers  ’compensation officials may be found in the blue pages of a local telephone directory or at http  :If 
+
+		 	**ANTECEDENTE: exposure occurred during employment with a Federal agency , medical expenses and other compensation may be covered by the Federal Employees ’ Compensation Program , which is administered by the DOL , Employment Standards Administration ’ s Office of Workers ’ Compensation Programs . 
+
+>Número de linea:920 --  Contact information for state workers  ’compensation officials may be found in the blue pages of a local telephone directory or at http  :If exposure occurred during employment with a Federal agency , medical expenses and other compensation may be covered by the Federal Employees ’ Compensation Program , which is administered by the DOL , Employment Standards Administration ’ s Office of Workers ’ Compensation Programs  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Benefits may also be provided to dependents if 
+
+		 	**ANTECEDENTE: the injury or disease causes the employee ’ s death . 
+
+>Número de linea:920 --  Benefits may also be provided to dependents if the injury or disease causes the employee ’ s death  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3 ** 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   *Testing is the only way to know if 
+
+		 	**ANTECEDENTE: your home has elevated radon levels . 
+
+>Número de linea:1018 --   *Testing is the only way to know if your home has elevated radon levels  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1038 --  Although the association between radon exposure  and smoking is not well understood  ,exposure to the combination of radon gas  and cigarette smoke creates a greater risk for lung cancer than either factor alone . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:   ,a mirror or picture frame  )that was at least  1 5years old  and had been in the person  ’s home throughout that time  ,even if 
+
+		 	**ANTECEDENTE: the person had moved from one home to another . 
+
+>Número de linea:1054 --   ,a mirror or picture frame  )that was at least  1 5years old  and had been in the person  ’s home throughout that time  ,even if the person had moved from one home to another  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  How can people know if 
+
+		 	**ANTECEDENTE: they have an elevated level of radon in their homes ? Testing is the only way to know if a person ’ s home has elevated radon levels . 
+
+>Número de linea:1058 --  How can people know if they have an elevated level of radon in their homes ? Testing is the only way to know if a person ’ s home has elevated radon levels  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1124 --  Although cigarette smoking is the main cause  ,anyone can develop lung cancer . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Lung cancer is always treatable  ,no matter the size  ,location  ,or if 
+
+		 	**ANTECEDENTE: the cancer has spread . 
+
+>Número de linea:1124 --  Lung cancer is always treatable  ,no matter the size  ,location  ,or if the cancer has spread  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1154 --  Although risk factors can influence the development of cancer  ,most do not directly cause cancer . 
+
+		 	**CLASIFICACIÓN:ALTHOUGH,EVEN THOUGH. ESTRUCTURA 38
+
+			Modificador encontrado: most , intensidad: 5 , contexto: , most do not directly 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Regular exposure to smoke from someone else  ’s cigarettes  ,cigars  ,or pipes  (called environmental or  “secondhand  ”tobacco smoke  )can increase a person  ’s risk of lung cancer even if 
+
+		 	**ANTECEDENTE: that person does not smoke . 
+
+>Número de linea:1158 --  Regular exposure to smoke from someone else  ’s cigarettes  ,cigars  ,or pipes  (called environmental or  “secondhand  ”tobacco smoke  )can increase a person  ’s risk of lung cancer even if that person does not smoke  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1171   If you are concerned about a symptom on this list , please talk with your doctor . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Symptoms of lung cancer may include  : *Fatigue  *Cough  *Shortness of breath  *Chest pain  ,if 
+
+		 	**ANTECEDENTE: a tumor invades a structure within the chest or involves the lining of the lung * Loss of appetite * Coughing up phlegm or mucus * Hemoptysis ( coughing up blood ) Although lung cancer can metastasize ( spread ) anywhere in the body , the most common sites of spread are the lymph nodes , lungs , bones , brain , liver , and structures near the kidneys called the adrenal glands . 
+
+>Número de linea:1191 --  Symptoms of lung cancer may include  : *Fatigue  *Cough  *Shortness of breath  *Chest pain  ,if a tumor invades a structure within the chest or involves the lining of the lung * Loss of appetite * Coughing up phlegm or mucus * Hemoptysis ( coughing up blood ) Although lung cancer can metastasize ( spread ) anywhere in the body , the most common sites of spread are the lymph nodes , lungs , bones , brain , liver , and structures near the kidneys called the adrenal glands  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+			Modificador encontrado: most , intensidad: 5 , contexto: the most common sites of 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1193 --  Symptoms such as fatigue  ,malaise  (feeling out  -of  -sorts or unwell  ), and loss of appetite are not necessarily due to metastases . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1197   Diagnosis Doctors use many tests to diagnose cancer  and determine if it has spread from the lung . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: many , intensidad: 5 , contexto: use many tests to diagnose 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1197   If a biopsy is not possible or more information is needed , the doctor may suggest other tests that will help make a diagnosis . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+			Modificador encontrado: more , intensidad: 5 , contexto: or more information is needed 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1213   If cancer cells are present , the pathologist will determine if it is small cell lung cancer or NSCLC , based on its appearance under the microscope . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1217   If there is reason to suspect lung cancer , the doctor may ask a person to cough up some phlegm so it can be examined under the microscope . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Therefore  ,it is important for doctors to know if 
+
+		 	**ANTECEDENTE: cancer started in the lungs or elsewhere . 
+
+>Número de linea:1253 --  Therefore  ,it is important for doctors to know if cancer started in the lungs or elsewhere  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1255   If , after these considerations , the doctor is still not sure where the cancer started , the doctor may give a diagnosis of metastatic cancer “ of unknown primary . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Staging With Illustrations Staging is a way of describing a cancer  ,such as where it is located  ,if 
+
+		 	**ANTECEDENTE: or where it has spread , and if it is affecting the functions of other organs in the body . 
+
+>Número de linea:1261 --  Staging With Illustrations Staging is a way of describing a cancer  ,such as where it is located  ,if or where it has spread , and if it is affecting the functions of other organs in the body  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Other situations that make a lung cancer impossible to remove are if 
+
+		 	**ANTECEDENTE: it has spread to the lymph nodes above the collarbone or into the fluid surrounding the lung , or if the cancer grows into vital structures within the chest , such as the heart , large blood vessels or the main breathing tubes leading to the lungs all of these conditions are considered stage IIIB . 
+
+>Número de linea:1289 --  Other situations that make a lung cancer impossible to remove are if it has spread to the lymph nodes above the collarbone or into the fluid surrounding the lung , or if the cancer grows into vital structures within the chest , such as the heart , large blood vessels or the main breathing tubes leading to the lungs all of these conditions are considered stage IIIB  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1336   If , for whatever reason , the surgeon cannot remove an entire lobe of the lung , the surgeon can remove the tumor in a procedure called a wedge , surrounded by a margin of normal lung . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2 ** 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1336   If the tumor is close to the center of the chest , the surgeon may have to perform a pneumonectomy ( surgery to remove the entire lung ) . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1348   If you need radiation therapy , you will be asked to see a specialist called a radiation oncologist . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2 ** 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1348 --  It also damages the normal cells caught in its path , and for this reason  ,it cannot be used to treat large areas of the body . 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1348   If radiation therapy is given to the neck , or center of the chest , patients may also develop a sore throat and have difficulty swallowing . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1350   If the radiation therapy irritates or inflames the lung , patients may develop a cough , fever , or shortness of breath months and sometimes years after the radiation therapy ends . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3 ** 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1350   If it is mild , radiation pneumonitis does not require treatment and resolves on its own . 
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1350   If it is severe , radiation pneumonitis may require treatment with steroid medications , such as prednisone . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1350 --  For this reason  ,radiation oncologists carefully plan the treatments using CT scans of the chest to minimize the amount of normal lung tissue exposed to the radiation beam . 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1378   If patients do not feel that the surgeon , radiation oncologist , or medical oncologist is communicating effectively with them or each other about the goals of treatment and the plan of care , patients should discuss this with their doctors or seek additional opinions before treatment . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 4
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1384 --  For this reason  ,doctors generally do not recommend immediate surgery , and sometimes suggest chemotherapy with surgery to follow . 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  After chemotherapy  ,patients with stage IIIa NSCLC may still undergo surgery  ,especially if 
+
+		 	**ANTECEDENTE: the chemotherapy is effective in killing or shrinking the cancer . 
+
+>Número de linea:1386 --  After chemotherapy  ,patients with stage IIIa NSCLC may still undergo surgery  ,especially if the chemotherapy is effective in killing or shrinking the cancer  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+			Modificador encontrado: especially , intensidad: 4 , contexto: , especially if the chemotherapy 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1386   Because chemotherapy travels throughout the body  ,if it is killing the cancer the doctors can see , it may also be killing the invisible cancer cells that may have spread from the original tumor . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  However  ,there is debate among doctors whether surgery is necessary for patients effectively treated with radiation therapy  and if 
+
+		 	**ANTECEDENTE: radiation therapy is needed in patients whose tumors are completely removed following treatment with chemotherapy . 
+
+>Número de linea:1388 --  However  ,there is debate among doctors whether surgery is necessary for patients effectively treated with radiation therapy  and if radiation therapy is needed in patients whose tumors are completely removed following treatment with chemotherapy  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: completely , intensidad: 5 , contexto: are completely removed following treatment 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1392 --  Patients with stage IV NSCLC or stage IIIb due to malignant pleural effusion  (cancer cells in the fluid around the lung  )are typically not treated with surgery or radiation therapy . 
+
+		 	**CLASIFICACIÓN:DUE TO, THANKS TO, OWING TO. ESTRUCTURA 24
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Rarely  ,doctors recommend that a brain or adrenal metastasis be removed surgically if 
+
+		 	**ANTECEDENTE: that is the only place the cancer has spread . 
+
+>Número de linea:1392 --  Rarely  ,doctors recommend that a brain or adrenal metastasis be removed surgically if that is the only place the cancer has spread  --
+
+
+		 	**CLASIFICACIÓN MIXTA DE VARIAS ESTRUCTURAS 
+
+			Modificador encontrado: Rarely , intensidad: 2 , contexto: . Rarely , doctors recommend 
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1412 --  For this reason  ,lung cancer that has spread to the brain is treated instead with radiation therapy  ,surgery  ,or both . 
+
+		 	**CLASIFICACIÓN:FOR THIS REASON, THEREFORE, AS A RESULT. ESTRUCTURA 23
+
+-------------------------------------------------------------------------------------------------
+
+
+>Número de linea:1443   Even if they do not benefit directly from the clinical trial , their participation may benefit future patients with lung cancer . 
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 3
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Ask your doctor which side effects are most likely to happen  (and which are not  ) ,when side effects are likely to occur , and how they will be addressed by the health care team if 
+
+		 	**ANTECEDENTE: they do happen . 
+
+>Número de linea:1452 --  Ask your doctor which side effects are most likely to happen  (and which are not  ) ,when side effects are likely to occur , and how they will be addressed by the health care team if they do happen  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2
+
+			Modificador encontrado: most , intensidad: 5 , contexto: are most likely to happen 
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  These patients will be asked to undergo additional biopsies to help plan therapy  and  ,if 
+
+		 	**ANTECEDENTE: part of a clinical trial , to aid the research to discover better ways to treat lung cancer . 
+
+>Número de linea:1498 --  These patients will be asked to undergo additional biopsies to help plan therapy  and  ,if part of a clinical trial , to aid the research to discover better ways to treat lung cancer  --
+
+
+		 	**CLASIFICACIÓN: FIRST CONDITIONAL ESTRUCTURA 2 ** 
+
+-------------------------------------------------------------------------------------------------
+      		 	**CONSECUENTE:  Consider asking the following questions of your doctor  :For all patients with lung cancer  : *What type of lung cancer do I have  ? *What is the stage of my lung cancer  ?What does this mean  ? *Should I see another doctor to assist in my care  ,such as a thoracic surgeon  ,radiation oncologist  ,medical oncologist , and  /or pulmonologist  ?What is the role of each doctor in my care  ? *Do I need additional scans or biopsies in order to plan my treatment  ? *Can you explain my pathology report  (laboratory test results  )to me  ? *What is the goal of my treatment  ? *What clinical trials are open to me  ? *What are the possible side effects of this treatment  ,both in the short term  and the long term  ? *How will this treatment affect my daily life  ?Will I be able to work  ,exercise , and perform my usual activities  ? *In addition to treating my cancer  ,what can be done to treat my symptoms  ? *Are there any other treatment options available to me  ? *What support services are available to me  ?To my family  ?For patients who will have surgery  : *What type of surgery will I have  ?Will lymph nodes be removed  ? *How long will the operation take  ? *How long will I be in the hospital  ? *Can you describe what my recovery from surgery will be like  ?For patients who are to receive chemotherapy  and targeted therapy  : *What are the names of the drugs , and how are they given  ? *What are the side effects of each medication  ?What side effects or problems should I watch for  ? *What can be done to lessen these side effects  ? *How often will I need to visit the doctor to receive the therapy , and how long will each visit take  ? *Will I be able to go to  and return from this treatment on my own  ,or should I arrange to have assistance  ?For patients who are to receive radiation therapy  : *How will my treatment be planned  ?What types of scans will be used  ? *Where will I receive radiation therapy  ? *How often will I receive radiation therapy  ? *How much time will each treatment take  ? *How much of the normal lung will be included in the radiation field  ? *Is it possible for me to receive chemotherapy with my radiation therapy  ?If 
+
+		 	**ANTECEDENTE: so , what are the added side effects of giving the chemotherapy at the same time , compared with one after another ? * Will I be able to go to and return from this treatment on my own , or should I arrange to have assistance ? For patients considering a clinical trial : * What are my options for standard treatment ? * What other treatments through clinical trials are available to me ? * How will my experience differ if I enroll in this clinical trial , as opposed to standard treatment ( different risks , extra tests or time commitment , schedule ) ? * What is the goal of this clinical trial ? Is this a phase I , II , or III clinical trial ? What does this mean ? * Where will I receive the clinical trial treatment ? For patients who have completed their treatment : * What are the chances that my cancer will return ? * Is there anything more I can do to reduce the chance that my cancer will return ? * What follow - up tests will I need and how often will I need them ? * What tests will I have during my follow - up visit ? For patients who smoke : * How can you help me to quit smoking ? 
+
+************************************************************************************************************
+RESULTADOS DEL ANALISIS:
+
+Numero de estructuras condicionales detectadas: 83
+Numero de estructuras condicionales desechadas: 0
+Numero de estructuras condicionales clasificadas 56
+Numero de estructuras condicionales no clasificadas: 26
+
+DIVISIÓN DE ESTRUCTURAS DETECTADAS:
+************************************************************************************************************
+
+
+ 16 ESTRUCTURAS DETECTADAS DE TIPO 2 
+
+ 14 ESTRUCTURAS DETECTADAS DE TIPO 3 
+
+ 3 ESTRUCTURAS DETECTADAS DE TIPO 4 
+
+ 6 ESTRUCTURAS DETECTADAS DE TIPO 23 
+
+ 7 ESTRUCTURAS DETECTADAS DE TIPO 24 
+
+ 10 ESTRUCTURAS DETECTADAS DE TIPO 38 

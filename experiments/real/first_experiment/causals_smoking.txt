@@ -1,0 +1,59 @@
+lung cancer -> symptoms, infrequently
+lung cancer -> bone pain, usually
+lung cancer -> symptoms, normally
+lung cancer -> symptoms, constantly
+lung cancer -> symptoms, infrequently
+lung cancer -> bone pain, usually
+tobacco use -> lung cancer, frequently
+lung cancer -> treatable, always
+lung cancer -> radiation therapy, always
+smoking -> lung cancer, normally
+treatable -> fatigue, often
+treatable -> loss of appetite, often
+lung cancer -> symptoms, sometimes
+workplace -> lung cancer, sometimes
+radon gas -> lung cancer, frequently
+lung cancer -> bleeding, occasionally
+lung cancer -> chemical imbalances, rarely
+lung cancer -> pain, sometimes
+lung cancer -> speech difficulties, occasionally
+lung cancer -> breathing difficulties, sometimes
+lung cancer -> metastasize, sometimes
+smoking -> lung cancer, often
+secondhand smoke -> lung cancer, hardly ever
+radon gas -> lung cancer, often
+lung cancer -> death, frequently
+tobacco use -> lung cancer, occasionally
+heavy smoking -> lung cancer, constantly
+tobacco use -> lung cancer, frequently
+lung cancer -> collect fluid, sometimes
+workplace -> lung cancer, sometimes
+secondhand smoke -> lung cancer, seldom
+secondhand smoke -> lung cancer, hardly ever
+radon gas -> lung cancer, constantly
+radon gas -> lung cancer, frequently
+workplace -> lung cancer, sometimes
+radon gas -> lung cancer, often
+smoking -> lung cancer, normally
+radon gas -> lung cancer, sometimes
+radon gas -> lung cancer, usually
+smoking -> lung cancer, frequently
+secondhand smoke -> lung cancer, frequently
+secondhand smoke -> lung cancer, sometimes
+tobacco use -> lung cancer, usually
+secondhand smoke -> lung cancer, usually
+secondhand smoke -> lung cancer, occasionally
+secondhand smoke -> lung cancer, sometimes
+seconhand smoke -> lung cancer, often
+lung cancer -> death, constantly
+lung cancer -> death, often
+lung cancer -> death, usually
+lung cancer -> death, usually
+tobacco use -> lung cancer, normally
+secondhand smoke -> lung cancer, sometimes
+secondhand smoke -> lung cancer, frequently
+tobacco use -> lung cancer, usually
+tobacco use -> lung cancer, constantly
+tobacco use -> lung cancer, usually
+secondhand smoke -> lung cancer, hardly ever
+heavy smoking -> lung cancer, constantly
